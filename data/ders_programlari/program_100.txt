@@ -1,0 +1,50 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=396&abn=27&y=33
+
+KLİNİK PSİKOLOJİ ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+PSK 523 ­ İleri Psikopatoloji I 3 0 0 3 7,5
+PSK 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+PSK 201 ­ Gelişim Psikolojisi I 3 0 0 3 7,5
+PSK 509 ­ Psikolojik Değerlendirme 3 0 0 3 7,5
+PSK 511 ­ Oyun Terapisi 3 0 0 3 7,5
+PSK 515 ­ Klinik Psikolojide Etik 3 0 0 3 7,5
+PSK 517 ­ Psikodinamik Psikoterapi 3 0 0 3 7,5
+PSK 519 ­ Psikofarmakoloji 3 0 0 3 7,5
+PSK 521 ­ Psikoterapide Seçme Konular 3 0 0 3 7,5
+PSK 522 ­ Varoluşçu Psikoterapi 3 0 0 3 7,5
+Total 6 0 0 6 15
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+PSK 524 ­ İleri Psikopatoloji II 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+PSK 102 ­ Psikolojiye Giriş II 3 0 0 3 7,5
+PSK 104 ­ Sosyal Psikoloji II 3 0 0 3 7,5
+PSK 510 ­ Bilişsel Davranışçı Terapi 3 0 0 3 7,5
+PSK 512 ­ Psikopatolojide Seçme Konular 3 0 0 3 7,5
+PSK 514 ­ Çift­Aile Psikoterapisi 3 0 0 3 7,5
+PSK 516 ­ Psikoloji Değerlendirme Süpervizyonu 3 0 0 3 7,5
+PSK 518 ­ Grup Psikoterapisi 3 0 0 3 7,5
+PSK 519 ­ Psikofarmakoloji 3 0 0 3 7,5
+PSK 520 ­ Kişilik ve Psikoterapi Kuramları 3 0 0 3 7,5
+PSK 522 ­ Varoluşçu Psikoterapi 3 0 0 3 7,5
+PSK 525 ­ Görüşme Teknikleri 3 0 0 3 7,5
+PSK 526 ­ Klinik Uygulama ve Süpervizyon 3 0 0 3 7,5
+Total 3 0 0 3 7,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+PSK 503 ­ Yüksek Lisans Projesi 0 0 0 0 12,5
+PSK 591 ­ Klinik Süpervizyon 1 6 0 7 10
+Total 1 6 0 7 22,5
+T P L HDS AKTS
+Genel Toplam 10 6 0 16 45
+Ders Saat Oranları %62,50 %37,50 %0,0018.06.2026 17:11:33
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 0 0
+Seçmeli Ders Oranı / AKTS Oranı %0,00 %0,00
+Zorunlu Ders Saati / AKTS Toplamı 16 45
+Zorunlu Ders Oranı / AKTS Oranı %100,00 %100,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

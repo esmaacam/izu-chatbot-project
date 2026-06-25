@@ -1,0 +1,83 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=579&abn=27&y=33
+
+ELEKTRİK­ELEKTRONİK MÜHENDİSLİĞİ (İNGİLİZCE) ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+EEM 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+EEM 505 ­ Enerji Sistemleri 3 0 0 3 7,5
+EEM 507 ­ Elektrik Güç Sistemlerinde Kontrol Teknikleri 3 0 0 3 7,5
+EEM 509 ­ Güç Sistemleri Güvenilirliğine Giriş 3 0 0 3 7,5
+EEM 511 ­ Elektrik Enerjisi İletimi ve Dağıtımı 3 0 0 3 7,5
+EEM 513 ­ Güç Sistemlerinde Özel Konular 3 0 0 3 7,5
+EEM 515 ­ Gömülü Sistem Tasarımı 3 0 0 3 7,5
+EEM 517 ­ İleri Güç Elektroniği 3 0 0 3 7,5
+EEM 519 ­ Analog Entegre Devre Tasarımı 3 0 0 3 7,5
+EEM 521 ­ Yarıiletken Teknolojisi 3 0 0 3 7,5
+EEM 523 ­ Elektronik Devrelerde Özel Konular 3 0 0 3 7,5
+EEM 525 ­ İleri Sayısal İşaret İşleme 3 0 0 3 7,5
+EEM 527 ­ Dijital Konuşma İşleme 3 0 0 3 7,5
+EEM 529 ­ Kablosuz Haberleşme 3 0 0 3 7,5
+EEM 531 ­ İleri Mikrodalga Mühendisliği 3 0 0 3 7,5
+EEM 533 ­ Haberleşme Sistemlerinde Özel Konular 3 0 0 3 7,5
+EEM 535 ­ Adaptif Kontrol Sistemleri 3 0 0 3 7,5
+EEM 537 ­ Doğrusal Olmayan Sistemler 3 0 0 3 7,5
+EEM 539 ­ Optimal Kontrol 3 0 0 3 7,5
+EEM 541 ­ Akıllı Kontrol 3 0 0 3 7,5
+EEM 543 ­ Kontrol Sistemlerinde Özel Konular 3 0 0 3 7,5
+EEM 545 ­ Derin Öğrenme 3 0 0 3 7,5
+EEM 547 ­ Elektrik Mühendisliğinde Matematiksel Yöntemler 3 0 0 3 7,5
+EEM 549 ­ Stokastik Süreçler 3 0 0 3 7,5
+Total 18 0 0 18 4518.06.2026 17:11:19
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+EEM 504 ­ Akıllı Şebekeler 3 0 0 3 7,5
+EEM 506 ­ Elektrik Güç Sistemlerinde Koruma Sistemleri 3 0 0 3 7,5
+EEM 508 ­ Yenilenebilir Enerji Kaynakları 3 0 0 3 7,5
+EEM 510 ­ Güç Sistemleri Harmonikleri 3 0 0 3 7,5
+EEM 512 ­ Elektrik Şebeke Kayıpları 3 0 0 3 7,5
+EEM 514 ­ Dijital Elektronik ve FPGA Tasarımı 3 0 0 3 7,5
+EEM 516 ­ Elektrik Motor Sürücüleri 3 0 0 3 7,5
+EEM 518 ­ Anahtarlamalı Güç Kaynaklarının Tasarımı 3 0 0 3 7,5
+EEM 520 ­ Endüstriyel Otomasyon Kontrol Sistemleri (PLC) 3 0 0 3 7,5
+EEM 522 ­ Sayısal VLSI Tasarımı 3 0 0 3 7,5
+EEM 524 ­ Antenler 3 0 0 3 7,5
+EEM 526 ­ Dijital Görüntü İşleme 3 0 0 3 7,5
+EEM 528 ­ Dijital Haberleşme 3 0 0 3 7,5
+EEM 530 ­ Sensör Ağları 3 0 0 3 7,5
+EEM 532 ­ Optik Haberleşme 3 0 0 3 7,5
+EEM 534 ­ İleri Kontrol Sistemleri 3 0 0 3 7,5
+EEM 536 ­ Bulanık Kontrol 3 0 0 3 7,5
+EEM 538 ­ Dayanıklı Kontrol Sistemleri 3 0 0 3 7,5
+EEM 540 ­ Sensörler, Aktuatörler ve Arayüzleme 3 0 0 3 7,5
+EEM 542 ­ Stokastik Kontrol 3 0 0 3 7,5
+EEM 544 ­ Makine Öğrenme 3 0 0 3 7,5
+EEM 546 ­ Mühendisler için Optimizasyon 3 0 0 3 7,5
+EEM 548 ­ Olasılık ve Rassal Süreçler 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+EEM 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+T P L HDS AKTS
+Genel Toplam 33 0 0 33 97,5
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 30 75
+Seçmeli Ders Oranı / AKTS Oranı %90,91 %76,92
+Zorunlu Ders Saati / AKTS Toplamı 3 22,5
+Zorunlu Ders Oranı / AKTS Oranı %9,09 %23,08
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

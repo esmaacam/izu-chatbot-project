@@ -1,0 +1,323 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=574&abn=28&y=33
+
+SPOR YÖNETİCİLİĞİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Lisans, TYYÇ: 6. Düzey, EQF­LLL: 6. Düzey, QF­EHEA: 1. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 101 ­ Atatürk İlkeleri ve İnkılap Tarihi I 2 0 0 2 3
+BSO 104 ­ Cimnastik 1 2 0 3 4
+FKS 001 ­ Fakülte Seçmeli Ders 3 0 0 3 3
+SPR 101 ­ Spor Bilimlerine Giriş 2 0 0 2 3
+SPR 103 ­ Yönetim Bİlimi 3 0 0 3 4
+SPR 105 ­ Spor Tarihi 2 0 0 2 3
+SPR 107 ­ Kariyer Planlaması 1 0 0 1 3
+TUR 101 ­ Türk Dili I 2 0 0 2 3
+YDL 101 ­ İngilizce I 3 0 0 3 4
+BÖLÜM SEÇMELİ DERSLER
+BSO 103 ­ İnsan Anatomisi ve Kinesiyoloji 3 0 0 3 3
+Total 19 2 0 21 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 102 ­ Atatürk İlkeleri ve İnkılap Tarihi II 2 0 0 2 3
+BIM 156 ­ Bilişim Teknolojileri 3 0 0 3 5
+BSO 106 ­ Atletizm 1 2 0 3 4
+FKS 002 ­ Fakülte Seçmeli Ders 2 0 0 2 3
+SPR 102  ­ Spor Yönetimi 2 0 0 2 2
+SPR 104  ­ Sporda İletişim ve Medya 3 0 0 3 3
+SPR 106 ­ Kamu Yönetimi ve Spor 2 0 0 2 3
+TUR 102 ­ Türk Dili II 2 0 0 2 3
+YDL 102 ­ İngilizce II 3 0 0 3 4
+BÖLÜM SEÇMELİ DERSLER
+SPR 108 ­ Egzersiz ve Spor Fizyolojisi 2 0 0 2 3
+Total 20 2 0 22 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+AES 001 ­ Alan Eğitimi Seçmeli Ders 2 0 0 2 4
+BSO 307 ­ Yüzme 1 2 0 3 3
+FKS 003 ­ Fakülte Seçmeli Ders 2 0 0 2 4
+ISL 205 ­ Sporda Muhasebe ve Finans Yönetimi 2 0 0 2 3
+SPR 201 ­ Spor Psikolojisi 2 0 0 2 3
+SPR 203 ­ Spor İşletmeciliği 3 0 0 3 4
+SPR 205 ­ Spor Organizasyonları 2 0 0 2 2
+SPR 209 ­ Kurumsal İletişim Yönetimİ 2 0 0 2 3
+TSS 001 ­ Takım Sporları Seçmeli I 1 2 0 3 4
+BÖLÜM SEÇMELİ DERSLER
+BSO 017 ­ Takım Sporları II: Basketbol 1 2 0 3 4
+SPR 211 ­ Genel Antrenman Bilgisi 2 0 0 2 4
+Total 17 4 0 21 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS18.06.2026 17:08:35
+AES 002 ­ Alan Eğitimi Seçmeli Ders 2 0 0 2 4
+BIM 232 ­ Sporda Bilişim Yönetimi 2 1 0 3 3
+IKT 216 ­ Spor Ekonomisi 2 0 0 2 3
+IZU ORT­1 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+SBS 001 ­ Seçmeli Bireysel ve Takım Sporları­I 1 2 0 3 4
+SOS 218 ­ Spor Sosyolojisi 2 0 0 2 3
+SPR 206 ­ Spor Tesisleri Yönetimi 2 0 0 2 3
+SPR 208 ­ Spor Örgütlerinde Liderlik 2 0 0 2 3
+TSS 001 ­ Takım Sporları Seçmeli I 1 2 0 3 4
+BÖLÜM SEÇMELİ DERSLER
+BSO 013 ­ Takım Sporları I: Futbol 1 2 0 3 4
+BSO 022 ­ Raket Sporu: Tenis 1 2 0 3 4
+BSO 032 ­ Güreş 1 2 0 3 4
+BSO 033 ­ Okçuluk 1 2 0 3 4
+BSO 034 ­ Vücut Geliştirme ve Fitness 1 2 0 3 4
+SFS 001 ­ Atıcılık I 1 2 0 3 4
+SFS 003 ­ Badminton I 1 2 0 3 4
+SFS 005 ­ Binicilik I 1 2 0 3 4
+SFS 007 ­ Bisiklet I 1 2 0 3 4
+SFS 009 ­ Bocce I 1 2 0 3 4
+SFS 011 ­ Boks I 1 2 0 3 4
+SFS 013 ­ Bowling I 1 2 0 3 4
+SFS 015 ­ Buz Hokeyi I 1 2 0 3 4
+SFS 017 ­ Buz Pateni I 1 2 0 3 4
+SFS 019 ­ Dağcılık I 1 2 0 3 4
+SFS 021 ­ Dart I 1 2 0 3 4
+SFS 023 ­ Eskrim I 1 2 0 3 4
+SFS 025 ­ Futsal / Salon Futbolu I 1 2 0 3 4
+SFS 027 ­ Goalball I 1 2 0 3 4
+SFS 029 ­ Golf I 1 2 0 3 4
+SFS 031 ­ Gösteri Cimnastiği I 1 2 0 3 4
+SFS 033 ­ Halter I 1 2 0 3 4
+SFS 035 ­ Havacılık I 1 2 0 3 4
+SFS 037 ­ Hokey I 1 2 0 3 4
+SFS 039 ­ İzcilik I 1 2 0 3 4
+SFS 041 ­ Judo I 1 2 0 3 4
+SFS 043 ­ Karate I 1 2 0 3 4
+SFS 045 ­ Kayak I 1 2 0 3 4
+SFS 047 ­ Kick Boks I 1 2 0 3 4
+SFS 049 ­ Kano I 1 2 0 3 4
+SFS 051 ­ Korumalı Futbol I 1 2 0 3 4
+SFS 053 ­ Korfbal I 1 2 0 3 4
+SFS 055 ­ Kürek I 1 2 0 3 4
+SFS 057 ­ Masa Tenisi I 1 2 0 3 4
+SFS 059 ­ Muay­Thai I 1 2 0 3 4
+SFS 061 ­ Oryantiring I 1 2 0 3 4
+SFS 063 ­ Pilates I 1 2 0 3 4
+SFS 065 ­ Plaj Voleybolu I 1 2 0 3 4
+SFS 067 ­ Rafting I 1 2 0 3 4
+SFS 069 ­ Ritmik Cimnastik (Kadın) I 1 2 0 3 4
+SFS 071 ­ Satranç I 1 2 0 3 4
+SFS 073 ­ Sörf I 1 2 0 3 4
+SFS 075 ­ Step Aerobik I 1 2 0 3 4
+SFS 077 ­ Su Kayağı I 1 2 0 3 4
+SFS 079 ­ Su Topu I 1 2 0 3 4
+SFS 081 ­ Squash I 1 2 0 3 4
+SFS 083 ­ Taekwondo I 1 2 0 3 4
+SFS 085 ­ Trekking I 1 2 0 3 4
+SFS 087 ­ Triatlon I 1 2 0 3 4
+SFS 089 ­ Wushu I 1 2 0 3 4
+SFS 091 ­ Yelken ve Rüzgar Sörfü I 1 2 0 3 4
+SFS 093 ­ Pickleball I 1 2 0 3 4
+SFS 095 ­ Snowboard I 1 2 0 3 4
+SFS 097 ­ Su altı Sporları I 1 2 0 3 4
+Total 16 5 0 21 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+AES 003 ­ Alan Eğitimi Seçmeli Ders III 2 0 0 2 4
+HUK 389 ­ Spor Hukuku 3 0 0 3 4
+SAY 327 ­ Temel Sağlık Bilgisi ve İlk Yardım 2 1 0 3 4
+SPR 301 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 5
+SPR 303 ­ Spor Pazarlaması 3 0 0 3 4
+SPR 309 ­ Mesleki Yabancı Dil­ I 3 0 0 3 5
+TSS 001 ­ Takım Sporları Seçmeli I 1 2 0 3 4
+BÖLÜM SEÇMELİ DERSLER
+BSO 019 ­ Takım Sporları I: Voleybol 1 2 0 3 4
+Total 17 3 0 20 30
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+AES 004 ­ Alan Eğitimi Seçmeli Ders IV 2 0 0 2 4
+ISL 308 ­ Sporda Örgütsel Davranış 3 0 0 3 5
+IST 304 ­ Sporda İstatistik 2 1 0 3 4
+SBS 002 ­ Seçmeli Bireysel ve Takım Sporları­II 1 2 0 3 4
+SPR 306 ­ Karşılaştırmalı Spor Yönetimi 2 0 0 2 4
+SPR 310 ­ Mesleki Yabancı Dil­ II 3 0 0 3 5
+TSS 001 ­ Takım Sporları Seçmeli I 1 2 0 3 4
+BÖLÜM SEÇMELİ DERSLER
+BSO 025 ­ Uzmanlık: Yüzme 1 2 0 3 4
+BSO 026 ­ Uzmanlık: Tenis 1 2 0 3 4
+BSO 028 ­ Uzmanlık: Basketbol 1 2 0 3 4
+BSO 030 ­ Uzmanlık: Atletizm 1 2 0 3 4
+BSO 035 ­ Takım Sporları I: Hentbol 1 2 0 3 4
+SFS 002 ­ Atıcılık II 1 2 0 3 4
+SFS 004 ­ Badminton II 1 2 0 3 4
+SFS 006 ­ Binicilik II 1 2 0 3 4
+SFS 008 ­ Bisiklet II 1 2 0 3 4
+SFS 010 ­ Bocce II 1 2 0 3 4
+SFS 012 ­ Boks II 1 2 0 3 4
+SFS 014 ­ Bowling II 1 2 0 3 4
+SFS 016 ­ Buz Hokeyi II 1 2 0 3 4
+SFS 018 ­ Buz Pateni II 1 2 0 3 4
+SFS 020 ­ Dağcılık II 1 2 0 3 4
+SFS 022 ­ Dart II 1 2 0 3 4
+SFS 024 ­ Eskrim II 1 2 0 3 4
+SFS 026 ­ Futsal / Salon Futbolu II 1 2 0 3 4
+SFS 028 ­ Goalball II 1 2 0 3 4
+SFS 030 ­ Golf II 1 2 0 3 4
+SFS 032 ­ Güreş II 1 2 0 3 4
+SFS 034 ­ Türk Halk Oyunları II 1 2 0 3 4
+SFS 036 ­ Halter II 1 2 0 3 4
+SFS 038 ­ Havacılık II 1 2 0 3 4
+SFS 040 ­ Hokey II 1 2 0 3 4
+SFS 042 ­ Judo II 1 2 0 3 4
+SFS 044 ­ Karate II 1 2 0 3 4
+SFS 046 ­ Kayak II 1 2 0 3 4
+SFS 048 ­ Kick Boks II 1 2 0 3 4
+SFS 050 ­ Kano II 1 2 0 3 4
+SFS 052 ­ Korumalı Futbol II 1 2 0 3 4
+SFS 054 ­ Korfbal II 1 2 0 3 4
+SFS 056 ­ Kürek II 1 2 0 3 4
+SFS 058 ­ Masa Tenisi II 1 2 0 3 4
+SFS 060 ­ Muay­Thai II 1 2 0 3 4
+SFS 062 ­ Okçuluk II 1 2 0 3 4
+SFS 064 ­ Oryantiring II 1 2 0 3 4
+SFS 066 ­ Pilates II 1 2 0 3 4
+SFS 068 ­ Rafting II 1 2 0 3 4
+SFS 070 ­ Ritmik Cimnastik (Kadın) II 1 2 0 3 4
+SFS 072 ­ Satranç II 1 2 0 3 4
+SFS 074 ­ Sörf II 1 2 0 3 4
+SFS 076 ­ Step Aerobik II 1 2 0 3 4
+SFS 078 ­ Su Kayağı II 1 2 0 3 4
+SFS 080 ­ Su Topu II 1 2 0 3 4
+SFS 082 ­ Squash II 1 2 0 3 4
+SFS 084 ­ Taekwondo II 1 2 0 3 4
+SFS 086 ­ Trekking II 1 2 0 3 4
+SFS 088 ­ Triatlon II 1 2 0 3 4
+SFS 090 ­ Vücut Geliştirme ve Fitness II 1 2 0 3 4
+SFS 092 ­ Wushu II 1 2 0 3 4
+SFS 094 ­ Yelken ve Rüzgar Sörfü II 1 2 0 3 4
+SFS 096 ­ Pickleball II 1 2 0 3 4
+SFS 098 ­ Snowboard II 1 2 0 3 4
+SFS 100 ­ Su altı Sporları II 1 2 0 3 4
+Total 14 5 0 19 30
+7. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+AES 005 ­ Alan Eğitimi Seçmeli Ders V 1 2 0 3 4
+ISL 405 ­ Girişimcilik ve Proje Yönetimi 2 2 0 4 6
+SPR 403 ­ Spor Bilimlerinde Araştırma Projesi­I 2 2 0 4 10
+SPR 405 ­ Spor Yönetiminde Örnek Olay Analizi 3 0 0 3 5
+SPR 407 ­ Sporda İnsan Kaynaklan Yönetimi 3 0 0 3 5
+Total 11 6 0 17 30
+8. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SPR 402 ­ İşletmede Mesleki Eğitim 0 24 0 24 20
+SPR 404 ­ Spor Bilimlerinde Araştırma Projesi­II 4 0 0 4 6
+SPR 406 ­ İşletmede Mesleki Eğitim Değerlendirme 4 0 0 4 4
+Total 8 24 0 32 30
+T P L HDS AKTS
+Genel Toplam 122 51 0 173 240
+Ders Saat Oranları %70,52 %29,48 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 9 13
+Seçmeli Ders Oranı / AKTS Oranı %5,20 %5,42
+Zorunlu Ders Saati / AKTS Toplamı 164 227
+Zorunlu Ders Oranı / AKTS Oranı %94,80 %94,58
+Üniversite Ortak Seçmeli Dersler
+DERS T P L HDS AKTS
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 005 ­ Etkili ve Sağlıklı İletişim 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 011 ­ Bilim Tarihi ve Felsefesi 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 010 ­ Sağlığı Koruma ve Geliştirme 2 0 0 2 3
+IZU 015 ­ Osmanlı Medeniyeti ve Kurumları 2 0 0 2 3
+IZU 014 ­ Dünya Klasikleri II (Doğu­Batı) 2 0 0 2 3
+IZU 012 ­ İşaret Dili 2 0 0 2 3
+IZU 019 ­ Türk Musikisi 1 2 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 037 ­ Osmanlı Paleografyasına Giriş 2 1 0 3 3
+IZU 039 ­ Osmanlıca Arşiv Uygulamaları 2 2 0 4 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 020 ­ Mantıksal ve Matematiksel Düşünme 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 022 ­ Medya ve İletişim 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 024 ­ Hüsn­i Hat 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 085 ­ Devlet ve Ekonomi 2 0 0 2 3
+IZU 086 ­ Gönüllülük Çalışmaları 2 0 0 2 3
+IZU 087 ­ İleri İşaret Dili 2 0 0 2 3
+IZU 089 ­ Sinema ve Eğitim 3 0 0 3 4
+IZU 090 ­ Türk ve İslam Sanatları Tarihi 2 0 0 2 3
+MTH 001 ­ Fikri ve Sınai Haklar (Patent­Marka­Tasarım) Genel Bakış 1 0 0 1 3
+MTH 002 ­ Kurumsal Sürdürülebilirlik Raporlaması ve TSRS (Türkiye
+Sürdürülebilirlik Raporlama Standartları) Uygulamaları2 0 0 2 3
+MTH 003 ­ Çevresel Sürdürülebilirlik 2 0 0 2 3
+IZU 042 ­ Arapça­A1 3 3 0 6 6
+IZU 043 ­ Arapça­A2 3 3 0 6 6
+IZU 050 ­ İngilizce­A1 3 3 0 6 6
+IZU 051 ­ İngilizce­A2 3 3 0 6 6
+IZU 052 ­ İngilizce­B1 3 3 0 6 6
+IZU 057 ­ Rusça­A1 3 3 0 6 6
+IZU 058 ­ Rusça­A2 3 3 0 6 6
+IZU 065 ­ İspanyolca­A2 3 3 0 6 6
+IZU 029 ­ Türkçe­A2 3 3 0 6 6
+IZU 030 ­ Türkçe­B1 3 3 0 6 6
+IZU 047 ­ Arapça­C1 3 3 0 6 6
+DERS T P L HDS AKTS
+HUK 263 ­ iş ve Sosyal Güvenlik Hukuku 2 0 0 2 4
+PSK 223 ­ Davranış Bilimleri 2 0 0 2 4
+SYS 001 ­ Sporda Şiddet ve Saldırganlık 2 0 0 2 4
+SYS 002 ­ Olimpik Hareket 2 0 0 2 4
+SYS 003 ­ Geleneksel Sporlar 2 0 0 2 4
+SYS 004 ­ Spor ve Çevre 2 0 0 2 4
+SYS 005 ­ Sporda Sponsorluk 2 0 0 2 4
+SYS 006 ­ Rekreasyon 2 0 0 2 4
+HUK 221 ­ İdare Hukuku 2 0 0 2 4
+HUK 264 ­ İnsan Hakları ve Spor 2 0 0 2 4
+POL 224 ­ Kamu Yönetimi 2 0 0 2 4
+POL 226 ­ Kamu Diplomasisi ve Spor 2 0 0 2 4
+SYS 007 ­ Spor ve Turizm 2 0 0 2 4
+SYS 008 ­ Sporda Gönüllülük 2 0 0 2 4
+SYS 009 ­ Sporda Sosyal Güvenlik 2 0 0 2 4
+SYS 010 ­ Spor Teknolojileri 2 0 0 2 4
+HUK 391 ­ Uluslararası Spor Hukuku 2 0 0 2 4
+POL 349 ­ Siyaset Bilimi 2 0 0 2 4
+SYS 011 ­ Kulüp Yönetimi 2 0 0 2 4
+SYS 012 ­ Sporcu Beslenmesi 2 0 0 2 4
+SYS 013 ­ Spor ve Medya 2 0 0 2 4
+SYS 014 ­ Sporda Risk Yönetimi 2 0 0 2 4
+SYS 015 ­ Spor Politikaları 2 0 0 2 4
+SYS 016 ­ Sporda Erdem 2 0 0 2 4
+HUK 378 ­ Spor Mevzuatı 2 0 0 2 4
+ISL 310 ­ Sporda Finansal Okur­Yazarlık 2 0 0 2 4
+PDR 020 ­ Ailede Bağımlılık Eğitimi 2 0 0 2 4
+POL 348 ­ Yerel Yönetimlerde Spor 2 0 0 2 4
+PSK 344 ­ Psikomotor Gelişim 2 0 0 2 4
+SYS 017 ­ Sporda Toplam Kalite Yönetimi 2 0 0 2 4
+SYS 018 ­ Engelliler İçin Beden Eğitimi ve Spor 2 0 0 2 4
+SYS 019 ­ Spor ve Rekreasyon Alanlarının Planlanması ve Tasarımı 2 0 0 2 4
+SYS 020 ­ Spor Yönetiminde İnovasyon 2 0 0 2 4
+SYS 021 ­ Sporda Hizmet İçi Eğitim 2 0 0 2 4
+BSO 025 ­ Uzmanlık: Yüzme 1 2 0 3 4
+BSO 027 ­  Uzmanlık: Cimnastik 1 2 0 3 4
+BSO 028 ­ Uzmanlık: Basketbol 1 2 0 3 4
+BSO 029 ­ Uzmanlık: Voleybol 1 2 0 3 4
+BSO 030 ­ Uzmanlık: Atletizm 1 2 0 3 4
+BSO 038 ­ Uzmanlık: Hentbol 1 2 0 3 4
+SYS 022 ­ Spor Masajı 1 2 0 3 4
+DERS T P L HDS AKTS
+GKS 014 ­ Türk Halk Oyunları 1 2 0 3 4

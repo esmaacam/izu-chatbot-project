@@ -1,0 +1,59 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=375&abn=27&y=33
+
+İNGİLİZ DİLİ EĞİTİMİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+ELT 502 ­ Sosyal Dilbilim 3 0 0 3 7,5
+ELT 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+ELT 503 ­ İngiliz Edebiyatı Tarihi I 3 0 0 3 7,5
+ELT 505 ­ İkinci Dil Edinimi 3 0 0 3 7,5
+ELT 507 ­ Dil Bilimi: Dilin Doğası 3 0 0 3 7,5
+ELT 509 ­ Yetişkinlere İngilizce Öğretimi 3 0 0 3 7,5
+ELT 511 ­ EFL Metodolojisi 3 0 0 3 7,5
+ELT 513 ­ İngilizce Öğretiminda Şiir ve Şarkılar 3 0 0 3 7,5
+ELT 515 ­ Edebi Metinlerin Analizi 3 0 0 3 7,5
+ELT 517 ­ Yabancı Dil Olarak İngilizce Sınıfında Teknoloji 3 0 0 3 7,5
+ELT 519 ­ İngilizce Öğretiminde Drama 3 0 0 3 7,5
+ELT 521 ­ İngilizce Öğretiminde Yeni Trendler 3 0 0 3 7,5
+ELT 523 ­ İleri Öğretim Dili Becerileri 3 0 0 3 7,5
+ELT 525 ­ Yunan Edebiyatından Günümüze Edebi Teoriler ve
+Eleştiriler3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+ELT 501 ­ Bitirme Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+ELT 007 ­ Dünya İngilizceleri ve Kültür 3 0 0 3 7,5
+ELT 502 ­ Sosyal Dilbilim 3 0 0 3 7,5
+ELT 504 ­ İngiliz Edebiyatı Tarihi II 3 0 0 3 7,5
+ELT 506 ­ Program Geliştirme ve Değerlendirme 3 0 0 3 7,5
+ELT 508 ­ Materyal Geliştirme 3 0 0 3 7,5
+ELT 510 ­ Dil Sınavı 3 0 0 3 7,5
+ELT 512 ­ İngilizce Öğretiminde Edebiyat ve Sinema 3 0 0 3 7,5
+ELT 514 ­ Yabancı Dil Olarak Türkçe Öğretimi 3 0 0 3 7,5
+ELT 516 ­ İngilizce Öğretiminde Kısa Hikayeler 3 0 0 3 7,5
+ELT 520 ­ Söylev (Discourse) Analizi 3 0 0 3 7,5
+ELT 526 ­ Yunan Edebiyatından Günümüze Edebi Teoriler ve
+Eleştiriler II3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ELT 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 6018.06.2026 17:09:57
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 120
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 15 37,5
+Seçmeli Ders Oranı / AKTS Oranı %65,22 %31,25
+Zorunlu Ders Saati / AKTS Toplamı 8 82,5
+Zorunlu Ders Oranı / AKTS Oranı %34,78 %68,75
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

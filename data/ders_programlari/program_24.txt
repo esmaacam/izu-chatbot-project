@@ -1,0 +1,333 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=98&abn=90&y=33
+
+ULUSLARARASI TİCARET VE FİNANSMAN 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Lisans, TYYÇ: 6. Düzey, EQF­LLL: 6. Düzey, QF­EHEA: 1. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BIM 150  ­ Bilgisayar ve Bilişim Teknolojileri 1 0 2 3 5
+IKT 111 ­ İktisada Giriş I 3 0 0 3 5
+ISL 101 ­ İşletmeye Giriş 3 0 0 3 5
+ISL 197 ­ Analitik Düşünce ve Matematik 2 0 0 2 3
+MAT 107 ­ İşletme ve İktisat İçin Matematik ­ I 3 0 0 3 5
+TUR 101 ­ Türk Dili I 2 0 0 2 3
+YDL 101 ­ İngilizce I 3 0 0 3 4
+Total 17 0 2 19 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+IKT 112 ­  İktisada Giriş II 3 0 0 3 5
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+HUK 150 ­ Hukuka Giriş 3 0 0 3 5
+ISL 198 ­ Akademik Okuma ve Yazma 2 0 0 2 3
+MAT 108 ­ İşletme ve İktisat İçin Matematik ­ II 3 0 0 3 5
+TUR 102 ­ Türk Dili II 2 0 0 2 3
+YDL 102 ­ İngilizce II 3 0 0 3 4
+BÖLÜM SEÇMELİ DERSLER
+BIM 217 ­ Programlamaya Giriş 3 0 0 3 5
+IEF 101 ­ İslami İlimlere Giriş 3 0 0 3 5
+IKT 211 ­ Çalışma Ekonomisi 3 0 0 3 5
+IKT 222 ­ İktisat Sosyolojisi 3 0 0 3 5
+ISL 199 ­ Mesleki Oryantasyon Seminerleri 3 0 0 3 5
+ISL 221 ­ Yönetim Bilimlerine Giriş 3 0 0 3 5
+POL 055 ­ Kamu Yönetimine Giriş 3 0 0 3 5
+POL 101 ­ Siyaset Bilimine Giriş 3 0 0 3 5
+POL 110 ­ Uluslararası İlişkilere Giriş 3 0 0 3 5
+PSK 105 ­ Felsefeye Giriş 3 0 0 3 5
+PSK 107 ­ Psikolojiye Giriş 3 0 0 3 5
+SHZ 217 ­ Sosyal Politika 3 0 0 3 5
+SOS 101 ­ Sosyolojiye Giriş 3 0 0 3 5
+UTF 290 ­ Uluslararası Ticaret ve Finansmana Giriş 3 0 0 3 5
+UTF 299 ­ Gönüllülük Çalışmaları 1 2 0 3 5
+Total 19 0 0 19 3018.06.2026 17:06:58
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 101 ­ Atatürk İlkeleri ve İnkılap Tarihi I 2 0 0 2 3
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+IKT 213 ­ Mikro İktisat 3 0 0 3 5
+ISL 201 ­ Finansal Muhasebe I 3 0 0 3 4
+ISL 222 ­ Pazarlama İlkeleri ve Yönetimi 3 0 0 3 5
+IST 211 ­ İstatistik I 3 0 0 3 5
+IZU ORT­1 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+BÖLÜM SEÇMELİ DERSLER
+BIM 217 ­ Programlamaya Giriş 3 0 0 3 5
+IEF 101 ­ İslami İlimlere Giriş 3 0 0 3 5
+IKT 211 ­ Çalışma Ekonomisi 3 0 0 3 5
+IKT 222 ­ İktisat Sosyolojisi 3 0 0 3 5
+ISL 199 ­ Mesleki Oryantasyon Seminerleri 3 0 0 3 5
+ISL 221 ­ Yönetim Bilimlerine Giriş 3 0 0 3 5
+POL 055 ­ Kamu Yönetimine Giriş 3 0 0 3 5
+POL 101 ­ Siyaset Bilimine Giriş 3 0 0 3 5
+POL 110 ­ Uluslararası İlişkilere Giriş 3 0 0 3 5
+PSK 105 ­ Felsefeye Giriş 3 0 0 3 5
+PSK 107 ­ Psikolojiye Giriş 3 0 0 3 5
+SHZ 217 ­ Sosyal Politika 3 0 0 3 5
+SOS 101 ­ Sosyolojiye Giriş 3 0 0 3 5
+UTF 290 ­ Uluslararası Ticaret ve Finansmana Giriş 3 0 0 3 5
+UTF 299 ­ Gönüllülük Çalışmaları 1 2 0 3 5
+Total 19 0 0 19 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 102 ­ Atatürk İlkeleri ve İnkılap Tarihi II 2 0 0 2 3
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+IKT 214 ­ Makro İktisat 3 0 0 3 5
+ISL 202 ­ Finansal Muhasebe II 3 0 0 3 4
+ISL 304 ­ Uluslararası Pazarlama 3 0 0 3 5
+IST 212 ­ İstatistik II 3 0 0 3 5
+IZU ORT­1 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+BÖLÜM SEÇMELİ DERSLER
+BIM 217 ­ Programlamaya Giriş 3 0 0 3 5
+IEF 101 ­ İslami İlimlere Giriş 3 0 0 3 5
+IKT 211 ­ Çalışma Ekonomisi 3 0 0 3 5
+IKT 222 ­ İktisat Sosyolojisi 3 0 0 3 5
+ISL 199 ­ Mesleki Oryantasyon Seminerleri 3 0 0 3 5
+ISL 221 ­ Yönetim Bilimlerine Giriş 3 0 0 3 5
+POL 055 ­ Kamu Yönetimine Giriş 3 0 0 3 5
+POL 101 ­ Siyaset Bilimine Giriş 3 0 0 3 5
+POL 110 ­ Uluslararası İlişkilere Giriş 3 0 0 3 5
+PSK 105 ­ Felsefeye Giriş 3 0 0 3 5
+PSK 107 ­ Psikolojiye Giriş 3 0 0 3 5
+SHZ 217 ­ Sosyal Politika 3 0 0 3 5
+SOS 101 ­ Sosyolojiye Giriş 3 0 0 3 5
+UTF 290 ­ Uluslararası Ticaret ve Finansmana Giriş 3 0 0 3 5
+UTF 299 ­ Gönüllülük Çalışmaları 1 2 0 3 5
+Total 19 0 0 19 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+HUK 354 ­ Borçlar Hukukuna Giriş 3 0 0 3 5
+UNS 001 ­ Üniversite Geneli Seçmeli Ders 3 0 0 3 5
+UNS 002 ­ Üniversite Geneli Seçmeli Ders 3 0 0 3 5
+UTF 301 ­ Uluslararası Ticaret 3 0 0 3 5
+UTF 311 ­ Finansal Yönetim I 3 0 0 3 5
+BÖLÜM SEÇMELİ DERSLER
+BIM 309 ­ Bilgi Güvenliği 3 0 0 3 5
+END 204 ­ Yöneylem Araştırması I 3 0 0 3 6
+END 318 ­ Sistem Analizine Giriş 3 0 0 3 5
+END 319 ­ Yönetim Bilişim Sistemleri 3 0 0 3 5
+END 351 ­ Üretim Yönetimi 3 0 0 3 5
+HUK 340 ­ Türk Vergi Sistemi 3 0 0 3 5
+HUK 340 ­ Türk Vergi Sistemi 3 0 0 3 5
+HUK 358 ­ Ticaret Hukukuna Giriş 3 0 0 3 5
+HUK 358 ­ Ticaret Hukukuna Giriş 3 0 0 3 5
+IEF 304 ­ İslam İktisat Analizi 3 0 0 3 5
+IEF 313 ­ İslam İktisat Tarihi 3 0 0 3 5
+IEF 316 ­ Osmanlı İktisat Tarihi 3 0 0 3 5
+IEF 321 ­ İslam Ticaret Hukuku ­ I 3 0 0 3 5
+IEF 322 ­ İslam Ticaret Hukuku ­ II 3 0 0 3 5
+IEF 325 ­ İslam İktisadı ve Para Politikası 3 0 0 3 5
+IEF 326 ­ İslam İktisat Yazını 3 0 0 3 5
+IEF 330 ­ İslami Finans ve Bankacılık 3 0 0 3 5
+IEF 332 ­ İslam Kamu Maliyesi 3 0 0 3 5
+IEF 333 ­ Uluslararası İslami Finansal Kurumlar 3 0 0 3 5
+IEF 335 ­ İslam İktisat Ahlakı 3 0 0 3 5
+IEF 336 ­ İslam İktisat Düşüncesi Tarihi 3 0 0 3 5
+IEF 339 ­ İslam Ülkeleri Ekonomileri 3 0 0 3 5
+IKT 301 ­ Ekonometri I 3 0 0 3 5
+IKT 302 ­ Ekonometri II 3 0 0 3 5
+IKT 303 ­ Ekonometriye Giriş 3 0 0 3 5
+IKT 305 ­ Para Teorisi ve Politikası 3 0 0 3 5
+IKT 306 ­ Maliye Teorisi ve Politikası 3 0 0 3 5
+IKT 341 ­ İleri Mikro İktisat 3 0 0 3 5
+IKT 342 ­ İleri Makro İktisat 3 0 0 3 5
+IKT 344 ­ Tarım Ekonomisi 3 0 0 3 5
+IKT 345 ­ Çevre Ekonomisi 3 0 0 3 5
+IKT 351 ­ Bilgi Ekonomisi ve Yönetimi 3 0 0 3 5
+IKT 352 ­ Para ve Bankacılık 3 0 0 3 5
+IKT 353 ­ Uluslararası Ekonomik Kuruluşlar 3 0 0 3 5
+IKT 354 ­ İktisadi Sistemler 3 0 0 3 5
+IKT 355 ­ Oyun Teorisi 3 0 0 3 5
+ISL 301 ­ İnsan Kaynakları Yönetimi 3 0 0 3 5
+ISL 302 ­ Örgütsel Liderlik 3 0 0 3 5
+ISL 304 ­ Uluslararası Pazarlama 3 0 0 3 5
+ISL 306 ­ Yönetim Muhasebesi 3 0 0 3 5
+ISL 306 ­ Yönetim Muhasebesi 3 0 0 3 5
+ISL 332 ­ Maliyet Muhasebesi 3 0 0 3 5
+ISL 332 ­ Maliyet Muhasebesi 3 0 0 3 5
+ISL 341 ­ İş Ahlakı 3 0 0 3 5
+ISL 352 ­ Tüketici Davranışı 3 0 0 3 5
+ISL 354 ­ Örgütsel Davranış 3 0 0 3 5
+ISL 371 ­ Bütünleşik Pazarlama İletişimi 3 0 0 3 5
+ISL 371 ­ Bütünleşik Pazarlama İletişimi 3 0 0 3 5
+ISL 381 ­ İşletme İletişimi 3 0 0 3 5
+POL 035 ­ Küreselleşme 3 0 0 3 5
+SHZ 304 ­ Yoksulluk ve Sosyal Yardım 2 0 0 2 5
+SHZ 342 ­ Sosyal Güvenlik Sistemleri 2 0 0 2 5
+SHZ 344 ­ Sosyal Kalkınma ve İstihdam Politikaları 2 0 0 2 5
+SOS 315 ­ Ekonomi ve Toplum 3 0 0 3 5
+SOS 320 ­ Endüstri Sosyolojisi 3 0 0 3 5
+TDE 317 ­ Drama 3 0 0 3 5
+UTF 331 ­ Lojistik 3 0 0 3 5
+UTF 331 ­ Lojistik 3 0 0 3 5
+UTF 333 ­ Uluslararası İşletmecilik 3 0 0 3 5
+UTF 333 ­ Uluslararası İşletmecilik 3 0 0 3 5
+UTF 334 ­ Uluslararası Örgütler 3 0 0 3 5
+UTF 334 ­ Uluslararası Örgütler 3 0 0 3 5
+UTF 336 ­ Sermaye Piyasası ve Araçları 3 0 0 3 5
+UTF 336 ­ Sermaye Piyasası ve Araçları 3 0 0 3 5
+UTF 337 ­ Uluslararası Ticaret ve Finansmanda Seçme Konular 3 0 0 3 5
+UTF 337 ­ Uluslararası Ticaret ve Finansmanda Seçme Konular 3 0 0 3 5
+UTF 338 ­ Dış Ticaret Muhasebesi 3 0 0 3 5
+UTF 338 ­ Dış Ticaret Muhasebesi 3 0 0 3 5
+UTF 340 ­ Veri Analizi 2 0 1 3 5
+UTF 340 ­ Veri Analizi 2 0 1 3 5
+UTF 341 ­ Makine Öğrenmesine Giriş 2 0 1 3 5
+UTF 341 ­ Makine Öğrenmesine Giriş 2 0 1 3 5
+UTF 399 ­ Staj ve Sektör Tecrübesi 0 3 0 3 5
+UTF 399 ­ Staj ve Sektör Tecrübesi 0 3 0 3 5
+Total 18 0 0 18 30
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+UNS 001 ­ Üniversite Geneli Seçmeli Ders 3 0 0 3 5
+UNS 002 ­ Üniversite Geneli Seçmeli Ders 3 0 0 3 5
+UTF 306 ­ Uluslararası Finans 3 0 0 3 5
+UTF 312 ­ Finansal Yönetim II 3 0 0 3 5
+UTF 332 ­ Dış Ticaret Politikaları 3 0 0 3 5
+BÖLÜM SEÇMELİ DERSLER
+BIM 309 ­ Bilgi Güvenliği 3 0 0 3 5
+END 204 ­ Yöneylem Araştırması I 3 0 0 3 6
+END 318 ­ Sistem Analizine Giriş 3 0 0 3 5
+END 319 ­ Yönetim Bilişim Sistemleri 3 0 0 3 5
+END 351 ­ Üretim Yönetimi 3 0 0 3 5
+HUK 340 ­ Türk Vergi Sistemi 3 0 0 3 5
+HUK 340 ­ Türk Vergi Sistemi 3 0 0 3 5
+HUK 358 ­ Ticaret Hukukuna Giriş 3 0 0 3 5
+HUK 358 ­ Ticaret Hukukuna Giriş 3 0 0 3 5
+IEF 304 ­ İslam İktisat Analizi 3 0 0 3 5
+IEF 313 ­ İslam İktisat Tarihi 3 0 0 3 5
+IEF 316 ­ Osmanlı İktisat Tarihi 3 0 0 3 5
+IEF 321 ­ İslam Ticaret Hukuku ­ I 3 0 0 3 5
+IEF 322 ­ İslam Ticaret Hukuku ­ II 3 0 0 3 5
+IEF 325 ­ İslam İktisadı ve Para Politikası 3 0 0 3 5
+IEF 326 ­ İslam İktisat Yazını 3 0 0 3 5
+IEF 330 ­ İslami Finans ve Bankacılık 3 0 0 3 5
+IEF 332 ­ İslam Kamu Maliyesi 3 0 0 3 5
+IEF 333 ­ Uluslararası İslami Finansal Kurumlar 3 0 0 3 5
+IEF 335 ­ İslam İktisat Ahlakı 3 0 0 3 5
+IEF 336 ­ İslam İktisat Düşüncesi Tarihi 3 0 0 3 5
+IEF 339 ­ İslam Ülkeleri Ekonomileri 3 0 0 3 5
+IKT 301 ­ Ekonometri I 3 0 0 3 5
+IKT 302 ­ Ekonometri II 3 0 0 3 5
+IKT 303 ­ Ekonometriye Giriş 3 0 0 3 5
+IKT 305 ­ Para Teorisi ve Politikası 3 0 0 3 5
+IKT 306 ­ Maliye Teorisi ve Politikası 3 0 0 3 5
+IKT 341 ­ İleri Mikro İktisat 3 0 0 3 5
+IKT 342 ­ İleri Makro İktisat 3 0 0 3 5
+IKT 344 ­ Tarım Ekonomisi 3 0 0 3 5
+IKT 345 ­ Çevre Ekonomisi 3 0 0 3 5
+IKT 351 ­ Bilgi Ekonomisi ve Yönetimi 3 0 0 3 5
+IKT 352 ­ Para ve Bankacılık 3 0 0 3 5
+IKT 353 ­ Uluslararası Ekonomik Kuruluşlar 3 0 0 3 5
+IKT 354 ­ İktisadi Sistemler 3 0 0 3 5
+IKT 355 ­ Oyun Teorisi 3 0 0 3 5
+ISL 301 ­ İnsan Kaynakları Yönetimi 3 0 0 3 5
+ISL 302 ­ Örgütsel Liderlik 3 0 0 3 5
+ISL 304 ­ Uluslararası Pazarlama 3 0 0 3 5
+ISL 306 ­ Yönetim Muhasebesi 3 0 0 3 5
+ISL 306 ­ Yönetim Muhasebesi 3 0 0 3 5
+ISL 332 ­ Maliyet Muhasebesi 3 0 0 3 5
+ISL 332 ­ Maliyet Muhasebesi 3 0 0 3 5
+ISL 341 ­ İş Ahlakı 3 0 0 3 5
+ISL 352 ­ Tüketici Davranışı 3 0 0 3 5
+ISL 354 ­ Örgütsel Davranış 3 0 0 3 5
+ISL 371 ­ Bütünleşik Pazarlama İletişimi 3 0 0 3 5
+ISL 371 ­ Bütünleşik Pazarlama İletişimi 3 0 0 3 5
+ISL 381 ­ İşletme İletişimi 3 0 0 3 5
+POL 035 ­ Küreselleşme 3 0 0 3 5
+SHZ 304 ­ Yoksulluk ve Sosyal Yardım 2 0 0 2 5
+SHZ 342 ­ Sosyal Güvenlik Sistemleri 2 0 0 2 5
+SHZ 344 ­ Sosyal Kalkınma ve İstihdam Politikaları 2 0 0 2 5
+SOS 315 ­ Ekonomi ve Toplum 3 0 0 3 5
+SOS 320 ­ Endüstri Sosyolojisi 3 0 0 3 5
+UTF 331 ­ Lojistik 3 0 0 3 5
+UTF 331 ­ Lojistik 3 0 0 3 5
+UTF 333 ­ Uluslararası İşletmecilik 3 0 0 3 5
+UTF 333 ­ Uluslararası İşletmecilik 3 0 0 3 5
+UTF 334 ­ Uluslararası Örgütler 3 0 0 3 5
+UTF 334 ­ Uluslararası Örgütler 3 0 0 3 5
+UTF 336 ­ Sermaye Piyasası ve Araçları 3 0 0 3 5
+UTF 336 ­ Sermaye Piyasası ve Araçları 3 0 0 3 5
+UTF 337 ­ Uluslararası Ticaret ve Finansmanda Seçme Konular 3 0 0 3 5
+UTF 337 ­ Uluslararası Ticaret ve Finansmanda Seçme Konular 3 0 0 3 5
+UTF 338 ­ Dış Ticaret Muhasebesi 3 0 0 3 5
+UTF 338 ­ Dış Ticaret Muhasebesi 3 0 0 3 5
+UTF 340 ­ Veri Analizi 2 0 1 3 5
+UTF 340 ­ Veri Analizi 2 0 1 3 5
+UTF 341 ­ Makine Öğrenmesine Giriş 2 0 1 3 5
+UTF 341 ­ Makine Öğrenmesine Giriş 2 0 1 3 5
+UTF 399 ­ Staj ve Sektör Tecrübesi 0 3 0 3 5
+UTF 399 ­ Staj ve Sektör Tecrübesi 0 3 0 3 5
+Total 18 0 0 18 30
+7. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+IKT 401 ­ Türkiye Ekonomisi 3 0 0 3 5
+UNS 001 ­ Üniversite Geneli Seçmeli Ders 3 0 0 3 5
+UNS 002 ­ Üniversite Geneli Seçmeli Ders 3 0 0 3 5
+BÖLÜM SEÇMELİ DERSLER
+EEE 415 ­ Yenilenebilir Enerji Sistemleri 3 0 0 3 5
+END 301 ­ Yöneylem Araştırması II 3 0 0 3 6
+END 403 ­ Tedarik Zinciri Yönetimi 3 0 0 3 5
+END 403 ­ Tedarik Zinciri Yönetimi 3 0 0 3 5
+END 406 ­ Proje Yönetimi 3 0 0 3 5
+END 416 ­ Karar Destek Sistemleri 3 0 0 3 5
+END 427 ­ Kalite Mühendisliği 3 0 0 3 5
+IEF 404 ­ İslam İktisat Sistemi 3 0 0 3 5
+IEF 407 ­ İslam İktisadının Kurumları 3 0 0 3 5
+IEF 408 ­ İslami Sigortacılık 3 0 0 3 5
+IEF 410 ­ İslami Finans Standartları ve Denetim 3 0 0 3 5
+IEF 411 ­ İslami Mikro Finans ve Kobiler 3 0 0 3 5
+IEF 414 ­ İslami Finans ve Sermaye Piyasaları 3 0 0 3 5
+IEF 415 ­ Türkiye'de Katılım Bankacılığı 3 0 0 3 5
+IEF 419 ­ İslami Finans ve Risk Yönetimi 3 0 0 3 5
+IEF 422 ­ Karşılaştırmalı İslam Ekonomisi 3 0 0 3 5
+IEF 425 ­ Katılım Finans Sektörünün Güncel Sorunları 3 0 0 3 5
+IEF 426 ­ Helal Turizm ve Pazarlama 3 0 0 3 5
+IEF 427 ­ İslami Finans Teknolojileri 3 0 0 3 5
+IEF 428 ­ İslami Sosyal Finans 3 0 0 3 5
+IEF 429 ­ Güncel Finans Uygulamalarının Fıkhi Analizi 3 0 0 3 5
+IEF 430 ­ İslam Hukuk İlkeleri 3 0 0 3 5
+IEF 432 ­ İslami Finans Kurumları için Muhasebe 3 0 0 3 5
+IEF 433 ­ İslam İktisadında Vaka Analizi 3 0 0 3 5
+IKT 403 ­ İktisadi Büyüme 3 0 0 3 5
+IKT 404 ­ İktisadi Kalkınma 3 0 0 3 5
+IKT 408 ­ İktisadi Düşünce Tarihi 3 0 0 3 5
+IKT 441 ­ Uygulamalı Ekonometri 1 0 2 3 5
+IKT 442 ­ Bölgesel İktisadi Kalkınma 3 0 0 3 5
+IKT 443 ­ Sosyal ve İktisadi Ağlar 3 0 0 3 5
+IKT 451 ­ Türkiye­Avrupa Birliği Ekonomik İlişkileri 3 0 0 3 5
+IKT 452 ­ Türkiye Ekonomisinin Güncel Sorunları 3 0 0 3 5
+IKT 453 ­ Ekonomi Politik 3 0 0 3 5
+IKT 454 ­ Finansal İktisat 3 0 0 3 5
+IKT 455 ­ Davranışsal İktisat 3 0 0 3 5
+IKT 456 ­ Dünya Ekonomisi 3 0 0 3 5
+IKT 456 ­ Dünya Ekonomisi 3 0 0 3 5
+IKT 457 ­ Enerji Ekonomisi 3 0 0 3 5
+IKT 461 ­ Sağlık Ekonomisi 3 0 0 3 5
+IKT 462 ­ Kurumsal İktisat 3 0 0 3 5
+IKT 463 ­ Dijital Ekonomi 3 0 0 3 5
+IKT 466 ­ Davranışsal Finans 3 0 0 3 5
+ISF 406 ­ Değerler Eğitimi 2 0 0 2 5
+ISF 410 ­ İslam Ahlak Felsefesi 2 0 0 2 5
+ISL 401 ­ Kalite Yönetimi 3 0 0 3 5
+ISL 402 ­ Denetim 3 0 0 3 5
+ISL 402 ­ Denetim 3 0 0 3 5
+ISL 403 ­ Örgütsel Değişim Yönetimi 3 0 0 3 5
+ISL 411 ­ Satış Yönetimi 3 0 0 3 5
+ISL 412 ­ Stratejik Yönetim 3 0 0 3 5
+ISL 421 ­ Marka Yönetimi 3 0 0 3 5
+ISL 422 ­ Şirketler Muhasebesi 3 0 0 3 5
+ISL 422 ­ Şirketler Muhasebesi 3 0 0 3 5
+ISL 426 ­ Yönetim Becerileri 3 0 0 3 5
+ISL 432 ­ Sektörel Analizler 3 0 0 3 5
+ISL 434 ­ Varlık Değerleme 3 0 0 3 5
+ISL 442 ­ Yatırım Analizi ve Portföy Yönetimi 3 0 0 3 5
+ISL 442 ­ Yatırım Analizi ve Portföy Yönetimi 3 0 0 3 5
+ISL 452 ­ Pazarlama Araştırması 3 0 0 3 5
+ISL 461 ­ İşletme Simülasyonu 3 0 0 3 5
+ISL 461 ­ İşletme Simülasyonu 3 0 0 3 5
+ISL 462 ­ Sosyal Girişimcilik 3 0 0 3 5
+ISL 468 ­ Müşteri İlişkileri Yönetimi 3 0 0 3 5
+ISL 471 ­ Girişimcilik 3 0 0 3 5

@@ -1,0 +1,50 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=362&abn=27&y=33
+
+DİN HİZMETLERİNDE İLETİŞİM VE TEBLİĞ ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+DTİ 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+DTİ 505 ­ Kur'an'da ve Sünnette Tebliğ ve İrşat Usulü 3 0 0 3 7,5
+DTİ 507 ­ Karşılaştırmalı Din ve İnanç Sistemleri 3 0 0 3 7,5
+DTİ 509 ­ Tasavvuf / İrfan Geleneğinde İrşat 3 0 0 3 7,5
+DTİ 511 ­ Çağdaş Dinî ve Mezhepsel Akımlar 3 0 0 3 7,5
+DTİ 513 ­ İslam Medeniyetinde Tebliğ ve İrşat Önderleri 3 0 0 3 7,5
+DTİ 515 ­ Çağdaş İletişim Yöntem ve Teknikleri 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 006 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 007 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 009 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 010 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+DTİ 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+DTİ 506 ­ Dini Temsil ve İletişimde Çağdaş Yaklaşımlar 3 0 0 3 7,5
+DTİ 508 ­ Din Hizmetlerinde Dil, İletişim ve Etik 3 0 0 3 7,5
+DTİ 510 ­ Münazara ve Müzakere Teknikleri 3 0 0 3 7,5
+DTİ 511 ­ Çağdaş Dinî ve Mezhepsel Akımlar 3 0 0 3 7,5
+DTİ 512 ­ Çağdaş Fıkhî ve Ahlâkî Problemler 3 0 0 3 7,5
+DTİ 513 ­ İslam Medeniyetinde Tebliğ ve İrşat Önderleri 3 0 0 3 7,5
+DTİ 514 ­ İslamofobi ve Din Dili 3 0 0 3 7,5
+Total 17 0 0 17 45
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+DTİ 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+T P L HDS AKTS
+Genel Toplam 32 0 0 32 97,5
+Ders Saat Oranları %100,00 %0,00 %0,0018.06.2026 17:11:15
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 27 67,5
+Seçmeli Ders Oranı / AKTS Oranı %84,38 %69,23
+Zorunlu Ders Saati / AKTS Toplamı 5 30
+Zorunlu Ders Oranı / AKTS Oranı %15,63 %30,77
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

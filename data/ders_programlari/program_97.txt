@@ -1,0 +1,60 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=389&abn=27&y=33
+
+İŞLETME ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+ISL 505 ­ İşletme Yönetimi 3 0 0 3 7,5
+ISL 595 ­ Akademik Yazma Becerileri 3 0 0 3 7,5
+ISL 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+ISL 509 ­ Pazarlama Yönetimi 3 0 0 3 7,5
+ISL 513 ­ E­Ticaret 3 0 0 3 7,5
+ISL 517 ­ Marka Yönetimi 3 0 0 3 7,5
+ISL 519 ­ Girişimcilik 3 0 0 3 7,5
+ISL 527 ­ İşletmelerde Yönetim ve Liderlik 3 0 0 3 7,5
+ISL 529 ­ Bilgi Ekonomisi ve Yönetimi 3 0 0 3 7,5
+ISL 533 ­ Tedarik Zinciri Yönetimi 3 0 0 3 7,5
+ISL 535 ­ Finansal Piyasalar ve Kurumlar 3 0 0 3 7,5
+ISL 537 ­ Üretim Yönetimi 3 0 0 3 7,5
+ISL 539 ­ Finansal Yönetim 3 0 0 3 7,5
+ISL 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+UKB 505 ­ Uluslararası Finans 3 0 0 3 7,5
+Total 21 0 0 21 52,5
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+ISL 508 ­ Stratejik Yönetim 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+ISL 502 ­ İnsan Kaynakları Yönetimi 3 0 0 3 7,5
+ISL 504 ­ Proje Yönetimi 3 0 0 3 7,5
+ISL 512 ­ Satış Yönetimi 3 0 0 3 7,5
+ISL 514 ­ Kurumsal Finansman 3 0 0 3 7,5
+ISL 516 ­ Örgütsel Davranış 3 0 0 3 7,5
+ISL 518 ­ Mali Tablolar Analizi 3 0 0 3 7,5
+ISL 519 ­ Girişimcilik 3 0 0 3 7,5
+ISL 528 ­ İşletme Simülasyonu 3 0 0 3 7,5
+ISL 532 ­ Uluslararası Finans 3 0 0 3 7,5
+ISL 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ISL 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 1518.06.2026 17:11:27
+T P L HDS AKTS
+Genel Toplam 36 0 0 36 105
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 24 60
+Seçmeli Ders Oranı / AKTS Oranı %66,67 %57,14
+Zorunlu Ders Saati / AKTS Toplamı 12 45
+Zorunlu Ders Oranı / AKTS Oranı %33,33 %42,86
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

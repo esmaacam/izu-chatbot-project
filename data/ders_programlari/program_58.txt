@@ -1,0 +1,68 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=355&abn=27&y=33
+
+BESLENME VE DİYETETİK ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BES 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+BES 505 ­ İleri Beslenme I 3 0 0 3 7,5
+BES 507 ­ Besin Destekleri ve Toplum Sağlığı 3 0 0 3 7,5
+BES 509 ­ Gastrointestinal Hastalıklarda Beslenme Tedavisi 3 0 0 3 7,5
+BES 511 ­ Beslenme ve Epigenetik 3 0 0 3 7,5
+BES 513 ­ Beslenme ve Davranış 3 0 0 3 7,5
+BES 515 ­ Besin Hijyeni 3 0 0 3 7,5
+BES 519 ­ Beslenme Durumunun Değerlendirilmesi ve Antropometri 3 0 0 3 7,5
+BES 521 ­ Dünya Mutfakları 3 0 0 3 7,5
+BES 523 ­ Besin Alımı ve Vücut Ağırlığının Denetimi 3 0 0 3 7,5
+BES 525 ­ Beslenmede Gıda Kompozisyonu ve Veri Üretimi 3 0 0 3 7,5
+BES 527 ­ Klinik Beslenmede Sorunlar I 3 0 0 3 7,5
+BES 529 ­ Sporcu Beslenmesi 3 0 0 3 7,5
+BES 531 ­ İşlevsel Besinler 3 0 0 3 7,5
+BES 533 ­ Fermente Gıdalar ve Probiyotikler 3 0 0 3 7,5
+BES 537 ­ Beslenme Biyokimyası 3 0 0 3 7,5
+BES 539 ­ Nutrigenetik 3 0 0 3 7,5
+BES 541 ­ Nutrasötikler 3 0 0 3 7,5
+BES 543 ­ Besin­İlaç Etkileşimi 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BES 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+BES 506 ­ İleri Beslenme Il 3 0 0 3 7,5
+BES 508 ­ Besin Alerjileri ve Beslenme Tedavisi 3 0 0 3 7,5
+BES 510 ­ Endokrin Hastalıklarında Beslenme Tedavisi 3 0 0 3 7,5
+BES 512 ­ Besin Bilimi ve Teknolojisi 3 0 0 3 7,5
+BES 514 ­ Beslenme Ekolojisi 3 0 0 3 7,5
+BES 516 ­ Besin Zincirinde Sürdürülebilirlik 3 0 0 3 7,5
+BES 518 ­ Beslenme Eğitimi 3 0 0 3 7,5
+BES 520 ­ Beslenme Epidemiyolojisi 3 0 0 3 7,5
+BES 524 ­ İştah Kontrolünde Hormonal Mekanizmalar 3 0 0 3 7,5
+BES 528 ­ Klinik Beslenmede Sorunlar II 3 0 0 3 7,5
+BES 531 ­ İşlevsel Besinler 3 0 0 3 7,5
+BES 534 ­ Beslenme ve Genetik 3 0 0 3 7,5
+Total 11 0 0 11 3018.06.2026 17:09:41
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BES 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BES 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 180
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %25,00
+Zorunlu Ders Saati / AKTS Toplamı 5 135
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %75,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

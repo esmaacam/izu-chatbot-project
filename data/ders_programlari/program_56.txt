@@ -1,0 +1,52 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=444&abn=27&y=33
+
+TEMEL İSLAM BİLİMLERİ ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TİB 621 ­ Kur'an'ın Ana Konuları 3 0 0 3 7,5
+TİB 623 ­ Hadisin Anlaşılmasında Yöntem 3 0 0 3 7,5
+TİB 625 ­ Arap Dili ve Edebiyatı Temel Kaynaklar 3 0 0 3 7,5
+TİB 627 ­ Mukayeseli Tasavvuf Metinleri 3 0 0 3 7,5
+TİB 629 ­ İslam Hukuku Metinleri 3 0 0 3 7,5
+TİB 631 ­ Hadis Tahrici ve Tenkidi 3 0 0 3 7,5
+TİB 635 ­ İslam İlimleri Klasik Metin Okumaları 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 006 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 007 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+TİB 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+TİB 622 ­ Tasavvuf Metafiziği 3 0 0 3 7,5
+TİB 624 ­ İslam Hukukunda Hikmet­i Teşri 3 0 0 3 7,5
+TİB 626 ­ Kelam İlminin Temel Meseleleri 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TİB 600­1  ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TİB 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TİB 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 240
+Ders Saat Oranları %100,00 %0,00 %0,0018.06.2026 17:09:34
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 21 52,5
+Seçmeli Ders Oranı / AKTS Oranı %91,30 %21,88
+Zorunlu Ders Saati / AKTS Toplamı 2 187,5
+Zorunlu Ders Oranı / AKTS Oranı %8,70 %78,13
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

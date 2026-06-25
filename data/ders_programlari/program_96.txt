@@ -1,0 +1,61 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=379&abn=27&y=33
+
+İSLAM EKONOMİSİ VE FİNANSI (İNGİLİZCE) ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+IEC 543 ­ İslam Ekonomisi 3 0 0 3 7,5
+IEC 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+IEC 507 ­ İslam İktisat Düşüncesi ve Tarihi 3 0 0 3 7,5
+IEC 509 ­ İslam Hukuk Metodolojisi 3 0 0 3 7,5
+IEC 523 ­ İleri Mikroekonomi 3 0 0 3 7,5
+IEC 525 ­ Uygulamalı Zaman Serisi Ekonometrisi 3 0 0 3 7,5
+IEC 527 ­ Tekafül 3 0 0 3 7,5
+IEC 529 ­ İslami Finans Kurumları için Muhasebe 3 0 0 3 7,5
+IEC 531 ­ İslam Ekonomisi ve Finansı için Matematiksel Yöntemler 3 0 0 3 7,5
+IEC 533 ­ Osmanlı İmparatorluğunun İktisadi ve Mali Tarihi 3 0 0 3 7,5
+IEC 535 ­ İslam Ülkeleri Ekonomileri 3 0 0 3 7,5
+IEC 536 ­ İslam Ticaret Hukuku 3 0 0 3 7,5
+IEC 547 ­ İktisat ve Finans Teorisi 3 0 0 3 7,5
+IEC 551 ­ İslami Finans Kurumlarında Risk Yönetimi 3 0 0 3 7,5
+IEC 643 ­ Katılım Bankacılığı Pazarlaması 3 0 0 3 7,5
+Total 18 0 0 18 45
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+IEC 544 ­ İslami Finans 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+IEC 502 ­ İslam Ticaret Hukuku 3 0 0 3 7,5
+IEC 514 ­ İslami Sermaye Piyasaları 3 0 0 3 7,5
+IEC 516 ­ Mukayeseli Konvansiyonel ve Faizsiz Bankacılık 3 0 0 3 7,5
+IEC 518 ­ Çağdaş Ekonomik Sistemler ve İslam Ekonomisi 3 0 0 3 7,5
+IEC 520 ­ İleri Mikroekonomi 3 0 0 3 7,5
+IEC 522 ­ İslami Finans Kurumları için Risk Yönetimi 3 0 0 3 7,5
+IEC 524 ­ Uygulamalı Panel Veri ve Yatay Kesit Ekonometrisi 3 0 0 3 7,5
+IEC 526 ­ İslam Hukuk İlkeleri 3 0 0 3 7,5
+IEC 528 ­ İslam Ekonomisinde İleri Konular 3 0 0 3 7,5
+IEC 530 ­ İslam Finansında İleri Konular 3 0 0 3 7,5
+IEC 532 ­ Yönetimde Sosyal Sorumluluk ve Etik 3 0 0 3 7,5
+IEC 566 ­ Osmanlı Ekonomisi ve Finansı 3 0 0 3 7,5
+Total 12 0 0 12 3018.06.2026 17:11:24
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+IEC 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+T P L HDS AKTS
+Genel Toplam 30 0 0 30 90
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 21 52,5
+Seçmeli Ders Oranı / AKTS Oranı %70,00 %58,33
+Zorunlu Ders Saati / AKTS Toplamı 9 37,5
+Zorunlu Ders Oranı / AKTS Oranı %30,00 %41,67
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

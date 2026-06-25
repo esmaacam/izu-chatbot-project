@@ -1,0 +1,47 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=361&abn=27&y=33
+
+DİN HİZMETLERİNDE İLETİŞİM VE TEBLİĞ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+DTİ 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+DTİ 505 ­ Kur'an'da ve Sünnette Tebliğ ve İrşat Usulü 3 0 0 3 7,5
+DTİ 507 ­ Karşılaştırmalı Din ve İnanç Sistemleri 3 0 0 3 7,5
+DTİ 509 ­ Tasavvuf / İrfan Geleneğinde İrşat 3 0 0 3 7,5
+DTİ 511 ­ Çağdaş Dinî ve Mezhepsel Akımlar 3 0 0 3 7,5
+DTİ 513 ­ İslam Medeniyetinde Tebliğ ve İrşat Önderleri 3 0 0 3 7,5
+DTİ 515 ­ Çağdaş İletişim Yöntem ve Teknikleri 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+DTİ 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+DTİ 506 ­ Dini Temsil ve İletişimde Çağdaş Yaklaşımlar 3 0 0 3 7,5
+DTİ 508 ­ Din Hizmetlerinde Dil, İletişim ve Etik 3 0 0 3 7,5
+DTİ 511 ­ Çağdaş Dinî ve Mezhepsel Akımlar 3 0 0 3 7,5
+DTİ 512 ­ Çağdaş Fıkhî ve Ahlâkî Problemler 3 0 0 3 7,5
+DTİ 513 ­ İslam Medeniyetinde Tebliğ ve İrşat Önderleri 3 0 0 3 7,5
+Total 5 0 0 5 15
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+DTİ 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+DTİ 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 17 0 0 17 165
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 12 30
+Seçmeli Ders Oranı / AKTS Oranı %70,59 %18,18
+Zorunlu Ders Saati / AKTS Toplamı 5 135
+Zorunlu Ders Oranı / AKTS Oranı %29,41 %81,82
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi18.06.2026 17:09:50

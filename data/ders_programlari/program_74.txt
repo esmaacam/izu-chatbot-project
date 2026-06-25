@@ -1,0 +1,56 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=401&abn=27&y=33
+
+MİMARLIK ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+MIM 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+MIM 503 ­ Çağdaş Ahşap Yapılar 3 0 0 3 7,5
+MIM 504 ­ Tarihi Çevre Koruma ve Restorasyon 3 0 0 3 7,5
+MIM 505 ­ Kentsel Tasarım ve Peyzaj Mimarlığı 3 0 0 3 7,5
+MIM 507 ­ Yapım Ekonomisi 3 0 0 3 7,5
+MIM 508 ­ Mimari Sunumda Canlandırma 3 0 0 3 7,5
+MIM 509 ­ Rölöve Teknikleri 3 0 0 3 7,5
+MIM 511 ­ Osmanlı Mimari Kültürü ve Sanatı 3 0 0 3 7,5
+MIM 513 ­ Turizm Binaları Planlama İlkeleri 3 0 0 3 7,5
+MIM 515 ­ Koruma Kavramları 3 0 0 3 7,5
+MIM 517 ­ Depreme Dayanıklı Yapıların Tasarımı 3 0 0 3 7,5
+MIM 519 ­ Kentsel Dönüşüm ve Uygulamaları 3 0 0 3 7,5
+MIM 521 ­ Mimarlıkta Görsel Algılama ve Düşünme 3 0 0 3 7,5
+MIM 523 ­ Enerji Etkin Bina Tasarımı 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+MIM 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+MIM 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+MIM 504 ­ Tarihi Çevre Koruma ve Restorasyon 3 0 0 3 7,5
+MIM 506 ­ Mimari Eleştiri 3 0 0 3 7,5
+MIM 510 ­ Kentsel Yaşam Kalitesi ve Parametreleri 3 0 0 3 7,5
+MIM 512 ­ Konutların Gelişim Süreci 3 0 0 3 7,5
+MIM 514 ­ Türk – İslam Sanatı 3 0 0 3 7,5
+MIM 516 ­ Yapı Malzemelerinin Yapıdaki Performansı 3 0 0 3 7,5
+MIM 520 ­ Mimari Tasarımda Erişilebilirlik 3 0 0 3 7,5
+MIM 522 ­ Mimari Görselleştirme Teknikleri 3 0 0 3 7,5
+Total 14 0 0 14 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MIM 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 6018.06.2026 17:10:25
+T P L HDS AKTS
+Genel Toplam 26 0 0 26 127,5
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %69,23 %35,29
+Zorunlu Ders Saati / AKTS Toplamı 8 82,5
+Zorunlu Ders Oranı / AKTS Oranı %30,77 %64,71
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

@@ -1,0 +1,222 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=57&abn=53&y=33
+
+ENDÜSTRİ MÜHENDİSLİĞİ (%30 İNGİLİZCE) 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Lisans, TYYÇ: 6. Düzey, EQF­LLL: 6. Düzey, QF­EHEA: 1. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BIM 157 ­ Bilgisayar ve Bilişim Teknolojileri I 1 0 1 2 2
+END 101 ­ Endüstri Mühendisliğine Giriş 3 0 0 3 4
+FIZ 103 ­ Fizik I Laboratuvarı 0 0 2 2 2
+FIZ 105 ­ Fizik I 3 0 0 3 4
+KIM 101 ­ Genel Kimya 3 0 0 3 5
+MAT 115 ­ Matematik I 4 0 0 4 6
+TUR 101 ­ Türk Dili I 2 0 0 2 3
+YDL 105 ­ İleri İngilizce I 3 0 0 3 4
+Total 19 0 3 22 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BIM 158 ­ Bilgisayar ve Bilişim Teknolojileri II 1 0 1 2 3
+END 110 ­ Bilgisayar Destekli Teknik Çizim 1 0 2 3 5
+FIZ 104 ­ Fizik II Laboratuvarı 0 0 2 2 2
+FIZ 106 ­ Fizik II 3 0 0 3 4
+IZU ORT­2 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+MAT 116 ­ Matematik II 4 0 0 4 6
+TUR 102 ­ Türk Dili II 2 0 0 2 3
+YDL 106 ­ İleri İngilizce II 3 0 0 3 4
+Total 16 0 5 21 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 101 ­ Atatürk İlkeleri ve İnkılap Tarihi I 2 0 0 2 3
+BIM 217 ­ Programlamaya Giriş 3 0 0 3 5
+END 207 ­ Endüstri Mühendisleri için İşletme Yönetimi 3 0 0 3 5
+IKT 219 ­ İktisada Giriş 3 0 0 3 5
+IST 211 ­ İstatistik I 3 0 0 3 5
+IZU ORT­3 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+MAT 104 ­ Lineer Cebir 3 0 0 3 4
+Total 19 0 0 19 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 102 ­ Atatürk İlkeleri ve İnkılap Tarihi II 2 0 0 2 3
+END 204 ­ Yöneylem Araştırması I 3 0 0 3 6
+END 206 ­ Mühendislik Ekonomisi 3 0 0 3 4
+END 210 ­ Üretim Teknolojileri 2 0 0 2 2
+ISL 252 ­ Yönetim ve Maliyet Muhasebesi 2 1 0 3 5
+IST 212 ­ İstatistik II 3 0 0 3 5
+MAT 222 ­ Diferansiyel Denklemler 3 0 0 3 5
+Total 18 1 0 19 3018.06.2026 17:07:29
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+END 301 ­ Yöneylem Araştırması II 3 0 0 3 6
+END 303 ­ Üretim Planlama ve Kontrol 3 0 0 3 5
+END 307 ­ İşbilim 3 0 0 3 4
+END 323 ­ Araştırma ve Rapor Yazma Teknikleri 2 0 0 2 2
+END 391 ­ Staj I 0 0 0 0 5
+IZU ORT­5 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+BÖLÜM SEÇMELİ DERSLER
+END 302 ­ AR­GE Yönetimi 3 0 0 3 5
+END 312 ­ Deney Tasarımı 3 0 0 3 5
+END 316 ­ Veri Tabanı Yönetimi Sistemleri 3 0 0 3 5
+END 317 ­ Bilgisayarla Bütünleşik Üretim Sistemleri 3 0 0 3 5
+END 319 ­ Yönetim Bilişim Sistemleri 3 0 0 3 5
+END 324 ­ Dijital Dönüşüm Yönetimi 3 0 0 3 5
+END 344 ­ Tesis Tasarımı ve Planlaması 3 0 0 3 5
+END 404 ­ Stratejik Yönetim 3 0 0 3 5
+END 412 ­ Bakım Yönetimi 3 0 0 3 5
+END 414 ­ Hizmet Sistemleri 3 0 0 3 5
+END 415 ­ Bilgi Yönetimi 3 0 0 3 5
+END 416 ­ Karar Destek Sistemleri 3 0 0 3 5
+END 417 ­ Kurumsal Kaynak Planlaması 3 0 0 3 5
+END 418 ­ Malzeme ve Lojistik Yönetimi 3 0 0 3 5
+END 419 ­ Ürün ve Süreç Tasarımı 3 0 0 3 5
+END 420 ­ Yalın Üretim 3 0 0 3 5
+END 421 ­ Veri Madenciliği 3 0 0 3 5
+END 422 ­ Tahmin ve Zaman Serileri 3 0 0 3 5
+END 423 ­ Sistem Geliştirme Döngüsü 3 0 0 3 5
+END 424 ­ Çok Kriterli Karar Verme Teknikleri 3 0 0 3 5
+END 426 ­ İnsan Kaynakları Yönetimi 3 0 0 3 5
+END 428 ­ Çizelgeleme 3 0 0 3 5
+END 429 ­ Yapay Zeka ve Uzman Sistemler 3 0 0 3 5
+END 430 ­ Yöneylem Araştırmasında Stokastik Modeller 3 0 0 3 5
+END 433 ­ Risk Analizi ve Yönetimi 3 0 0 3 5
+END 434 ­ İş Analizine Giriş 3 0 0 3 5
+END 435 ­ Endüstriyel Yenilikçilik ve Girişimcilik 3 0 0 3 5
+ISL 222 ­ Pazarlama İlkeleri ve Yönetimi 3 0 0 3 5
+MTH 361 ­ Veriyle Yönetilen İnsan Kaynakları:İstatistiksel Yaklaşımlar
+ve Öngörüler (Tübitak)3 0 0 3 5
+UTF 311 ­ Finansal Yönetim I 3 0 0 3 5
+Total 16 0 0 16 30
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+END 304 ­ İş Etüdü 3 0 0 3 5
+END 308 ­ Karar Teorisi 3 0 0 3 5
+END 314 ­ Benzetim 2 0 1 3 5
+END 318 ­ Sistem Analizine Giriş 3 0 0 3 5
+END 392 ­ Staj II 0 0 0 0 5
+HUK 374 ­ Endüstri Mühendisleri İçin iş Hukuku 2 0 0 2 2
+MUH 302 ­ Disiplinler Arası Araştırma ve Uygulama Tasarımı 1 0 0 1 3
+Total 14 0 1 15 30
+7. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+END 403 ­ Tedarik Zinciri Yönetimi 3 0 0 3 5
+END 406 ­ Proje Yönetimi 3 0 0 3 5
+END 425 ­ Yönetim ve Organizasyon 3 0 0 3 5
+END 427 ­ Kalite Mühendisliği 3 0 0 3 5
+END 431 ­ Bitirme Çalışması I 2 0 2 4 7
+IZU ORT­7 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+Total 16 0 2 18 30
+8. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+END 438 ­ Bitirme Çalışması II 2 0 4 6 7
+ISG 402 ­ İş Sağlığı ve Güvenliği 2 0 0 2 3
+BÖLÜM SEÇMELİ DERSLER
+END 302 ­ AR­GE Yönetimi 3 0 0 3 5
+END 312 ­ Deney Tasarımı 3 0 0 3 5
+END 316 ­ Veri Tabanı Yönetimi Sistemleri 3 0 0 3 5
+END 317 ­ Bilgisayarla Bütünleşik Üretim Sistemleri 3 0 0 3 5
+END 319 ­ Yönetim Bilişim Sistemleri 3 0 0 3 5
+END 324 ­ Dijital Dönüşüm Yönetimi 3 0 0 3 5
+END 344 ­ Tesis Tasarımı ve Planlaması 3 0 0 3 5
+END 404 ­ Stratejik Yönetim 3 0 0 3 5
+END 412 ­ Bakım Yönetimi 3 0 0 3 5
+END 414 ­ Hizmet Sistemleri 3 0 0 3 5
+END 415 ­ Bilgi Yönetimi 3 0 0 3 5
+END 416 ­ Karar Destek Sistemleri 3 0 0 3 5
+END 417 ­ Kurumsal Kaynak Planlaması 3 0 0 3 5
+END 418 ­ Malzeme ve Lojistik Yönetimi 3 0 0 3 5
+END 419 ­ Ürün ve Süreç Tasarımı 3 0 0 3 5
+END 420 ­ Yalın Üretim 3 0 0 3 5
+END 421 ­ Veri Madenciliği 3 0 0 3 5
+END 422 ­ Tahmin ve Zaman Serileri 3 0 0 3 5
+END 423 ­ Sistem Geliştirme Döngüsü 3 0 0 3 5
+END 424 ­ Çok Kriterli Karar Verme Teknikleri 3 0 0 3 5
+END 426 ­ İnsan Kaynakları Yönetimi 3 0 0 3 5
+END 428 ­ Çizelgeleme 3 0 0 3 5
+END 429 ­ Yapay Zeka ve Uzman Sistemler 3 0 0 3 5
+END 430 ­ Yöneylem Araştırmasında Stokastik Modeller 3 0 0 3 5
+END 433 ­ Risk Analizi ve Yönetimi 3 0 0 3 5
+END 434 ­ İş Analizine Giriş 3 0 0 3 5
+END 435 ­ Endüstriyel Yenilikçilik ve Girişimcilik 3 0 0 3 5
+ISL 222 ­ Pazarlama İlkeleri ve Yönetimi 3 0 0 3 5
+MTH 462 ­ Milli Teknoloji Hamlesi 3 0 0 3 5
+MUH 402 ­ İş Yerinde Mesleki Eğitim Uygulaması 3 0 0 3 20
+UTF 311 ­ Finansal Yönetim I 3 0 0 3 5
+Total 16 0 4 20 30
+T P L HDS AKTS
+Genel Toplam 134 1 15 150 240
+Ders Saat Oranları %89,33 %0,67 %10,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 23 37
+Seçmeli Ders Oranı / AKTS Oranı %15,33 %15,42
+Zorunlu Ders Saati / AKTS Toplamı 127 203
+Zorunlu Ders Oranı / AKTS Oranı %84,67 %84,58
+Üniversite Ortak Seçmeli Dersler
+DERS T P L HDS AKTS
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 005 ­ Etkili ve Sağlıklı İletişim 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 011 ­ Bilim Tarihi ve Felsefesi 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 010 ­ Sağlığı Koruma ve Geliştirme 2 0 0 2 3
+IZU 015 ­ Osmanlı Medeniyeti ve Kurumları 2 0 0 2 3
+IZU 014 ­ Dünya Klasikleri II (Doğu­Batı) 2 0 0 2 3
+IZU 012 ­ İşaret Dili 2 0 0 2 3
+IZU 019 ­ Türk Musikisi 1 2 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 037 ­ Osmanlı Paleografyasına Giriş 2 1 0 3 3
+IZU 039 ­ Osmanlıca Arşiv Uygulamaları 2 2 0 4 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 020 ­ Mantıksal ve Matematiksel Düşünme 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 022 ­ Medya ve İletişim 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 024 ­ Hüsn­i Hat 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 085 ­ Devlet ve Ekonomi 2 0 0 2 3
+IZU 086 ­ Gönüllülük Çalışmaları 2 0 0 2 3
+IZU 087 ­ İleri İşaret Dili 2 0 0 2 3
+IZU 089 ­ Sinema ve Eğitim 3 0 0 3 4
+IZU 090 ­ Türk ve İslam Sanatları Tarihi 2 0 0 2 3
+MTH 001 ­ Fikri ve Sınai Haklar (Patent­Marka­Tasarım) Genel Bakış 1 0 0 1 3
+MTH 002 ­ Kurumsal Sürdürülebilirlik Raporlaması ve TSRS (Türkiye
+Sürdürülebilirlik Raporlama Standartları) Uygulamaları2 0 0 2 3
+MTH 003 ­ Çevresel Sürdürülebilirlik 2 0 0 2 3
+IZU 042 ­ Arapça­A1 3 3 0 6 6
+IZU 043 ­ Arapça­A2 3 3 0 6 6
+IZU 050 ­ İngilizce­A1 3 3 0 6 6
+IZU 051 ­ İngilizce­A2 3 3 0 6 6
+IZU 052 ­ İngilizce­B1 3 3 0 6 6
+IZU 057 ­ Rusça­A1 3 3 0 6 6
+IZU 058 ­ Rusça­A2 3 3 0 6 6
+IZU 065 ­ İspanyolca­A2 3 3 0 6 6
+IZU 029 ­ Türkçe­A2 3 3 0 6 6
+IZU 030 ­ Türkçe­B1 3 3 0 6 6
+IZU 047 ­ Arapça­C1 3 3 0 6 6
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

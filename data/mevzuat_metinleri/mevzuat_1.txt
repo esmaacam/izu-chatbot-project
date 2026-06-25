@@ -1,0 +1,61 @@
+URL: https://www.izu.edu.tr/arastirma/kutuphane/hakkimizda/kutuphane-kilavuzu
+
+
+
+
+İstanbul Sabahattin Zaim Üniversitesi 2011-2012 öğrenim yılında eğitime başlamıştır. İZÜ Kütüphanesi de eş zamanlı olarak hizmete açılmıştır.
+
+Üniversitedeki eğitim-öğretime en verimli şekilde destek vermek için sürekli olarak kendimizi geliştirmeyi hedefliyoruz. Bu düşünce ile basılı kitap, süreli yayın vs. kaynakların yanında yeterli miktarda elektronik veri tabanlarını da hizmete sunuyoruz.
+
+Bürüt 13.500 m2 alanı, aynı anda 1.000’den fazla kişinin faydalanabildiği Merkez Kütüphanemiz İstanbul’un en büyük kütüphanelerinden biridir. Basılı kitap sayımız 130.000’i geçmiştir. Kullanıma sunulan elektronik kitaplarla birlikte kitap sayımız yarım milyonun üzerindedir.
+
+Öğrenci ve personelimizin kampüs dışından da elektronik kaynaklardan faydalanmaları mümkündür. 
+Aradığımız bir kitabın kütüphanede olup–olmadığını, ya da bir konuda kütüphanede hangi kaynakların olduğunu öğrenmek için “katalog taraması” yapmamız gerekir.
+Arama yapmak istediğimiz anahtar kelimeyi “Aramanızı girin” ibaresi bulunan alana yazarak aratmamız gerekmektedir. Anahtar kelimeyi alan kısıtlaması yapmadan genel olarak taratabileceğimiz gibi “eser adı, yazar, sorumlular, konu başlıkları, sınıflama, ISBN” vs. alanlardan birini seçmek suretiyle de tarama yapabiliriz. Aradığımız kaynaklar kütüphanede var ise, listesi ekrana gelecektir. Listedeki bir künyenin üzerine tıkladığımızda ilgili yayına ait katalog bilgileri ekrana gelecektir.
+Katalog Bilgilerini Okumak
+Katalog bilgilerinden yayının ulaşabilmemiz için sınıflama ve durum başlıkları altında yer verilen bilgilere dikkat etmemiz gerekmektedir.
+Aradığımız eserin tam olarak hangi rafta ve hangi sırada olduğunu gösteren bilgidir. Aşağıdaki örnek görüntüde “Amak-ı hayal” isimli esere ulaşabilmek için sağ tarafta yer alan (PL 248.3 A36/A43) bilginin not edilmesi gerekmektedir. Ayrıca aşağıdaki resimde işaretlenmiş olan "rafta" ve "iade tarihi" bilgilerinden de eserlerin kütüphanede yada ödünçte olup olmadığı bilgisine ulaşmaktayız. Eğer "rafta" ibaresi varsa kitap kütüphanede, "iade tarihi" ibaresi varsa kitap ödünçtedir. 
+
+LC Sınıflama Sistemi (Library of Congress Classification)
+LC Sınıflandırma Sisteminde konuları ifade için A’dan Z’ye kadar olan harfler kullanılmıştır.
+
+Bu sistemde konular aşağıdaki harflerle ifade edilmektedir;
+
+A - Genel Eserler
+B - Felsefe, Psikoloji, Din
+C - Tarihle ilgili yan bilimler
+D - Dünya, Avrupa, Asya, Avusturalya, Yeni Zelanda vd. tarihleri
+E - Amerika tarihi
+F - Amerika tarihi
+G - Coğrafya, Antropoloji
+H - Sosyal bilimler
+J - Siyasal bilimler
+K - Hukuk
+L - Eğitim
+M - Müzik
+N - Güzel sanatlar
+P - Dil ve Edebiyat
+Q - Fen
+R - Tıp
+S - Tarım
+T - Teknoloji
+U - Askeri bilimler
+V - Deniz bilimleri
+Z - Bibliyografya, Kütüphanecilik, Genel bilgi kaynakları
+Raf Düzeni ve Aradığımız Kitaba Ulaşmak:
+
+Kitaplar, sırtlarındaki etiketlerde yazılı bulunan “Sınıflama” harf ve rakamlarına göre alfabetik olarak raflara yerleştirilmektedir. Sözlüklerde olduğu gibi A’dan Z’ye harfler sıralanırken, aynı harfi (veya harfleri) taşıyan kitapların sıralanmasında bir alt sıradaki rakamlar dikkate alınmaktadır. Harfler ile birlikte rakamlarda aynı ise bir sonraki sırada bulunan bilgiler dikkate alınacaktır.
+
+Örneğin; LC Sınıflama Sistemi’nde “D” harfi tarih alanındaki eserleri gösterir. “D” harfinin yanına başka harfler eklenmesiyle tarih alanındaki alt konu başlıkları meydana gelir. Bir örnek olarak; “R” harfinin eklenmesiyle meydana gelen “DR” alt kümesinde Doğu Avrupa, Balkan Yarımadası ve Türkiye konuları yer alır. “DR” den sonra gelen rakam ise bir sonraki alt kümeyi oluşturur. Mesela; “DR 439” Genel Türkiye Tarihi konulu eserleri içerir.
+
+Yukarıdaki kitaplar LC sınıflandırma sistemine göre sıralanarak yerleştirilmiştir. Görüldüğü gibi kitaplar sınıflamalarında yer alan harflere göre alfabetik olarak soldan sağa doğru sıralanmıştır.
+BP, DR, HF, PL
+
+Yukarıda “N” harfi ile başlayan kitaplar doğru şekilde dizilmiştir. “N” den sonra gelen harfler soldan sağa doğru alfabetik olarak sıralanmıştır. Ayrıca sınıflamada salt “N” ibaresine sahip kitabın diğerlerinden “NA, NB, ND” den önce geldiği görülmektedir. N, NA, NB, ND
+
+
+Yukarıda “BP” sınıflamasına sahip kitaplar numaralarına göre soldan sağa doğru küçükten büyüğe sıralanmıştır. Rakamsal olarak küçük değere sahip sınıflamalar sıralamada solda yer almaktadır. Bulamadığınız kitaplar için kütüphanecilere danışınız.
+Kullandığınız kitapların raflarına konulmadan, masada bırakılması gerekmektedir.
+
+2026 ©
+İstanbul Sabahattin Zaim Üniversitesi

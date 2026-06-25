@@ -1,0 +1,56 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=428&abn=27&y=33
+
+İÇ HASTALIKLARI HEMŞİRELİĞİ ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+HEM 601 ­ İleri İç Hastalıkları Hemşireliği I 3 0 0 3 7,5
+HEM 605 ­ İleri Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+HEM 603 ­ Hemşirelikte Kuram ve Modeller 3 0 0 3 7,5
+HEM 607 ­ Kardiyoloji Hemşireliği 3 0 0 3 7,5
+HEM 609 ­ Onkoloji Hemşireliği 3 0 0 3 7,5
+HEM 611 ­ Nefroloji Hemşireliği 3 0 0 3 7,5
+HEM 613 ­ Sağlık Hizmetlerinde Kalite ve Akreditasyon 3 0 0 3 7,5
+HEM 615 ­ Sağlık Hizmetlerinde Manevi Bakım 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+HEM 602 ­ İleri İç Hastalıkları Hemşireliği II 3 0 0 3 7,5
+HEM 604 ­ İç Hastalıkları Hemşireliği Klinik Uygulama 3 0 0 3 7,5
+HEM 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+HEM 608 ­ Diyabet Hemşireliği 3 0 0 3 7,5
+HEM 610 ­ Rehabilitasyon Hemşireliği 3 0 0 3 7,5
+HEM 613 ­ Sağlık Hizmetlerinde Kalite ve Akreditasyon 3 0 0 3 7,5
+HEM 614 ­ Stratejik Sağlık Yönetimi 3 0 0 3 7,5
+HEM 616 ­ Makale Yazma 3 0 0 3 7,5
+HEM 618 ­ Kritik İç Hastalıkları Hemşireliği 3 0 0 3 7,5
+HEM 620 ­ Semptom Yönetimi 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+HEM 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+İİH 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 60
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+HEM 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+HEM 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 12018.06.2026 17:08:52
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 270
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 9 22,5
+Seçmeli Ders Oranı / AKTS Oranı %39,13 %8,33
+Zorunlu Ders Saati / AKTS Toplamı 14 247,5
+Zorunlu Ders Oranı / AKTS Oranı %60,87 %91,67
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

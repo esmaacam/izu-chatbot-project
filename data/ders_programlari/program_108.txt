@@ -1,0 +1,76 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=423&abn=27&y=33
+
+ULUSLARARASI FİNANS VE KATILIM BANKACILIĞI ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+UKB 543 ­ İslam Ekonomisi 3 0 0 3 7,5
+UKB 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+ISL 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+UKB 505 ­ Uluslararası Finans 3 0 0 3 7,5
+UKB 521 ­ Kredi Analizi 3 0 0 3 7,5
+UKB 527 ­ Finansal Yönetim 3 0 0 3 7,5
+UKB 535 ­ Uluslararası İslami Bankacılık 3 0 0 3 7,5
+UKB 537 ­ İslam Hukuk Metodolojisi 3 0 0 3 7,5
+UKB 541 ­ Katılım Bankacılığı Pazarlaması 3 0 0 3 7,5
+UKB 547 ­ İktisat ve Finans Teorisi 3 0 0 3 7,5
+UKB 549 ­ Uluslararası İslami Finans Kurumları 3 0 0 3 7,5
+UKB 553 ­ İleri Makroekonomi 3 0 0 3 7,5
+UKB 555 ­ Uygulamalı Zaman Serisi Ekonometrisi 3 0 0 3 7,5
+UKB 557 ­ İslam Ekonomisi ve Finansı için Matematiksel Yöntemler 3 0 0 3 7,5
+UKB 561 ­ İslam İktisat Analizi 3 0 0 3 7,5
+UKB 563 ­ Fıkıh ve Çağdaş Finansal İşlemler 3 0 0 3 7,5
+UKB 565 ­ Osmanlı Ekonomisi ve Finansı 3 0 0 3 7,5
+UKB 567 ­ Türkiye Ekonomisi 3 0 0 3 7,5
+Total 12 0 0 12 3018.06.2026 17:11:56
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 006 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 007 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+UKB 544 ­ İslami Finans 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+UKB 506 ­ Kurumsal Finansman 3 0 0 3 7,5
+UKB 518 ­ Çağdaş Ekonomik Sistemler ve İslam Ekonomisi 3 0 0 3 7,5
+UKB 528 ­ Mukayeseli Konvansiyonel ve Faizsiz Bankacılık 3 0 0 3 7,5
+UKB 531 ­ İslam İktisat Düşüncesi ve Tarihi 3 0 0 3 7,5
+UKB 536 ­ İslam Ticaret Hukuku 3 0 0 3 7,5
+UKB 538 ­ İktisat Politikası 3 0 0 3 7,5
+UKB 546  ­ İslam Hukuk İlkeleri 3 0 0 3 7,5
+UKB 548 ­ Faizsiz Finansal Kurumlar ve Araçlar 3 0 0 3 7,5
+UKB 550 ­ İslami Finans Kurumlarında Risk Yönetimi 3 0 0 3 7,5
+UKB 552 ­ İleri Mikroekonomi 3 0 0 3 7,5
+UKB 554 ­ Tekafül 3 0 0 3 7,5
+UKB 556 ­ Uygulamalı Panel Veri ve Yatay Kesit Ekonometrisi 3 0 0 3 7,5
+UKB 558 ­ İslami Finans Kurumları için Muhasebe 3 0 0 3 7,5
+UKB 559 ­ İslam Ekonomisi ve Finansında Seçilmiş Konular 3 0 0 3 7,5
+UKB 560 ­ İslami Sosyal Finans 3 0 0 3 7,5
+UKB 562 ­ Uluslararası İktisat 3 0 0 3 7,5
+UKB 564 ­ Osmanlı Para Vakıfları 3 0 0 3 7,5
+UKB 566 ­ Finans Tarihi ve İş Ortaklıkları 3 0 0 3 7,5
+UKB 568 ­ Yönetimde Sosyal Sorumluluk ve Etik 3 0 0 3 7,5
+UKB 569 ­ Türkiye’de Katılım Bankacılığı 3 0 0 3 7,5
+UKB 570 ­ İslam Ülkeleri Ekonomileri 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+UKB 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+UKB 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+T P L HDS AKTS
+Genel Toplam 27 0 0 27 97,5
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %66,67 %46,15
+Zorunlu Ders Saati / AKTS Toplamı 9 52,5
+Zorunlu Ders Oranı / AKTS Oranı %33,33 %53,85
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

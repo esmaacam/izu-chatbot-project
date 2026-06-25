@@ -1,0 +1,70 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=560&abn=27&y=33
+
+BÜYÜK VERİ VE İŞ ANALİTİĞİ ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BVA 505 ­ Büyük Veri ve İş Stratejisi 3 0 0 3 7,5
+BVA 507 ­ Veri Bilimi için Kodlama 3 0 0 3 7,5
+BVA 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+BVA 512 ­ Büyük Veri Analizi 3 0 0 3 7,5
+BVA 513 ­ Veri Görselleştirme ve İş Raporlama 3 0 0 3 7,5
+BVA 514 ­ Derin Öğrenmeye Giriş 3 0 0 3 7,5
+BVA 515 ­ Pekiştirmeli Derin Öğrenme 3 0 0 3 7,5
+BVA 516 ­ Hadoop ile Büyük Veri İşlenmesi 3 0 0 3 7,5
+BVA 517 ­ Sosyal Ağ Analizi 3 0 0 3 7,5
+BVA 520 ­ Bilişim Hukuku ve Veri Etiği 3 0 0 3 7,5
+BVA 521 ­ Büyük Veri için Ekonomi Teorisi 3 0 0 3 7,5
+BVA 522 ­ Muhasebe ve Finans Analitik Uygulamaları  3 0 0 3 7,5
+BVA 523 ­ Zaman Serileri ve Tahminleme 3 0 0 3 7,5
+BVA 524 ­ Uygulamalı Panel Veri Analizi 3 0 0 3 7,5
+BVA 530 ­ Oyun Teorisi 3 0 0 3 7,5
+BVA 531 ­ Yöneylem Araştırması ve Uygulamaları 3 0 0 3 7,5
+BVA 532 ­ Karar ve Risk Analizi 3 0 0 3 7,5
+BVA 533 ­ Proje Yönetimi ve İş İletişimi 3 0 0 3 7,5
+BVA 534 ­ Sezgisel Eniyileme 3 0 0 3 7,5
+Total 15 0 0 15 37,518.06.2026 17:11:12
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BVA 504 ­ Veri Madenciliği 3 0 0 3 7,5
+BVA 506 ­ Büyük Veri için Python ile Makine Öğrenmesi 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+BVA 511 ­ İstatistiksel Yapay Öğrenmeye Giriş 3 0 0 3 7,5
+BVA 512 ­ Büyük Veri Analizi 3 0 0 3 7,5
+BVA 513 ­ Veri Görselleştirme ve İş Raporlama 3 0 0 3 7,5
+BVA 514 ­ Derin Öğrenmeye Giriş 3 0 0 3 7,5
+BVA 515 ­ Pekiştirmeli Derin Öğrenme 3 0 0 3 7,5
+BVA 516 ­ Hadoop ile Büyük Veri İşlenmesi 3 0 0 3 7,5
+BVA 517 ­ Sosyal Ağ Analizi 3 0 0 3 7,5
+BVA 520 ­ Bilişim Hukuku ve Veri Etiği 3 0 0 3 7,5
+BVA 521 ­ Büyük Veri için Ekonomi Teorisi 3 0 0 3 7,5
+BVA 522 ­ Muhasebe ve Finans Analitik Uygulamaları  3 0 0 3 7,5
+BVA 523 ­ Zaman Serileri ve Tahminleme 3 0 0 3 7,5
+BVA 524 ­ Uygulamalı Panel Veri Analizi 3 0 0 3 7,5
+BVA 530 ­ Oyun Teorisi 3 0 0 3 7,5
+BVA 531 ­ Yöneylem Araştırması ve Uygulamaları 3 0 0 3 7,5
+BVA 532 ­ Karar ve Risk Analizi 3 0 0 3 7,5
+BVA 533 ­ Proje Yönetimi ve İş İletişimi 3 0 0 3 7,5
+BVA 534 ­ Sezgisel Eniyileme 3 0 0 3 7,5
+BVA 595 ­ Doğrusal Olmayan Programlama 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BVA 503 ­ Yüksek Lisans Projesi 3 0 0 3 15
+Total 3 0 0 3 15
+T P L HDS AKTS
+Genel Toplam 33 0 0 33 90
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 15 37,5
+Seçmeli Ders Oranı / AKTS Oranı %45,45 %41,67
+Zorunlu Ders Saati / AKTS Toplamı 18 52,5
+Zorunlu Ders Oranı / AKTS Oranı %54,55 %58,33
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

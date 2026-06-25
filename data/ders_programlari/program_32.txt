@@ -1,0 +1,172 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=347&abn=3&y=33
+
+MOLEKÜLER BİYOLOJİ VE GENETİK (%30 İNGİLİZCE) 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Lisans, TYYÇ: 6. Düzey, EQF­LLL: 6. Düzey, QF­EHEA: 1. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+FIZ 103 ­ Fizik I Laboratuvarı 0 0 2 2 2
+FIZ 105 ­ Fizik I 3 0 0 3 4
+KIM 101 ­ Genel Kimya 3 0 0 3 5
+MAT 115 ­ Matematik I 4 0 0 4 6
+MBG 101 ­ Genel Biyoloji 3 0 3 6 6
+TUR 101 ­ Türk Dili I 2 0 0 2 3
+YDL 105 ­ İleri İngilizce I 3 0 0 3 4
+Total 18 0 5 23 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BIM 159 ­ Bilgisayar ve Bilişim Teknolojileri 1 0 2 3 3
+IZU ORT­1 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+KIM 102 ­ Organik Kimya 3 0 0 3 4
+MAT 116 ­ Matematik II 4 0 0 4 6
+MBG 103 ­ Moleküler Biyolojiye Giriş 3 0 3 6 7
+TUR 102 ­ Türk Dili II 2 0 0 2 3
+YDL 106 ­ İleri İngilizce II 3 0 0 3 4
+Total 18 0 5 23 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 101 ­ Atatürk İlkeleri ve İnkılap Tarihi I 2 0 0 2 3
+IST 201 ­ Olasılık ve İstatistik 3 0 0 3 5
+IZU ORT­2 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+MBG 201 ­ Biyoteknoloji 3 0 0 3 5
+MBG 202 ­ Temel Genetik 3 0 3 6 7
+MBG 203 ­ Hücre Biyolojisi I 3 0 3 6 7
+Total 16 0 6 22 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 102 ­ Atatürk İlkeleri ve İnkılap Tarihi II 2 0 0 2 3
+IZU ORT­3 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+MBG 204 ­ Fizyoloji 3 0 0 3 5
+MBG 205 ­ Mikrobiyoloji 3 0 3 6 7
+MBG 206 ­ Hücre Biyolojisi II 3 0 3 6 7
+MBG 209 ­ Biyoinformatik 2 2 0 4 5
+Total 15 2 6 23 3018.06.2026 17:07:59
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+ISG 402 ­ İş Sağlığı ve Güvenliği 2 0 0 2 3
+MBG 301 ­ Biyokimya I 3 0 3 6 6
+MBG 303 ­ Moleküler Genetik I 3 0 0 3 5
+MBG 304 ­ Nörobiyoloji 3 0 0 3 5
+MBG 309 ­ Moleküler Biyolojide Kullanılan Yöntemler I 1 0 3 4 6
+BÖLÜM SEÇMELİ DERSLER
+MBG 310 ­ Mikrobiyal Genetik 3 0 0 3 5
+MBG 312 ­ Moleküler Biyolojide Güncel Konular 3 0 0 3 5
+Total 15 0 6 21 30
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+MBG 305 ­ Biyokimya II 3 0 3 6 6
+MBG 307 ­ Moleküler Genetik II 3 0 0 3 5
+MBG 316 ­ Moleküler Biyolojide Kullanılan Yöntemler II 1 0 3 4 6
+MUH 302 ­ Disiplinler Arası Araştırma ve Uygulama Tasarımı 1 0 0 1 3
+BÖLÜM SEÇMELİ DERSLER
+MBG 311 ­ Gelişim Genetiği 3 0 0 3 5
+MBG 313 ­ Doku Kültürü 3 0 0 3 5
+MBG 314 ­ Bitki Moleküler Biyolojisi 3 0 0 3 5
+Total 14 0 6 20 30
+7. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+MBG 401 ­ Staj 0 0 0 0 5
+MBG 405 ­ Kök Hücre Biyolojisi ve Doku Mühendisliği 3 0 0 3 5
+MBG 411 ­ Bitirme Çalışması I 0 4 0 4 5
+MBG 418 ­ Rekombinant DNA Teknoloji 3 0 0 3 5
+BÖLÜM SEÇMELİ DERSLER
+GIM 457 ­ Fermentasyon Teknolojisi 3 0 0 3 5
+MBG 403 ­ Enzimoloji 3 0 0 3 5
+MBG 404 ­ Biyoanalitik Yöntemler 3 0 0 3 5
+MBG 422 ­ İmmünoloji 3 0 0 3 5
+Total 12 4 0 16 30
+8. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+MBG 407 ­ Kanser Biyolojisi 3 0 0 3 5
+MBG 409 ­ Genomik ve Proteomik 3 0 0 3 5
+MBG 412 ­ Bitirme Çalışması II 0 4 0 4 5
+MBG 416 ­ Akademik Sözlü Sunum 3 0 0 3 5
+MBG 417 ­ Akademik Sözlü Sunum Dersi 3 0 0 3 5
+BÖLÜM SEÇMELİ DERSLER
+GIM 356 ­ Enzim Bilimi ve Teknolojisi 3 0 0 3 5
+GIM 474 ­ Gıda Biyoteknolojisi 3 0 0 3 5
+GIM 476 ­ Gıda ve Beslenme 3 0 0 3 5
+MBG 414 ­ Bakteriyel Patogenezde Direnç 3 0 0 3 5
+MBG 415 ­ Moleküler Evrim 3 0 0 3 5
+MBG 423 ­ Nütrigenomik 3 0 0 3 5
+Total 18 4 0 22 35
+T P L HDS AKTS
+Genel Toplam 126 10 34 170 245
+Ders Saat Oranları %74,12 %5,88 %20,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 27 44
+Seçmeli Ders Oranı / AKTS Oranı %15,88 %17,96
+Zorunlu Ders Saati / AKTS Toplamı 143 201
+Zorunlu Ders Oranı / AKTS Oranı %84,12 %82,04
+Üniversite Ortak Seçmeli Dersler
+DERS T P L HDS AKTS
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 005 ­ Etkili ve Sağlıklı İletişim 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 011 ­ Bilim Tarihi ve Felsefesi 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 010 ­ Sağlığı Koruma ve Geliştirme 2 0 0 2 3
+IZU 015 ­ Osmanlı Medeniyeti ve Kurumları 2 0 0 2 3
+IZU 014 ­ Dünya Klasikleri II (Doğu­Batı) 2 0 0 2 3
+IZU 012 ­ İşaret Dili 2 0 0 2 3
+IZU 019 ­ Türk Musikisi 1 2 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 037 ­ Osmanlı Paleografyasına Giriş 2 1 0 3 3
+IZU 039 ­ Osmanlıca Arşiv Uygulamaları 2 2 0 4 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 020 ­ Mantıksal ve Matematiksel Düşünme 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 022 ­ Medya ve İletişim 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 024 ­ Hüsn­i Hat 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 085 ­ Devlet ve Ekonomi 2 0 0 2 3
+IZU 086 ­ Gönüllülük Çalışmaları 2 0 0 2 3
+IZU 087 ­ İleri İşaret Dili 2 0 0 2 3
+IZU 089 ­ Sinema ve Eğitim 3 0 0 3 4
+IZU 090 ­ Türk ve İslam Sanatları Tarihi 2 0 0 2 3
+MTH 001 ­ Fikri ve Sınai Haklar (Patent­Marka­Tasarım) Genel Bakış 1 0 0 1 3
+MTH 002 ­ Kurumsal Sürdürülebilirlik Raporlaması ve TSRS (Türkiye
+Sürdürülebilirlik Raporlama Standartları) Uygulamaları2 0 0 2 3
+MTH 003 ­ Çevresel Sürdürülebilirlik 2 0 0 2 3
+IZU 042 ­ Arapça­A1 3 3 0 6 6
+IZU 043 ­ Arapça­A2 3 3 0 6 6
+IZU 050 ­ İngilizce­A1 3 3 0 6 6
+IZU 051 ­ İngilizce­A2 3 3 0 6 6
+IZU 052 ­ İngilizce­B1 3 3 0 6 6
+IZU 057 ­ Rusça­A1 3 3 0 6 6
+IZU 058 ­ Rusça­A2 3 3 0 6 6
+IZU 065 ­ İspanyolca­A2 3 3 0 6 6
+IZU 029 ­ Türkçe­A2 3 3 0 6 6
+IZU 030 ­ Türkçe­B1 3 3 0 6 6
+IZU 047 ­ Arapça­C1 3 3 0 6 6
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

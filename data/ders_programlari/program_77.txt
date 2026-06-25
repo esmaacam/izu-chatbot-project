@@ -1,0 +1,62 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=498&abn=27&y=33
+
+MÜHENDİSLİK YÖNETİMİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+MHY 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+MHY 505 ­ Mühendislik Yönetimine Giriş 3 0 0 3 7,5
+MHY 507 ­ Üretim Yönetimi 3 0 0 3 7,5
+MHY 509 ­ Mühendislik Ekonomisi 3 0 0 3 7,5
+MHY 511 ­ Proje Yönetimi 3 0 0 3 7,5
+MHY 513 ­ Pazarlama Yönetimi 3 0 0 3 7,5
+MHY 515 ­ Ürün ve Süreç Tasarımı 3 0 0 3 7,5
+MHY 517 ­ İnsan Kaynakları ve Organizasyon Yönetimi 3 0 0 3 7,5
+MHY 519 ­ Yöneticiler İçin Finans 3 0 0 3 7,5
+MHY 521 ­ Yönetim Bilişim Sistemleri 3 0 0 3 7,5
+MHY 523 ­ İş Analitiği 3 0 0 3 7,5
+MHY 527 ­ İşletmelerde Yönetim ve Liderlik 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+MHY 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+MHY 504 ­ Stratejik Yönetim 3 0 0 3 7,5
+MHY 506 ­ Tedarik Zinciri Yönetimi 3 0 0 3 7,5
+MHY 508 ­ Matematiksel Optimizasyon ve Modelleme 3 0 0 3 7,5
+MHY 510 ­ Bilgisayarla Bütünleşik Üretim 3 0 0 3 7,5
+MHY 511 ­ Proje Yönetimi 3 0 0 3 7,5
+MHY 512 ­ Yönetim ve Maliyet Muhasebesi 3 0 0 3 7,5
+MHY 516 ­ Karar Destek Sistemleri 3 0 0 3 7,5
+MHY 518 ­ Veritabanı Yönetim Sistemleri 3 0 0 3 7,5
+MHY 522 ­ Finansal Yönetim 3 0 0 3 7,5
+MHY 524 ­ Karar Teorisi 3 0 0 3 7,5
+MHY 525 ­ Girişimcilik 3 0 0 3 7,5
+MHY 526 ­ Teknoloji ve İnovasyon Yönetimi 3 0 0 3 7,5
+MHY 528 ­ İşletme Simulasyonu 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MHY 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 6018.06.2026 17:10:33
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MHY 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 180
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %25,00
+Zorunlu Ders Saati / AKTS Toplamı 5 135
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %75,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

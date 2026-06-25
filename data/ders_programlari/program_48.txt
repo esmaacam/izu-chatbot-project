@@ -1,0 +1,71 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=469&abn=27&y=33
+
+KLİNİK PSİKOLOJİ ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+PSK 601 ­ İleri Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+PSK 604 ­ Psikopatolojide Bilişsel Süreçler 3 0 0 3 7,5
+PSK 606 ­ Klinik Psikolojide Güncel Araştırmalar 3 0 0 3 7,5
+PSK 609 ­ Postmodern Terapiler 3 0 0 3 7,5
+PSK 611 ­ Psikolojik Test Uygulamaları 3 0 0 3 7,5
+PSK 613 ­ Anormal Psikolojide Güncel Konular 3 0 0 3 7,5
+PSK 617 ­ Psikolojide Etik 3 0 0 3 7,5
+PSK 619 ­ Psikolojik Sağlık ve Dinsel Süreçler 3 0 0 3 7,5
+PSK 622 ­ İleri Sağlık Psikolojisi 3 0 0 3 7,5
+PSK 624 ­ Bilinç ve Benlik Kuramları 3 0 0 3 7,5
+PSK 625 ­ Nöropsikolojide Güncel Konular 3 0 0 3 7,5
+PSK 628 ­ Bilişsel Davranışçı Psikoterapi Süpervizyonu 3 0 0 3 7,5
+PSK 629 ­ Psikodinamik Psikoterapi Süpervizyonu 3 0 0 3 7,5
+PSK 630 ­ Klinik Uygulamalar ve Süpervizyonu 4 0 0 4 7,5
+PSK 631 ­ Aile Psikoterapisi Süpervizyonu 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+PSK 602 ­ İleri İstatistik 3 0 0 3 7,5
+PSK 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+PSK 604 ­ Psikopatolojide Bilişsel Süreçler 3 0 0 3 7,5
+PSK 606 ­ Klinik Psikolojide Güncel Araştırmalar 3 0 0 3 7,5
+PSK 608 ­ Kişilik Psikolojisinde Güncel Konular 3 0 0 3 7,5
+PSK 609 ­ Postmodern Terapiler 3 0 0 3 7,5
+PSK 611 ­ Psikolojik Test Uygulamaları 3 0 0 3 7,5
+PSK 612 ­ Kişilik Bozukluklarında Güncel Konular 3 0 0 3 7,5
+PSK 624 ­ Bilinç ve Benlik Kuramları 3 0 0 3 7,5
+Total 11 0 0 11 3018.06.2026 17:09:09
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 1 6 0 7 10
+BLS 002 ­ Bölüm Seçmeli Ders 1 6 0 7 10
+PSK 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 10
+BÖLÜM SEÇMELİ DERSLER
+PSK 632 ­ Varoluşçu Psikoterapi Uygulamaları ve Süpervizyonu 1 6 0 7 10
+PSK 633 ­ Bilişsel Davranışçı Psikoterapi Süpervizyonu 1 6 0 7 10
+PSK 634 ­ Psikodinamik Psikoterapi Süpervizyonu 1 6 0 7 10
+PSK 635 ­ Klinik Uygulamalar ve Süpervizyon 1 6 0 7 10
+PSK 636 ­ Aile Psikoterapisi Süpervizyonu 1 6 0 7 10
+Total 2 12 0 14 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+PSK 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+PSK 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 25 12 0 37 240
+Ders Saat Oranları %67,57 %32,43 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 29 57,5
+Seçmeli Ders Oranı / AKTS Oranı %78,38 %23,96
+Zorunlu Ders Saati / AKTS Toplamı 8 182,5
+Zorunlu Ders Oranı / AKTS Oranı %21,62 %76,04
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

@@ -1,0 +1,60 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=393&abn=27&y=33
+
+KENT ÇALIŞMALARI VE YÖNETİMİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+KNT 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+KNT 511 ­ Kentsel Dönüşüm Projelerinde Doğal Afet Ve Risk Yön. 3 0 0 3 7,5
+KNT 512 ­ Yerel Yönetimlerin Güncel Sorunları 3 0 0 3 7,5
+KNT 515 ­ Çevreyle Uyumlu Kentsel Dönüşüm Yönetimi 3 0 0 3 7,5
+KNT 517 ­ Kentsel Dönüşümde Mimari Sorunlar 3 0 0 3 7,5
+KNT 519 ­ Kentsel Dönüşümde İmar Uygulamaları 3 0 0 3 7,5
+KNT 521 ­ Kent İşletmeciliği 3 0 0 3 7,5
+KNT 523 ­ Kentsel Dönüşümün Sosyal Boyutu 3 0 0 3 7,5
+KNT 524 ­ Kentsel Yaşam Kalitesi ve Parametreleri 3 0 0 3 7,5
+KNT 525 ­ Proje Yönetimi 3 0 0 3 7,5
+KNT 527 ­ Türkiye'de Su ve Atıksu Yönetimi ve Ekonomisi 3 0 0 3 7,5
+KNT 529 ­ Büyükşehir Belediyelerinde (Metropollerde) Yönetişim 3 0 0 3 7,5
+MIM 521 ­ Mimarlıkta Görsel Algılama ve Düşünme 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+KNT 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+KNT 513 ­ İmar Hukuku 3 0 0 3 7,5
+KNT 514 ­ Endüstrileşmiş Yapı Üretim Sistemleri 3 0 0 3 7,5
+KNT 516 ­ Kentsel Planlama 3 0 0 3 7,5
+KNT 518 ­ Gayrimenkul Değerleme ve Geliştirme 3 0 0 3 7,5
+KNT 520 ­ Kentsel Dönüşüm Uygulamalarında Tarihi Eserlerin
+Korunması3 0 0 3 7,5
+KNT 522 ­ Kentsel Ulaşım Sistemleri 3 0 0 3 7,5
+KNT 526 ­ Şehir Yöneticileri için İdare Hukuku 3 0 0 3 7,5
+KNT 530 ­ Kamuda Yönetim ve Organizasyon 3 0 0 3 7,5
+KNT 532 ­ Dünyada Su ve Atıksu Yönetimi ve Ekonomisi 3 0 0 3 7,5
+KNT 534 ­ Halkla İlişkiler 3 0 0 3 7,5
+KNT 536 ­ Yerel Yönetimlerde Stratejik Yönetim 3 0 0 3 7,5
+KNT 538 ­ Kent Çalışmalarında Karar Verme Analizi 3 0 0 3 7,5
+KNT 540 ­ Kent Bağlamında Erişilebilirlik 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+KNT 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 6018.06.2026 17:10:18
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 120
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %37,50
+Zorunlu Ders Saati / AKTS Toplamı 5 75
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %62,50
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

@@ -1,0 +1,56 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=582&abn=27&y=33
+
+TÜRK DİLİ VE EDEBİYATI ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+TDE 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TDE 503 ­ Klasik Türk Edebiyatı Çalışma Konuları ve Hazırlama
+Yöntemleri3 0 0 3 7,5
+TDE 505 ­ Klasik Türk Edebiyatı Manzum Metin İncelemeleri 3 0 0 3 7,5
+TDE 507 ­ Modern Türk Şiiri İncelemeleri 3 0 0 3 7,5
+TDE 509 ­ Yeni Türk Edebiyatının Kaynakları 3 0 0 3 7,5
+TDE 511 ­ Metinler Üzerinde Eski Türkçe Uygulamaları 3 0 0 3 7,5
+TDE 513 ­ Tarihsel Dilbilim 3 0 0 3 7,5
+TDE 515 ­ Halk Bilimi Araştırma Yöntemleri 3 0 0 3 7,5
+TDE 517 ­ Mitoloji ve Halk İnanışları 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+TDE 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+TDE 502 ­ Klasik Türk Şiirinde Sosyal­Kültürel Unsurlar 3 0 0 3 7,5
+TDE 504 ­ Metinlerle Türk Tasavvuf Edebiyatı 3 0 0 3 7,5
+TDE 506 ­ Hikâye ve Roman İncelemeleri 3 0 0 3 7,5
+TDE 508 ­ Yeni Türk Edebiyatında Biyografik Türler 3 0 0 3 7,5
+TDE 510 ­ Türk Halk Şiiri İncelemeleri 3 0 0 3 7,5
+TDE 512 ­ Metinler Üzerinde Orta Türkçe Uygulamaları 3 0 0 3 7,5
+TDE 514 ­ Türk Dilinin Kaynakları 3 0 0 3 7,5
+TDE 516 ­ Türk Halk Şiiri İncelemeleri 3 0 0 3 7,5
+TDE 518 ­ Türk Halk Edebiyatında Nesir Türler 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TDE 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TDE 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 6018.06.2026 17:11:04
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 180
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %25,00
+Zorunlu Ders Saati / AKTS Toplamı 5 135
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %75,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

@@ -1,0 +1,76 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=424&abn=27&y=33
+
+AİLE DANIŞMANLIĞI VE EĞİTİMİ ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ADE 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+PDR 101 ­ Psikolojiye Giriş 2 0 0 2 4
+PDR 301 ­ Davranış Bozuklukları I 2 0 0 2 2
+PDR 305 ­ Psikolojik Danışma İlke ve Teknikleri 2 0 0 2 3
+PDR 307 ­ Psikolojik Danışma Kuramları 2 0 0 2 2
+BÖLÜM SEÇMELİ DERSLER
+ADE 505 ­ Evlilik ve Aile Danışmanlığı Kuramları 3 0 0 3 7,5
+ADE 507 ­ Evlilik ve Aile Danışmanlığında Teknikler 3 0 0 3 7,5
+ADE 513 ­ Ailede Travma ve Krize Müdahale 3 0 0 3 7,5
+ADE 515 ­ Aile Danışmanlığında Olgu Tartışması 3 0 0 3 7,5
+ADE 517 ­ Temel Psikolojik Danışma Teknik ve Becerileri 3 0 0 3 7,5
+ADE 519 ­ Aile Sosyolojisi 3 0 0 3 7,5
+ADE 521 ­ Ailede İletişim 3 0 0 3 7,5
+ADE 523 ­ Aile Danışmanlığında Problem Çözme ve Arabuluculuk 3 0 0 3 7,5
+ADE 525 ­ Bireyi Tanıma Teknikleri 3 0 0 3 7,5
+ADE 529 ­ İleri İstatistik 3 0 0 3 7,5
+ADE 531 ­ Pozitif Psikoloji 3 0 0 3 7,5
+ADE 533 ­ Manevi Danışmanlık 3 0 0 3 7,5
+ADE 537 ­ İleri Ergenlik Psikolojisi 3 0 0 3 7,5
+ADE 539 ­ Kişilik Kuramları 3 0 0 3 7,5
+ADE 543 ­ Kültüre Duyarlı Psikolojik Danışma 3 0 0 3 7,5
+ADE 545 ­ Davranış Bozuklukları 3 0 0 3 7,5
+PSK 109 ­ Psikolojiye Giriş 2 0 0 2 4
+PSK 201 ­ Gelişim Psikolojisi I 2 0 0 2 4
+RPD 308 ­ Psikolojik Danışma Kuramları 2 0 0 2 2
+RPD 417 ­ Davranış Bozuklukları 2 0 0 2 3
+Total 17 0 0 17 33,518.06.2026 17:11:07
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ADE 510 ­ Aile Danışmanlığı Uygulamaları II 2 4 0 6 7,5
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+ADE 506 ­ Aile ve Çocuk Hukuku 3 0 0 3 7,5
+ADE 508 ­ Yetişkin Psikolojisi ve Patolojisi 3 0 0 3 7,5
+ADE 512 ­ Bilgisayar Tabanlı İstatistik Uygulamaları 3 0 0 3 7,5
+ADE 514 ­ Ailede Sorunlar ve Başa Çıkma Yolları 3 0 0 3 7,5
+ADE 516 ­ Danışma Etiği 3 0 0 3 7,5
+ADE 520 ­ Ailede Değer Eğitimi 3 0 0 3 7,5
+ADE 522 ­ Aile Sorunları ve Dini Danışmanlık 3 0 0 3 7,5
+ADE 524 ­ Çağdaş Psikolojik Danışma Kuramları 3 0 0 3 7,5
+ADE 526 ­ Genel Psikopatoloji 3 0 0 3 7,5
+ADE 530 ­ Boşanma Danışmanlığı 3 0 0 3 7,5
+ADE 532 ­ Kültüre Duyarlı Psikolojik Danışmanlık 3 0 0 3 7,5
+ADE 534 ­ Bilişsel­Davranışçı Psikoterapi 3 0 0 3 7,5
+ADE 538 ­ Kadın Psikolojisi ve Toplumsal Cinsiyet 3 0 0 3 7,5
+ADE 540 ­ Grupla Psikolojik Danışma Kuram ve Uygulamaları 3 0 0 3 7,5
+ADE 541 ­ Bilişsel­Davranışsal (BDT) Yaklaşımlar 3 0 0 3 7,5
+ADE 542 ­ Çocuklarda Grup Danışma 3 0 0 3 7,5
+ADE 544 ­ Kriz Yönetimi ve Travma Psikolojisi 3 0 0 3 7,5
+ADE 546 ­ Teknoloji Bağımlılığı 3 0 0 3 7,5
+Total 14 4 0 18 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ADE 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+T P L HDS AKTS
+Genel Toplam 31 4 0 35 86
+Ders Saat Oranları %88,57 %11,43 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %51,43 %52,33
+Zorunlu Ders Saati / AKTS Toplamı 17 41
+Zorunlu Ders Oranı / AKTS Oranı %48,57 %47,67
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

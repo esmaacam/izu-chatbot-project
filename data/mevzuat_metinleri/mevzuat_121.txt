@@ -1,0 +1,203 @@
+URL: https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/yaz%C4%B1%C5%9Fma-kurallar%C4%B1-ve-belge-y%C3%B6netimi-y%C3%B6nergesi
+
+Üniversitemiz Senatosunun 24.12.2024 tarihli ve 2024/25 sayılı karar ekidir.
+
+İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ
+YAZIŞMA KURALLARI VE BELGE YÖNETİMİ YÖNERGESİ
+  
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç 
+MADDE 1 – (1) Bu Yönerge, İstanbul Sabahattin Zaim Üniversitesi’nde iş ve işlemlerin yürütülmesine ilişkin evrak/belgelerin üretilmesi, kaydedilmesi, gönderilmesi, takibi ile gelen evrak/belgelerin havalesi,  işleme alınması ve cevaplandırılması süreçlerinde izlenmesi gereken yol, yöntem ve usulleri belirlemek; bilgi ve belge alışverişinin etkin, hızlı ve güvenli bir biçimde yürütülmesini sağlayarak yazışmalarda kurumsal kültür ve kimlik oluşturmak;  belge yönetim süreçlerinde 10 Haziran 2020 tarih ve 31151 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren “Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik” hükümlerine uygun hareket edilmesini sağlamak amacıyla hazırlanmıştır.
+Kapsam 
+MADDE 2 –(1) Bu Yönerge; 2547 sayılı Yükseköğretim Kanunu ve diğer ilgili mevzuat uyarınca, İstanbul Sabahattin Zaim Üniversitesi ve bağlı birimlerin yapacakları yazışmalarda ve yürütecekleri işlem süreçlerinde izlenmesi gereken usul, esas ve şartlar ile buna benzer diğer hususları kapsar.
+Dayanak
+MADDE 3 – (1)  Bu Yönerge, 2547 sayılı Yükseköğretim Kanunu, 5070 sayılı Elektronik İmza Kanunu, 124 sayılı Yükseköğretim Üst Kuruluşları İle Yükseköğretim Kurumlarının İdari Teşkilatı Hakkında Kanun Hükmünde Kararname, “Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik”, 25/10/2010 tarih ve 27740 sayılı Resmi Gazetede yayınlanan İstanbul Sabahattin Zaim Üniversitesi Ana Yönetmeliği, “Kamu İç Kontrol Standartları Tebliği” ve 14.10.2017 tarih ve 30210 sayılı Resmî Gazetede yayınlanan “e-Yazışma Projesi” konulu 2017/21 sayılı Başbakanlık Genelgesi’nin ilgili hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar  
+MADDE 4 – (1) Bu Yönergede geçen;    
+a) Akademik Birim Amiri: 2547 sayılı Yükseköğretim Kanununa göre Fakülte Dekanlıkları, Enstitü Müdürlükleri'nin hiyerarşik yapıdaki en üst amirini, Koordinatörleri ve Merkez Müdürlerini, 
+b) Belge: Herhangi bir bireysel veya kurumsal fonksiyonun yerine getirilmesi için alınmış ya da fonksiyonu sonucunda üretilmiş, içerik, ilişki ve format ile ait olduğu fonksiyon için delil teşkil eden kayıtlı bilgiyi,
+c) Birim: İstanbul Sabahattin Zaim Üniversitesi Akademik ve İdari Birimleri,
+ç) Daire Başkanı: İstanbul Sabahattin Zaim Üniversitesi Daire Başkanlarını,
+d) Dekan: İstanbul Sabahattin Zaim Üniversitesi Dekanlarını,
+e) Elektronik belge: Elektronik ortamda oluşturulan, gönderilen ve saklanan her türlü belgeyi,
+f) Elektronik imza (e-imza): 5070 sayılı Elektronik İmza Kanunu uyarınca atılan imzayı,
+g) Elektronik onay: Güvenli elektronik imza kullanılmayan durumlarda paraf yerine geçecek kaydın elektronik ortamda alınmasını,
+ğ)Enstitü Müdürü: İstanbul Sabahattin Zaim Üniversitesine bağlı Enstitünün Müdürlerini, 
+h) e-Yazışma Teknik Rehberi: Elektronik ortamda yapılacak resmi yazışmalar kapsamında oluşturulan belgelerin yapısı, formatı, imzalama ve şifreleme mekanizmaları gibi teknik hususları tanımlayan ve Başbakanlığın uygun görüşleri alınarak Kalkınma Bakanlığı’nın uygun görüşü alınarak yayımlanan rehberi,
+ı) Genel Sekreter: İstanbul Sabahattin Zaim Üniversitesi Genel Sekreterini,
+i) Gizli Evrak Takip Numarası: Gizlilik derecesine sahip evrakların; gönderimi, havalesi ve takibinin yapılabilmesi amacıyla her bir evrak için ayrı üretilen belge sayısını,
+j) Güvenli Elektronik İmza: Sadece imza sahibinin tasarrufunda bulunan güvenli elektronik imza oluşturma aracı ile oluşturulan, nitelikli elektronik sertifikaya dayanarak imza sahibinin kimliğinin ve imzalanmış elektronik veride sonradan herhangi bir değişiklik yapılıp yapılmadığının tespitini sağlayan imzayı,
+k) Hukuk Müşaviri: İstanbul Sabahattin Zaim Üniversitesi Hukuk Müşavirini,
+l) İdari Birim Amiri: 124 nolu Kanun Hükmünde Kararnameyle belirtilen Genel Sekreter ve Genel Sekretere bağlı tüm Daire Başkanlarını, Müdürleri, Koordinatörleri, İç Denetim Birimi Grup Başkanını, Hukuk Müşavirini, Enstitü Sekreterini, Fakülte Sekreterini vb. birimlerin amirlerini,
+m) İmza sahibi: Elektronik imza oluşturmak amacıyla bir imza oluşturma aracını kullanan gerçek kişiyi,
+n) KEP: Kayıtlı Elektronik Postayı,
+o) Koordinatör: İstanbul Sabahattin Zaim Üniversitesinde koordinatörlük şeklindeyapılandırılmış birim yöneticisini,
+ö) Merkez Müdürü: İstanbul Sabahattin Zaim Üniversitesi Uygulama ve Araştırma Merkez Müdürlerini,
+p) Rektör: İstanbul Sabahattin Zaim Üniversitesi Rektörünü,
+r) Resmi Yazışma: Kamu kurum ve kuruluşlarının kendi aralarında ve/veya gerçek ve tüzel kişilerle iletişimlerini sağlamak amacıyla fiziksel ortamda veya güvenli elektronik imza kullanarak elektronik ortamda yürüttükleri süreci,
+s) Senato: İstanbul Sabahattin Zaim Üniversitesi Senatosunu,
+ş)Standart Dosya Planı: Kurumsal işlemler ve bu işlemler sonucunda oluşturulan veya alınan belgelerin üretim yerleriyle olan ilişkisi belirtilerek konu veya fonksiyon esasına göre dosyalanmasını sağlamak amacıyla geliştirilen ve Başbakanlık tarafından yayımlanan sınıflama şemasını,
+t) Üniversite: İstanbul Sabahattin Zaim Üniversitesini,
+u) Yazı İşleri Müdürü: İstanbul Sabahattin Zaim Üniversitesi Genel Sekreterlik Yazı İşleri Müdürünü,
+ü) Yetkililer: Rektör, Rektör Yardımcıları, Genel Sekreter, Genel Sekreter Yardımcıları, Dekanlar, Enstitü Müdürü, Araştırma Merkezi Müdürleri, Bölüm Başkanları, Daire Başkanları, Müdürler, Koordinatörler, İç Denetim Birimi Grup Başkanı, Hukuk Müşaviri, Fakülte Sekreterleri ve Enstitü Sekreterleri,
+v) Yönerge: İstanbul Sabahattin Zaim Üniversitesi Yazışma Kuralları ve Belge Yönetimi Yönergesini,
+y) Yönetim Sistemi (EBYS): Üniversitenin faaliyetlerini yerine getirirken oluşturdukları her türlü dokümantasyonun içerisinden idare faaliyetlerinin delili olabilecek belgelerin ayıklanarak bunların içerik, üst veri, format ve ilişkisel özelliklerini koruyan, belgelerin ait olduğu fonksiyon veya işlem için delil teşkil eden ve aidiyet zinciri içerisindeki yönetimini elektronik ortamda sağlayan sistemi,
+z) Yönetmelik: Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmeliği,
+ 
+ifade eder. 
+ 
+ 
+İKİNCİ BÖLÜM
+GENEL HÜKÜMLER
+Resmi Yazışmalara İlişkin Hükümler
+ 
+İlkeler
+MADDE 5– (1) Bu Yönergenin yerine getirilmesi ile ilgili ilkeler ve uygulama esasları aşağıda belirtilmiştir.
+ 
+a) Yetkiler, sorumluluk anlayışının gereklerine uygun olarak yerinde, zamanında ve doğru olarak devreden makam adına kullanılır. Sınırları açıkça belirtilerek devredilmemiş olan yetkiler kullanılamaz.
+b) Yetki devri yapılan yönetici bu yetkiyi devreden makamın onayı olmadan bir başkasına devredemez.
+c) Akademik ve idari hiyerarşi içinde her kademe, yazışmalarında bu Yönergede ve ilgili mevzuatta belirtilen usul ve esaslara uymakla yükümlüdür.
+ç)Üniversite tarafından EBYS’ye dahil edilmemesi uygun görülen gizli/çok gizli evraklar haricinde tüm işlemlerin EBYS üzerinden yapılması esastır. 
+d) Yazılarda amblem kurumsal kimlikte tanımlandığı şekliyle kullanılır. Yazışmalarda üniversitenin amblemi dışında herhangi bir amblem kullanılmaz.
+e) Üniversitenin uluslararası ve ulusal kurumlarla yapacakları akademik iş birliği protokolleri Rektör veya Rektör tarafından yetkilendirilen kişiler tarafından imzalanır ve anlaşma metinleri Sözleşmeler Biriminde muhafaza edilir.
+f) Üniversite Senato ve Yönetim Kurulu toplantılarının kararları gündeme alındıkları tarihten itibaren üç hafta içerisinde karara bağlanır.
+g) Üniversitenin resmi elektronik posta (e-posta) adresi uzantısı “izu.edu.tr” dir. Her birim adına uzantısı “izu.edu.tr” olan resmî e-posta adresi belirlenir. EBYS ile ilgili talepler bu adreslerden de yapılabilir. 
+ 
+(2) Kuruma gelen evrakların kayda alınmasında ve evrak havalesinde aşağıdaki ilke ve yöntemler uygulanır.
+a) Mütevelli Heyeti, Rektörlük ve Genel Sekreterlik makamlarının tüm yazışmaları, Yazı İşleri Müdürlüğü tarafından yapılır.
+b) Akademik Birimler, eğitim amaçlı konularda, iş birliği, proje önerileri veya resmi talepler gibi amaçlarla üniversite içinde akademik iletişimi sağlamak amacıyla kendi aralarında ve kendilerine bağlı birimlerle gerekli bilgilendirmeleri yaparak yazışma yapabilir.
+c)Akademik birimlerden Rektörlük Makamına hitaben yazılması gereken yazılar Dekan, Enstitü Müdürü, Merkez Müdürü veya yetkili yardımcıları tarafından imzalanır.
+ç)İdari birimler, kendi faaliyet ve sorumlulukları doğrultusunda kendi aralarında yazışma yapabilir. Bu yazışmalar, emir niteliği taşımayan ve bilgi alışverişi gibi amaçlarla gerçekleştirilen yazışmalar olabilir.
+ 
+d) İdari birimler, üniversitedeki birimlerin işleyişine yönelik olarak akademik birimlere bilgi ve belge vermek amacıyla yazışma yapabilir. 
+e) Gizlilik derecesine sahip yazışmalar; evrak üzerindeki bilgiler (ek, ilgi vb.) ve evrakın aslı elektronik ortama yüklenmeden EBYS’den “Gizli Evrak Takip Numarası” alınarak yapılır.
+f) Hukuk müşaviri, iç denetçiler ve soruşturmacılar görevlendirildikleri dosya ile ilgili olarak akademik ve idari birimlerle doğrudan yazışma yapabilir ve gizli bilgileri sözlü veya yazılı olarak talep edebilir. Hukuk müşaviri, iç denetçiler ve soruşturmacılar bu yazışmaları yürütürken, görevlerini etkin bir şekilde tamamlamak amacıyla tüm bilgilere ulaşma yetkisine sahiptir. 
+g) Öğrencilerin akademik talepleri ile ilgili dilekçeler Bölüm/Program üzerinden Dekanlığa/ Enstitü Müdürlüğüne iletilir.
+ğ)Öğrencilerin diğer taleplerine ilişkin dilekçeler, Üniversitenin ilgili yönetmelik veya yönergeleri çerçevesinde ilgili mevzuata uygun olarak incelenerek ilgili birimler tarafından kayda alınır, işlem yapılarak cevaplandırılır. Onay alınarak işlem yapılması gereken evraklarda, onay yazısı oluşturularak veya ilgili birimin görüşü ile Rektörlük Makamına sunulur.
+(3) Yazışmalarda standardın sağlanmasında aşağıda belirtilen uygulamalar esas alınır.
+a) Yazışmalar, 10 Haziran 2020 tarih ve 31151 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren Yönetmelik hükümlerine göre ve ilgili Yönerge çerçevesinde yapılır.
+b) Üniversite dışı kurum-kuruluş ve kişilerle yapılacak yazışmalar, imzalama yetkisi verilen rutin yazılar dışında, Rektör veya Rektör Yardımcısı'nın imzası ile yapılır. 
+c) Yazıların ilgili olduğu birimce hazırlanması ve gönderilmesi esastır.
+ç)Yazışmalar, yazıyı hazırlayan görevliden başlamak üzere hiyerarşik sıralamaya göre paraflandıktan sonra varsa ekleriyle birlikte imzaya sunulur.
+d) Onay merciince elektronik ortamda imzalanmadan önce taslak belge üzerinde değişiklik yapılabilir. Elektronik olarak imzalandıktan sonra belge üzerinde ve içeriğinde değişiklik yapılamaz. Bu tip değişikliklerin yapılması halinde 5237 sayılı Türk Ceza Kanunu’nun 204 ve 205 inci maddeleri ve ilgili diğer hükümler kapsamında gerekli cezai ve idari işlem yapılması yoluna gidilir. 
+e) Yazışmalarda yazının içeriğinde bir süre belirtilmemiş ise yazı ilgili birimlere iletildiği tarihten itibaren en geç yedi iş günü içinde cevaplandırılmalıdır. Komisyon veya kurul kararı gerektiren yazışmalar 30 takvim günü içerisinde cevaplandırılır.
+f) Belgeye süresi içinde cevap verilmemesi durumunda muhataba tekit yazısı yazılabilir.
+g) Resmi yazı ve belgeler “Yükseköğretim Üst Kuruluşları ve Yükseköğretim Kurumları Saklama Süreli Standart Dosya Planı”na göre oluşturulur.
+ğ)Devlet Teşkilatı Merkezi Kayıt Sisteminde (DETSİS) tanımlanan “İdari Birim Kimlik Kodu” olmayan ya da verilmeyen hiçbir birim/makam yazışma yapamaz. Yeni kurulan birimlerin “İdari Birim Kimlik Kodu” Yazı İşleri Müdürlüğü tarafından alınır.
+ 
+Sorumluluklar
+MADDE 6 –(1)  Üniversitenin  akademik ve idari hiyerarşi içinde her kademesi, kurum içi ve kurum dışı yazışmalarında bu Yönergede belirlenen ve atıfta bulunulan mevzuat hükümlerine uymakla yükümlüdür. Yönerge ile yazışmalarda yetki verilen personelin sorumlulukları aşağıda belirtilmiştir.
+a) Yazışmaların zamanında, doğru ve tam yapılmasından ve uygulamaların Yönergeye uygunluğunun sağlanmasından kendilerine yetki verilen kişiler sorumludur. 
+b) Bu Yönerge ile belirlenen kayıt, havale, gönderme, alma vb. işlemlerin iş akış şemaları ile belirtilen usul, süreç ve sürelere uygun olarak yürütülmesinden ilgili birim amiri ve birimindeki tüm görevliler sorumludur.
+c) Gelen evrakın ve imzalanan yazıların ilgililere süratle ulaştırılması ve tekide mahal verilmeyecek şekilde süratle cevaplandırılması konusunda birim amirleri ve birimlerin ilgili personeli sorumludur.
+ç) Günlü ve süreli evrakın titizlikle takip edilmesinden, bu konuda meydana gelecek aksamalardan birim amiri ve ilgili görevliler sorumludur.
+d) Gizlilik dereceli bilgi ve evrakın, ilgisiz kişilerin eline geçmemesi ve bilginin mahremiyetinin ihlal edilmemesi için gerekli tedbirleri almaktan birim amirleri sorumludur.
+e) Birimlerden çıkan tüm yazılardan birinci derecede birim amiri ve sonra yazıda parafı olan tüm ilgililer sorumludur.
+f) Rektörlük Makamı imzasına getirilen evrak ve yazıların muhafazasından Rektör Özel Kalemi sorumludur.
+g) EBYS üzerinde, bilgi ve belgelerin siber saldırılara karşı korunmasından ve bu konuda gerekli önlemlerin alınmasından Bilgi İşlem Daire Başkanlığı sorumludur.
+ğ) EBYS üzerinde sistem özelliklerinin değiştirilmesi ve kullanıma uygun hale getirilmesi ile iş akışlarının verimliliğinin devamından EBYS Sorumlusu ve EBYS Sistem Yöneticisi sorumludur.
+h) Üniversite personeli EBYS Gelen Evrak kutusunu ve Üniversitenin kendisine tahsis ettiği e- posta adresini her gün kontrol etmekle yükümlüdür. EBYS üzerinden elektronik ortamda gönderilen yazıları işleme alıp gereğini yapmaktan ilgili personel sorumludur.
+ÜÇÜNCÜ BÖLÜM
+EBYS Uygulama Esasları
+ 
+MADDE 7- (1) Gelen Evrak Kayıt ve Dağıtım İşlemleri 
+a) Rektörlük Makamına hitaben elektronik ortamda gelen e-tebligat, kayıtlı elektronik posta (KEP) ile fiziki ortamda posta ile gelen fiziksel belge veya bireysel başvuru gibi tüm evrakların EBYS sistemine kaydedilmesi ve havalesi Yazı İşleri Müdürlüğü tarafından yapılır.
+b) Kurum dışından gelen ve akademik/idari birimlere hitaben yazılmış olan evrakların (KEP haricinde) kaydı, doğrudan ilgili akademik veya idari birimler tarafından yapılır. Gelen evrak, yetkili personel tarafından tasnif edilerek gizlilik derecesine göre EBYS’ye yüklenir.
+c) Üniversite adına kayda alınan evraklar EBYS’den Yazı İşleri Müdürünün havalesi ile konunun muhatabı olan birime/birimlere sevk edilir. Havale edilen evrak ilgili birimlerce yetkilendirilen personel tarafından teslim alınır.
+ç) Birime ulaşan evrak ilgili alt birime havale edilir. Gerekli hallerde havale edilen evraka yapılacak işlem konusunda not eklenir.
+d) Yönetmelikte ve bu Yönergede belirtilen kurallara uygun hazırlanmayan yazılar, işlem yapılmadan birimine iade edilir. Bu hususta doğacak sorumluluk yazıyı hazırlayan birime aittir. 
+e) Akademik ya da idari birimlerde, birime gelen evrakı birim amiri yerine sistem üzerinden görevlendirilen başka bir personelin alması isteniyorsa, gerekli olan durumlarda sistem üzerinden birim evrak sorumlusu olarak başka kullanıcı adı tanımlanabilir ve yetkilendirilmesi yapılabilir. 
+f) Elektronik olarak muhataplara iletilen belgeler tebliğ niteliği taşımakta olup fiziki olarak zimmet yapılması beklenmeksizin gereği yapılır. 
+g) Kurum dışından gelen evraklarda sisteme aktarılması mümkün olmayan Ek/Ekler bulunması durumunda; bu eklere ait bilgi evrakın EBYS’ye kaydı sırasında belirtilir. Sisteme alınamayan ekler ilgili birime teslimi zimmet karşılığında yapılır. 
+ğ) Kayda alınacak evraklarda mutlaka isim ve imza olmalıdır. (Bilgi Edinme Hakkı Kanunu kapsamında yapılan başvurular ile CİMER başvuruları hariç). İmza bulunmayan evraklar kayda alınmaz. Bu tür evraklarda açık adres bulunması durumunda evrakların birimlerce resmi yazı ile iade edilmesi sağlanır.
+h) Gazete, dergi, kitap, broşür ve benzeri basılı süreli veya süresiz yayınlar hariç; gelen evrakların tamamı ve taranmasına engel bulunmayan ekleri taranarak elektronik ortama geçirilir. 
+ı) Kurum dışından elektronik yöntemlerle (e-posta, faks) gönderilen evraklar önem derecesi dikkate alınarak doğrudan elektronik ortamda işleme alınabilir.
+ 
+(2) Evrakların Oluşturulması, Paraf ve İmza İşlemleri 
+ 
+a) Yazıların Türkçe dil bilgisi kurallarına ve günümüz Türkçesine uygun hazırlanması ve konuların açık bir ifade ile kısa ve öz olarak anlatılmasına ve sonuç bölümünde talebin anlaşılır olmasına dikkat edilir. 
+b) Yazıların ilgileri var ise tüm ilgi, referans ve ekleri bağlantılarına uygun olarak yazı içinde belirtilir.
+c) Elektronik ortamda yapılan yazışmalarda son imza sahibine kadar paraf elektronik ortamda alınır, bu parafta elle atılan parafın sonuçlarını doğurur.
+ç) Makam OLUR’una sunulacak onay yazılarında, ilk teklifte bulunan ilgili birim amirinin imzasından sonra, ara kademe yönetici bulunması durumunda (teklif makamı ile onay makamı arasındaki makamların uygun görüşü öngörülüyor ise) yazının sol alt tarafına “Uygun Görüşle Arz Ederim.” ibaresi eklenir; ara kademe yönetici bulunmaması durumunda ise teklif eden ve onaylayan makam olarak iki imzalı “OLUR” evrakı düzenlenir.
+d) Birden fazla birimi ilgilendiren ve birimin görüşünün alınmasını gerektiren onay ve yazılar, koordinasyonun sağlanması bakımından ilgili birim amirlerinin parafı ile imzaya sunulur.
+e) İmza, onay ve olurların güvenli elektronik imza ile yapılması asıldır. Ancak, mevzuat gereği veya imzaya yetkili kişi tarafından olağanüstü veya zorunlu hallerde ıslak imza ile imzalanabilir. 
+f) Belgeye süresi içinde cevap verilmemesi durumunda muhataba tekit yazısı yazılabilir.
+g) Hukuk Müşavirliği tarafından adli ve idari mercilere intikal ettirilmek üzere diğer birimlerden istenilen belgeler hem elektronik ortamda hem de fiziksel olarak Hukuk Müşavirliği’ne gönderilir. Hukuk Müşavirliği’ne gönderilecek yazılarda yazıya konacak ek olması durumunda bu ekin örneğinin uygun bir yerine “Aslı Gibidir” kaşesi basılarak yetkilendirilmiş kişilerce imzalanır ve mühürlenir. 
+ 
+(3)   İmzalanan Kurum Dışı Evrakların Oluşturma ve Dağıtım İşlemleri 
+a) Üniversite dışındaki kişi, kurum ve kuruluşlar ile yapılacak yazışmalar Rektör veya Rektör Yardımcısı imzası ile yapılır. İdari Birim yöneticileri kendi imzaları ile kurum dışı yazışma yapamaz. Birim tarafından hazırlanan evrakın paraf işlemlerinde, birim amirinin parafından sonra paraf için Genel Sekreterlik Makamı, imza için Rektörlük Makamı seçilerek evrak imzaya sunulur.
+
+b)Üniversite dışı kurum ve kuruluşlarla yapılacak yazışmalarda; Rektör, Rektör Yardımcıları, Genel Sekreter, Genel Sekreter Yardımcıları ve kendisine yazışma yetkisi verilen birim amirleri kendi imzaları ile EBYS üzerinden yazışma yapabilir.
+
+c)Kendilerine bazı konularda (öğrenci belgesi, askerlik tecil belgesi, staj belgesi, teknik rapor, test sonuçları vb.) yazışma yetkisi verilmiş akademik ve idari birimler kurum dışı yazışma yapabilirler.
+ç)Kayıtlı Elektronik Posta (KEP) sistemi ile kurum dışı alıcısına gönderilmek üzere KEP sistemine gelen evraklar, Yazı İşleri Müdürlüğü tarafından Yönetmelik kapsamında kontrol edilerek gönderilir.
+
+d) KEP adresi olmayan hallerde, elektronik ortamda onaylanan ve Üniversite dışında kalan kurum ve kuruluşlara (dış yazışmalar) gidecek olan evraklar, elektronik imza aşamaları tamamlandıktan sonra evrakın çıktısının evrakı oluşturan personel tarafından alınması ve evrakı oluşturan birim tarafından gönderilmesi gerekir.
+
+e) Elektronik ortamdan çıkış kaydı alınmamış hiçbir evrak, dağıtılmak üzere teslim veya havale edilemez.
+f) Diğer kurumlardan gelen yazılara verilecek cevap yazılarında mütekabiliyet esaslarına göre yazıların imzalanması esastır.
+(4) Evrak Dosya İşlemleri 
+ 
+a) Birimlerde dosya planları, Devlet Arşivleri Başkanlığının 23.10.2023 tarih ve E-72424901-805.01.01-86936 sayılı yazısı ile kurumlara gönderilmiş olan ve 2.1.2024 tarihinde uygulamaya konulan “Yükseköğretim Üst Kuruluşları ve Yükseköğretim Kurumları Saklama Süreli Standart Dosya Planı”na göre oluşturulur.
+b) Güvenli elektronik imza ile imzalanarak hazırlanmış belgelerin elektronik ortamda kaydedilmesi, gönderilmesi ve saklanması esastır. Bu belgeler, ayrıca çıktı alınarak fiziksel ortamda saklanmaz.
+c) Gelen ve giden tüm evrakın elektronik ortamda arşivlenmesi de evrakı oluşturan birim tarafından yapılır. 
+ 
+ 
+Devlet Arşiv Hizmetleri Hakkında Yönetmelik hükümleri ile Üniversite Arşivleme Talimatı esaslarına göre yapılır. 
+ 
+ 
+Bilgi Edinme, Müracaat ve Şikâyet Başvuruları   
+MADDE-8 (1) Üniversiteye yapılan müracaat ve şikâyet başvuruları, 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun ve 4982 sayılı Bilgi Edinme Hakkı Kanununda belirtilen usul ve esaslar çerçevesinde değerlendirilerek cevaplandırılır. Konu ile ilgili aşağıdaki usul ve yöntemler uygulanır.
+a) 24.10.2003 tarih ve 25269 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren “4982 sayılı Bilgi Edinme Hakkı Kanunu” uyarınca; kendisinden bilgi veya belge istenen birim, evrakın Üniversite kayıtlarına giriş tarihinden itibaren yasal cevaplama süresi olan 15 iş günü içinde cevaplanacağını dikkate alarak gerekli işlemleri tesis eder.
+b) Kurum-Kuruluşlar aracılığıyla Üniversiteye ulaşan bilgi edinme başvurularında yazının içeriğinde bir süre belirtilmemiş ise, yazının ilgili birime iletildiği tarihten itibaren başvurunun cevabı en geç beş iş günü içinde Rektörlüğe hitaben yazılı olarak bildirilmelidir.
+c) Medyada yer alan Üniversiteyi ilgilendiren ihbar ve şikâyet türündeki haber ve yazılar, Kurumsal İletişim Daire Başkanlığı tarafından takip edilerek Genel Sekreterliğe bildirilir ve alınacak talimata göre hareket edilir.
+
+DÖRDÜNCÜ BÖLÜM
+Yetki Devirleri ve İmza Yetkileri
+İmzalama yetkisi verilen rutin yazışmalar
+MADDE 9 – (1) Yetkililer, görevlerinin ifası sırasında mevzuatla doğrudan kendisine verilmiş olan ve yönetici olarak sahip olduğu imza yetkilerini kullanırlar. Bunun yanı sıra Üniversite rutin işlem gerektiren aşağıda detayları yer alan konularda birimlere/birim amirlerine diğer kurum/kuruluşlar arasında dış yazışma yapma ve imzalama yetkisi verilmiştir. 
+ 
+(2) Dekan/Enstitü Müdürüne imzalama yetkisi verilen rutin yazışmalar;
+a) Öğrencilerin yaz okulu, staj veya ders uygulamaları ile ilgili yazışmalar,
+b) Diğer kurumlara, öğretim elemanlarının fakültede/enstitüde verdiği derslere/danışmanlıklara ilişkin bilgilendirme yazıları.
+c) Lisansüstü öğrencilerinin askerlik tecil ve tecil iptali ile ilgili yazışmalar.
+ 
+(3) Personel Daire Başkanına imzalama yetkisi verilen rutin yazışmalar;
+a) Çalışma belgesi, ücret bordrosu, SGK giriş-çıkış, sosyal güvenlik kurumu beyannamesi.
+ 
+(4) Öğrenci İşleri Daire Başkanına imzalama yetkisi verilen rutin yazışmalar;
+a) Lisans öğrencilerinin öğrenci belgesi, transkript, öğrencilik işlemlerine ait diğer belgeler.
+ 
+(5) Mali İşler Daire Başkanına imzalama yetkisi verilen rutin yazışmalar;
+a) Öğrencilerin ücret iade, fazla ödeme iade, indirim, taksitlendirme vb. taleplerine ilişkin dilekçe cevapları.
+ 
+(6) Lisansüstü Enstitü Sekreterine imza yetkisi verilen rutin yazışmalar;
+a) Lisansüstü öğrencilerin öğrenci belgesi, transkript, öğrencilik işlemlerine ait diğer belgeler. 
+ 
+(7) Uluslararası Öğrenciler ve İlişkiler Koordinatörüne imzalama yetkisi verilen rutin yazışmalar;
+a) Kabul mektupları ile ilgili yazışmalar,
+a) Yurtdışı heyetlerin ve üniversitelerin karşılanmasında kabul ve davet yazışmaları.
+ 
+(8) Erasmus Kurum Koordinatörüne imzalama yetkisi verilen rutin yazışmalar;
+a) Kabul ve davet yazıları, seçilme yazıları, hibe yazısı, vize yazısı, akademik eşdeğerlilik- akademik tanınma, hareketlilik başlama/tamamlama, hibe ödeme talimatları, hibe iade yazıları.
+ 
+(9) Sürekli Eğitim Uygulama ve Araştırma Merkezi Müdürüne imzalama yetkisi verilen rutin
+     yazışmalar;
+a) Rektörlükçe imzalanan anlaşmalar, katılımcı ücret ve indirim oranları, sözleşmeler, iş birliği, çözüm ortaklığı ve dışarıdan hizmet alım konuları ile ilgili yazışmalar.
+ 
+ 
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Çeşitli Hükümler
+MADDE 10- (1) Tüm yazışma işlemlerinde; 10 Haziran 2020 tarih ve 31151 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren Yönetmelik ile bu Yönerge hükümleri uygulanır. 
+(2) Bu Yönergenin bir örneği, Yönetmelik ve “Resmi Yazışma Kılavuzu” ile birlikte birim amirinde hazır bulundurulur. Birimlere bağlı alt kademelere Yönerge’nin bir örneği dağıtılır. Ayrıca elektronik ortamda Üniversite çalışanlarının erişimine açılır.
+(4) Bu Yönergede hüküm bulunmayan hallerde yürürlükteki ilgili mevzuat hükümleri ile Rektörlüğün onayı çerçevesinde işlem yapılır.
+Hüküm Bulunmayan Haller
+MADDE 11- (1) Bu Yönergede hüküm bulunmayan hallerde yürürlükteki ilgili diğer mevzuat hükümleri ile Üniversitenin yetkili kurullarında alınan kararlar uygulanır.
+ 
+Yürürlük
+MADDE 12-(1) Bu Yönerge Senato tarafından kabul edildiği tarihten itibaren yürürlüğe girer.
+ 
+Yürütme
+MADDE 13-(1) Bu Yönergenin hükümlerini Rektör yürütür.

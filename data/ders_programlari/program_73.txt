@@ -1,0 +1,51 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=399&abn=27&y=33
+
+MATEMATİK EĞİTİMİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+MAT 509 ­ Eğitim İstatistiği I 3 0 0 3 7,5
+MAT 512 ­ Matematiksel Modelleme 3 0 0 3 7,5
+MAT 517 ­ Matematiksel Problem Çözme ve Problem Kurma 3 0 0 3 7,5
+MAT 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+MAT 505 ­ Matematik Eğitimi Tarihi 3 0 0 3 7,5
+MAT 507 ­ Matematiksel Düşünme ve Muhakeme 3 0 0 3 7,5
+MAT 511 ­ Matematik Eğitiminde Motivasyon Araştırmaları 3 0 0 3 7,5
+MAT 513 ­ Matematik Eğitiminde Görselleştirme 3 0 0 3 7,5
+MAT 515 ­ Matematik Eğitiminde Nitel Araştırma, Veri Toplama ve
+Çözümleme Teknikleri3 0 0 3 7,5
+Total 18 0 0 18 45
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+MAT 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+MAT 504 ­ Eğitimde Ölçme ve Değerlendirme 3 0 0 3 7,5
+MAT 506 ­ Matematik Öğrenme, Öğretme ve Değerlendirme 3 0 0 3 7,5
+MAT 508 ­ Matematik Eğitimi ve Teknoloji Kullanımı 3 0 0 3 7,5
+MAT 512 ­ Matematiksel Modelleme 3 0 0 3 7,5
+MAT 514 ­ Eğitimde Program Geliştirme 3 0 0 3 7,5
+MAT 516 ­ Eğitimde Proje Geliştirme 3 0 0 3 7,5
+Total 8 0 0 8 22,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MAT 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MAT 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 26 0 0 26 187,5
+Ders Saat Oranları %100,00 %0,00 %0,0018.06.2026 17:10:22
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 12 30
+Seçmeli Ders Oranı / AKTS Oranı %46,15 %16,00
+Zorunlu Ders Saati / AKTS Toplamı 14 157,5
+Zorunlu Ders Oranı / AKTS Oranı %53,85 %84,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

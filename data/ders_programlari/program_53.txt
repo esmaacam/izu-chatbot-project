@@ -1,0 +1,68 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=441&abn=27&y=33
+
+SOSYOLOJİ ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+SOS 601 ­ Sosyolojide Klasik ve Çağdaş Kuramlar Üzerine
+Okumalar3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+POL 603 ­ Devlet Kuramları ve Modern Devlet 3 0 0 3 7,5
+POL 617 ­ Toplum ve İktidar 3 0 0 3 7,5
+SHZ 601 ­ Toplumsal Değişme ve Sorunlar 3 0 0 3 7,5
+SOS 513 ­ Göç ve Bütünleşme Politikaları 3 0 0 3 7,5
+SOS 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+SOS 603 ­ Türkiye'de Demokratikleşme ve Siyasal Gelişme 3 0 0 3 7,5
+SOS 607 ­ Aydınlar ve Toplum 3 0 0 3 7,5
+SOS 609 ­ Dünyada ve Türkiye’de Kadın Çalışmaları 3 0 0 3 7,5
+SOS 611 ­ Bilgi ve Bilim Sosyolojisi 3 0 0 3 7,5
+SOS 613 ­ Kent Sosyolojisi ve Türkiye’de Kentleşme 3 0 0 3 7,5
+SOS 617 ­ Türkiye'de Sosyolojinin Gelişimi ve Sorunları 3 0 3 6 7,5
+SOS 619 ­ Küreselleşme, Toplumsal Eşitsizlik ve Yoksulluk 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+SOS 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+POL 618 ­ Devlet ve Sivil Toplum 3 0 0 3 7,5
+POL 618 ­ Devlet ve Sivil Toplum 3 0 0 3 7,5
+SHZ 602 ­ Sosyal Devlet ve Sosyal Hizmet 3 0 0 3 7,5
+SOS 510 ­ Türkiye’nin Siyasal ve Toplumsal Yapısı 3 0 0 3 7,5
+SOS 606 ­ Din Sosyolojisinde Temel Yaklaşımlar ve Tartışmalar 3 0 0 3 7,5
+SOS 608 ­ İslam Sosyolojisi Tartışmaları 3 0 0 3 7,5
+SOS 610 ­ Oryantalizm ve Batı Dışı Toplumlar 3 0 0 3 7,5
+SOS 616 ­ Milliyetçilik, Etnik Sorunlar ve Kimlik Tartışmaları 3 0 0 3 7,5
+SOS 618 ­ Çağdaş Türk Düşünce Tarihi 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SOS 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 3018.06.2026 17:09:23
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SOS 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SOS 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SOS 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 360
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %12,50
+Zorunlu Ders Saati / AKTS Toplamı 5 315
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %87,50
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

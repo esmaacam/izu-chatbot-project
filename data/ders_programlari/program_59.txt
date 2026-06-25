@@ -1,0 +1,75 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=357&abn=27&y=33
+
+BİLGİSAYAR BİLİMLERİ VE MÜHENDİSLİĞİ (%30 İNGİLİZCE) ­
+TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+CSE 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+CSE 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+CSE 505 ­ Makina Öğrenmesi 3 0 0 3 7,5
+CSE 507 ­ Dağıtık Sistemler 3 0 0 3 7,5
+CSE 509 ­ Kablosuz Sensör Ağları 3 0 0 3 7,5
+CSE 513 ­ Bilgi Gerigetirimi 3 0 0 3 7,5
+CSE 515 ­ Çoğulortam Sistemler 3 0 0 3 7,5
+CSE 517 ­ Veri Analizi ve Görselleştirme 3 0 0 3 7,5
+CSE 519 ­ Bilgi ve İletişim Teknolojilerindeki Yeni Eğilimler­I 3 0 0 3 7,5
+CSE 521 ­ Makine Çevirisi 3 0 0 3 7,5
+CSE 601 ­ İleri Veri Yapıları Sistemleri 3 0 0 3 7,5
+CSE 603 ­ İleri Yapay Zeka 3 0 0 3 7,5
+CSE 605 ­ Paralel Algoritmalar 3 0 0 3 7,5
+CSE 609 ­ Büyük Veri Sistemleri 3 0 0 3 7,5
+CSE 611 ­ Sosyal Ağlara Giriş 3 0 0 3 7,5
+CSE 613 ­ İleri Bilgisayar Mimarisi 3 0 0 3 7,5
+CSE 615 ­ İleri Sistem Enstegrasyonu 3 0 0 3 7,5
+CSE 617 ­ Mobil Robotların Modellemesi ve Kontrolü 3 0 0 3 7,5
+CSE 619 ­ Doğal Dil İşleme 3 0 0 3 7,5
+CSE 621 ­ İleri Veri Madenciliği 3 0 0 3 7,5
+CSE 623 ­ Akıllı Şebeke 3 0 0 3 7,5
+CSE 625 ­ Derin Öğrenme 3 0 0 3 7,5
+CSE 627 ­ Nesnelerin İnterneti 3 0 0 3 7,5
+Total 14 0 0 14 37,518.06.2026 17:09:44
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+CSE 506 ­ Bilgisayar Ağları ve İletişimleri 3 0 0 3 7,5
+CSE 508 ­ Bulut Bilişimi 3 0 0 3 7,5
+CSE 510 ­ İleri Yazılım Mühendisliği 3 0 0 3 7,5
+CSE 512 ­ İnsan­Bilgisayar Etkileşimi 3 0 0 3 7,5
+CSE 514 ­ Gerçek Zaman Sistemleri 3 0 0 3 7,5
+CSE 516 ­ Derleyici Tasarımı 3 0 0 3 7,5
+CSE 520 ­ Bilgi ve İletişim Teknolojilerindeki Yeni Eğilimler­II 3 0 0 3 7,5
+CSE 602 ­ Mobil Geçici Ağlar 3 0 0 3 7,5
+CSE 604 ­ Kriptografi ve Bilgisayar Güvenliği 3 0 0 3 7,5
+CSE 606 ­ Yapay Sinir Ağları 3 0 0 3 7,5
+CSE 608 ­ Yazılım Kalitesini ve Ölçülmesini Anlama 3 0 0 3 7,5
+CSE 610 ­ İleri Doğal Dil İşleme 3 0 0 3 7,5
+CSE 612 ­ Makine Görmesi 3 0 0 3 7,5
+CSE 616 ­ İleri Sinyal İşleme 3 0 0 3 7,5
+CSE 618 ­ Sayısal VLSI Test Etme 3 0 0 3 7,5
+CSE 622 ­ Uyarlamalı Kontrol Sistemleri 3 0 0 3 7,5
+CSE 624 ­ Mühendislikte Sayısal Yöntemler 3 0 0 3 7,5
+CSE 626 ­ Genel Amaçlı GPU Programlamaya Giriş 3 0 0 3 7,5
+CSE 628 ­ Kontrol ve Otomasyon Sistemlerinde Özel Konular 3 0 0 3 7,5
+Total 9 0 0 9 22,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+CSE 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 120
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %37,50
+Zorunlu Ders Saati / AKTS Toplamı 5 75
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %62,50
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

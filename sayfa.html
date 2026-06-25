@@ -1,0 +1,686 @@
+<html lang="tr"><head>
+    <title>Akademisyenler | Zaim Üniversitesi Akademik Portal</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#8B2232">
+    <link href="/css/theme.min.css?v=J-iwTB3ze4QjeqZ9JUbChXMiVvu2wT4BA_84ScFk7jI" rel="stylesheet">
+    <link href="/fonts/Font-Awesome/css/font-awesome.min.css" rel="stylesheet">
+    
+    <link href="/css/pages/academicians.css?v=4W8Y9WfhBZvGoKOcgIfpXe43a9I6cfVbvq2DpqOhBBA" rel="stylesheet">
+
+    <link href="/css/add-style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="logo-bar container navbar navbar-expand-lg py-1">
+            <a class="logo" href="/">
+                <img src="/img/logo.png" style="height:50px" class="img-fluid">
+            </a>
+            <div class="menuToggle">
+                <span class="span1"></span>
+                <span class="span2"></span>
+                <span class="span3"></span>
+            </div>
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item d-none d-lg-block ">
+                    <a class="nav-link text-dark" href="https://www.izu.edu.tr">İZÜ Anasayfa</a>
+                </li>
+                <li class="nav-item d-none d-lg-block ">
+                    <a class="nav-link text-dark" href="https://kutuphane.izu.edu.tr/yordambt/yordam.php">Kütüphane</a>
+                </li>
+                <li class="nav-item d-none d-lg-block ">
+                    <a class="nav-link text-dark" href="https://akademik.izu.edu.tr/admin">Giriş Yap</a>
+                </li>
+                <li class="d-none d-lg-block ">
+                    <form id="selectLanguage" method="post" role="form" action="/Home/CultureManagement">
+                        <div style="padding-top:4px">
+                            <button style="background: none;border: none" type="submit" name="culture" value="tr-TR">
+                                <img style="height:25px" src="/img/languageicons/turkey.png">
+                            </button>
+                        </div>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8N48mFVxF1lLovdeoLhekK116AxZ666YoZcCixHvHaMh3RS6tgsR9DbEH_szJ_EEC-k5omwvHnK-oYztKZcBBTNU8dUFC-rhLiDtPQcHFdwGiDOO7zMkHTAdwSpeihQUf2iQh17vL1auHnyrwRElQ9I">
+                    </form>
+                </li>
+                <li class="d-none d-lg-block ">
+                    <form id="selectLanguage" method="post" role="form" action="/Home/CultureManagement">
+                        <div style="padding-top:4px">
+                            <button style="background:none; border:none" type="submit" name="culture" value="en-US">
+                                <img style="height:25px" src="/img/languageicons/united-kingdom.png">
+                            </button>
+                        </div>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8N48mFVxF1lLovdeoLhekK116AxZ666YoZcCixHvHaMh3RS6tgsR9DbEH_szJ_EEC-k5omwvHnK-oYztKZcBBTNU8dUFC-rhLiDtPQcHFdwGiDOO7zMkHTAdwSpeihQUf2iQh17vL1auHnyrwRElQ9I">
+                    </form>
+                    <form method="post" action="/Home/CultureManagement">
+                        <a class="nav-link" name="culture" href=""></a>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8N48mFVxF1lLovdeoLhekK116AxZ666YoZcCixHvHaMh3RS6tgsR9DbEH_szJ_EEC-k5omwvHnK-oYztKZcBBTNU8dUFC-rhLiDtPQcHFdwGiDOO7zMkHTAdwSpeihQUf2iQh17vL1auHnyrwRElQ9I">
+                    </form>
+                </li>
+            </ul>
+
+        </div>
+        <div class="col-12 main-menu">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+
+                        <nav class="navbar navbar-expand-lg navbar-light">
+                            <div class="collapse navbar-collapse">
+                                
+<ul class="navbar-nav">
+    <li class="nav-item">
+        <a class="nav-link" href="/akademisyenler">Akademik Kadro</a>
+    </li>
+
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="/">
+            Araştırmacılar İçin
+        </a>
+        <div class="dropdown-menu" aria-labelledby="ForResearcher">
+            <a class="dropdown-item" href="/laboratuvarlar">Laboratuvar</a>
+            <a class="dropdown-item" href="https://www.izu.edu.tr/akademik/kurullar-ve-komisyonlar/kurullar/etik-kurulu">Etik Kurullar</a>
+            <a class="dropdown-item" href="https://kutuphane.izu.edu.tr/yordambt/yordam.php">Kütüphane</a>
+            <a class="dropdown-item" href="https://www.izu.edu.tr/tto/ana-sayfa">TTO</a>
+            <a class="dropdown-item" href="https://www.izu.edu.tr/ogrenci/kayit-kabul/mevzuat/yonergeler/bilimsel-arastirma-projeleri-koordinatorlugu-yonergesi">BAP</a>
+            <a class="dropdown-item" href="https://www.izu.edu.tr/uluslararasi/uluslararasi-iliskiler/uluslararasi-isbirlikleri">Akademik İşbirlikleri</a>
+
+            <a class="dropdown-item" href="https://www.izu.edu.tr/tto/hakkimizda/birimlerimiz/fikri-m%C3%BClkiyet-haklar-birimi">Fikri Mülkiyet Hakları Birimi</a>
+            <a class="dropdown-item" href="https://www.izu.edu.tr/docs/default-source/teknoloji-transfer-ofisi/20170726_universite-sanayi.pdf">Üniversite Sanayi İşbirliği Birimi</a>
+            <a class="dropdown-item" href="https://www.izu.edu.tr/tto/hakkimizda/birimlerimiz/giri%C5%9Fimcilik-ve-kulu%C3%A7ka-merkezi">Girişimcilik ve Kuluçka Merkezi Birimi</a>
+            <a class="dropdown-item" href="/tez-yazim-kilavuzu">Tez Yazım Kılavuzu</a>
+        </div>
+    </li>
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="/Projects">Projeler</a>
+        <div class="dropdown-menu" aria-labelledby="Projects">
+            <a class="dropdown-item" href="/Projects?status=2">Devam Eden Projeler</a>
+            <a class="dropdown-item" href="/Projects?status=1">Tamamlanan Projeler</a>
+            <a class="dropdown-item" href="/Projects?status=4">Başlayan Projeler</a>
+            <a class="dropdown-item" href="https://www.izu.edu.tr/haberler/2019/03/21/2018-y%C4%B1l%C4%B1-akademik-performans-%C3%B6d%C3%BClleri-sahiplerini-buldu">Ödüller</a>
+        </div>
+    </li>
+    <li class="nav-item dropdown">
+        <a class="nav-link  dropdown-toggle" href="https://www.izu.edu.tr/etkinlikler">Faaliyetler</a>
+        <div class="dropdown-menu" aria-labelledby="Activities">
+            <a class="dropdown-item" href="/Event?status=1">Etkinlikler</a>
+            <a class="dropdown-item" href="/Event?status=2">Ulusal Etkinlikler</a>
+            <a class="dropdown-item" href="/Event?status=3">Uluslararası Etkinlikler</a>
+            <a class="dropdown-item" href="/Event?status=5">Dergiler</a>
+            <a class="dropdown-item" href="/Event?status=6">Yayınlarımız</a>
+            <a class="dropdown-item" href="/">Atölyeler</a>
+        </div>
+    </li>
+    <li class="nav-item dropdown">
+        <a class="nav-link" href="/arastirma-birimleri">
+            Araştırma Çıktıları
+            <span class="dropdown-toggle"></span>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="ResearchOutputs">
+            <a class="dropdown-item" href="/arastirma-birimleri/arastirma-ciktilari--wos--scopus--tr-dizin(3a60bf78-4c15-4813-84f7-7e28cfb5dc46)">Makaleler</a>
+            <a class="dropdown-item" href="/arastirma-birimleri/yuksek-lisans(359e0c94-b0ea-4b86-b7ce-19e72f3e5ffb)">Doktora - Yüksek Lisans Tezleri</a>
+            <a class="dropdown-item" href="https://openaccess.izu.edu.tr/xmlui/discover?rpp=10&amp;page=2&amp;group_by=none&amp;etal=0&amp;filtertype_0=dateIssued&amp;filter_0=2020&amp;filter_relational_operator_0=equals#sthash.8YLZWfk9.U2URK0G2.dpbs">2020 Yayınları</a>
+        </div>
+    </li>
+    <li class="nav-item d-block d-sm-none" style="padding: 10px 24px !important;">
+        <form class="form-group search-box" style="position: relative" action="/Academician/SearchAcademician" method="post">
+            <input value="" type="search" placeholder="Ara" name="Query" id="Query" class="form-control">
+            <button type="submit" class="btn btn-sm"><i class="fa fa-search"></i></button>
+            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8OPLmLnAEQlFiMNoLLkzQAHhnPdmNI5JP-dTLUthRDzEKK0rmK1qWFKBs-GxPnQge8n80PFaidKKZpPYb3tSdQdLKqlNN7Wmo54T_B0J-uLq1uk_uoxEC11EtTUO42x-AOjAM2y86DhtU2GWaGJTg-k">
+        </form>
+    </li>
+
+</ul>
+                            </div>
+                            <li class=" d-lg-none d-flex ml-3 mb-3">
+                                <form id="selectLanguage" method="post" role="form" action="/Home/CultureManagement">
+                                    <div style="padding-top:4px">
+                                        <button style="background: none;border: none" type="submit" name="culture" value="tr-TR">
+                                            <img style="height:25px" src="/img/languageicons/turkey.png">
+                                        </button>
+                                    </div>
+                                    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8N48mFVxF1lLovdeoLhekK2Mmay9FCkc7Sa5Aey4RaMpPnbncNHHrCtdAZnyk44pK2oFOGwlPqRSCHqdkLQ-lLer6IXNY8UxnsCipO-xEOlvcjXqdLdVJ4a_LVT6w4JwwlOc8wL2Se7HzFLInoIBhf4">
+                                </form><form id="selectLanguage" method="post" role="form" action="/Home/CultureManagement">
+                                    <div style="padding-top:4px">
+                                        <button style="background:none; border:none" type="submit" name="culture" value="en-US">
+                                            <img style="height:25px" src="/img/languageicons/united-kingdom.png">
+                                        </button>
+                                    </div>
+                                    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8GGTvDOZxHZHqsGwl5fXF_QupSvukHFum0xBtrE7qkvEdKthVEpDuDUtgViQsG0J1St_qd3gBkr-GkAGMliwUiVT9ZORtqVoOK1BrXVtR62N31bjCYG_p16XZtNI05CrPWgInuQAi7vayeXrcelm6hc">
+                                </form>
+                            </li>
+
+                        </nav>
+                    </div>
+                    <div class="col-md-4 d-none d-lg-block">
+                        <form class="search-box" action="/Home/SearchAcademician" method="post">
+                            <div class="form-group row">
+                                <div class="col-md-6 type">
+                                    <select class="form-control" id="Type" name="Type">
+                                        <option>Akademisyenler</option>
+                                    </select>
+                                </div>
+                                <div class="col-md-6 query">
+                                    <input type="search" class="form-control" id="SearchQuery" name="SearchQuery">
+                                </div>
+                                
+                                <button type="submit" class="btn btn-sm"><i class="fa fa-search"></i></button>
+                            </div>
+                        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8GGTvDOZxHZHqsGwl5fXF_QupSvukHFum0xBtrE7qkvEdKthVEpDuDUtgViQsG0J1St_qd3gBkr-GkAGMliwUiVT9ZORtqVoOK1BrXVtR62N31bjCYG_p16XZtNI05CrPWgInuQAi7vayeXrcelm6hc"></form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        
+        <div class="container">
+            
+
+<section class="find-academicians">
+    <h1>Akademisyenler</h1>
+    <div class="filter">
+        <form class="form-group search-box" action="/Academician/SearchAcademician" method="post">
+            <input class="form-control" id="Query" name="Query" placeholder="Akademisyen Ara..." type="search" value="">
+            <button type="submit" class="btn btn-sm"><i class="fa fa-search"></i></button>
+        <input name="__RequestVerificationToken" type="hidden" value="CfDJ8GGTvDOZxHZHqsGwl5fXF_QupSvukHFum0xBtrE7qkvEdKthVEpDuDUtgViQsG0J1St_qd3gBkr-GkAGMliwUiVT9ZORtqVoOK1BrXVtR62N31bjCYG_p16XZtNI05CrPWgInuQAi7vayeXrcelm6hc"></form>
+        <div class="form-group filter-box d-none">
+            <ul class="nav nav-pills">
+                <li class="nav-item all">
+                    <a href="javascript:;" class="nav-link">Tümü</a>
+                </li>
+                <li class="nav-item">
+                    <a href="javascript:;" class="nav-link active">Aktif</a>
+                </li>
+                <li class="nav-item">
+                    <a href="javascript:;" class="nav-link">Geçmiş</a>
+                </li>
+            </ul>
+        </div>
+        <div class="form-group letters-filter d-none">
+            <ul class="nav nav-pills">
+                <li class="nav-item all">
+                    <a href="javascript:;" class="nav-link active">Tümü</a>
+                </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">A</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">B</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">C</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">Ç</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">D</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">E</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">F</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">G</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">H</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">I</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">İ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">J</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">K</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">L</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">M</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">N</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">O</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">Ö</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">P</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">R</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">S</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">Ş</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">T</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">U</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">Ü</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">V</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">Y</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="javascript:;" class="nav-link">Z</a>
+                    </li>
+            </ul>
+        </div>
+        <div class="form-group">
+            <ul class="nav navbar-nav pl-2">
+                    <li class="nav-item">
+                        <small><strong>567</strong> sonuçtan <strong>20</strong> adet gösteriliyor.</small>
+                    </li>
+            </ul>
+        </div>
+    </div>
+    <div class="academicians row">
+                <div class="item col-md-3">
+                    <a class="media" href="/abdalrahman.migdad">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/0dcfd952-c6ef-41fc-b6cd-84b53fb41e1c.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdalrahman M.ı. MIGDAD">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdalrahman M.ı. MIGDAD, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">İslam İktisadı ve Finans Bölümü</p>
+                                <span class="faculty">İslam İktisadı ve Finans Bölümü</span><br>
+                                <span class="department">İslam İktisadı ve Finans (İngilizce)</span>
+                                <strong>E-posta : <span>abdalrahman.migdad@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdelkader.chachi">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/6105f486-207e-423d-95e8-8c5939d9e952.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdelkader CHACHI">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdelkader CHACHI, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">İslam İktisadı ve Finans Bölümü</p>
+                                <span class="faculty">İslam İktisadı ve Finans Bölümü</span><br>
+                                <span class="department">İslam İktisadı ve Finans</span>
+                                <strong>E-posta : <span>abdelkader.chachi@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdulfetah.shobole">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/356ab48f-a0d9-4e9c-a80b-4e1b9dbf2601.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdulfetah Abdela SHOBOLE">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdulfetah Abdela SHOBOLE, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">Elektrik Elektronik Mühendisliği Bölümü</p>
+                                <span class="faculty">Elektrik Elektronik Mühendisliği Bölümü</span><br>
+                                <span class="department">Elektrik-Elektronik Mühendisliği (%30 İngilizce)</span>
+                                <strong>E-posta : <span>abdulfetah.shobole@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdullah.isiklar">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/76ef100b-2743-4460-9c36-1f4615f90781.png" style="height:293px" class="img-fluid w-100" alt="Profesör Abdullah IŞIKLAR">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdullah IŞIKLAR, Profesör</strong>
+                                    <p class="unit">Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı</p>
+                                <span class="faculty">Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı</span><br>
+                                <span class="department">Rehberlik ve Psikolojik Danışmanlık</span>
+                                <strong>E-posta : <span>abdullah.isiklar@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdullah.kuluc">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/a299389a-48b7-4fe9-b5c8-932be0b983cd.png" style="height:293px" class="img-fluid w-100" alt="Araştırma Görevlisi Abdullah KULUÇ">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdullah KULUÇ, Araştırma Görevlisi</strong>
+                                    <p class="unit">Lisansüstü Eğitim Enstitüsü</p>
+                                <span class="faculty">Lisansüstü Eğitim Enstitüsü</span><br>
+                                <span class="department">İslam İktisadı ve Hukuku Anabilim Dalı</span>
+                                <strong>E-posta : <span>abdullah.kuluc@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdullah.muydunoglu">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/a65548e5-00ad-4688-8ff6-4fbcce7bec7f.png" style="height:293px" class="img-fluid w-100" alt="Öğretim Görevlisi (Dil Eğitimi) Abdullah MÜYDÜNOĞLU">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdullah MÜYDÜNOĞLU, Öğretim Görevlisi (Dil Eğitimi)</strong>
+                                    <p class="unit">Diller Koordinatörlüğü</p>
+                                <span class="faculty">Diller Koordinatörlüğü</span><br>
+                                <span class="department">Arapça Hazırlık</span>
+                                <strong>E-posta : <span>abdullah.muydunoglu@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdallah.omar">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/14809ec7-7ef8-454c-b342-c30b637900f0.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdullah ÖMER">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdullah ÖMER, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">İslami İlimler Fakültesi</p>
+                                <span class="faculty">İslami İlimler Fakültesi</span><br>
+                                <span class="department">İslam Tarihi ve Sanatları Bölümü</span>
+                                <strong>E-posta : <span>abdallah.omar@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdullah.sonmez">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/8eb2a6fb-170c-406c-92b6-a376652692d8.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdullah SÖNMEZ">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdullah SÖNMEZ, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">Bilgisayar Mühendisliği Bölümü</p>
+                                <span class="faculty">Bilgisayar Mühendisliği Bölümü</span><br>
+                                <span class="department">Bilgisayar Mühendisliği</span>
+                                <strong>E-posta : <span>abdullah.sonmez@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdullah.tok">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/11648575-da62-464d-b599-95d8b5b30a23.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdullah TOK">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdullah TOK, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">Tarih Bölümü</p>
+                                <span class="faculty">Tarih Bölümü</span><br>
+                                <span class="department">Tarih</span>
+                                <strong>E-posta : <span>abdullah.tok@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/muttalip.arpa">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/826d060e-cf8f-4248-b903-1d89efdd230c.png" style="height:293px" class="img-fluid w-100" alt="Profesör Abdulmutalip ARPA">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdulmutalip ARPA, Profesör</strong>
+                                    <p class="unit">İslami İlimler Fakültesi</p>
+                                <span class="faculty">İslami İlimler Fakültesi</span><br>
+                                <span class="department">Temel İslam Bilimleri Bölümü</span>
+                                <strong>E-posta : <span>muttalip.arpa@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdulselam.bilgin">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/95109cf3-d7ae-4796-bd48-ef9a5811f8c8.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Görevlisi Abdulselam BİLGİN">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdulselam BİLGİN, Doktor Öğretim Görevlisi</strong>
+                                    <p class="unit">İslami İlimler Fakültesi</p>
+                                <span class="faculty">İslami İlimler Fakültesi</span><br>
+                                <span class="department">İslami İlimler (Arapça)</span>
+                                <strong>E-posta : <span>abdulselam.bilgin@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abdusselam.kose">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/eaa36c23-fe5d-49e5-9475-39782991c7ce.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdusselam KÖSE">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdusselam KÖSE, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">Beden Eğitimi ve Spor Öğretmenliği Bölümü</p>
+                                <span class="faculty">Beden Eğitimi ve Spor Öğretmenliği Bölümü</span><br>
+                                <span class="department">Beden Eğitimi ve Spor Öğretmenliği</span>
+                                <strong>E-posta : <span>abdusselam.kose@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/kasim.varli">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/ef70e6cc-4dbf-4fdf-baf8-9aa3e62bc0e6.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abdül Kasım VARLI">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abdül Kasım VARLI, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">İngiliz Dili Eğitimi Anabilim Dalı</p>
+                                <span class="faculty">İngiliz Dili Eğitimi Anabilim Dalı</span><br>
+                                <span class="department">İngilizce Öğretmenliği</span>
+                                <strong>E-posta : <span>kasim.varli@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/abuzer.diskaya">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/3272d265-f01b-4502-b4a4-0ac5ab4a9ae6.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Abuzer DİŞKAYA">
+                            </div>
+                            <div class="media-body">
+                                <strong>Abuzer DİŞKAYA, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">İslami İlimler Fakültesi</p>
+                                <span class="faculty">İslami İlimler Fakültesi</span><br>
+                                <span class="department">Felsefe ve Din Bilimleri</span>
+                                <strong>E-posta : <span>abuzer.diskaya@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/adem.ergul">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/b40aa38d-78a5-4298-a57f-80578caf4849.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Adem ERGÜL">
+                            </div>
+                            <div class="media-body">
+                                <strong>Adem ERGÜL, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">İslami İlimler Fakültesi</p>
+                                <span class="faculty">İslami İlimler Fakültesi</span><br>
+                                <span class="department">Temel İslam Bilimleri Bölümü</span>
+                                <strong>E-posta : <span>adem.ergul@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/adem.sarac">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/5ac56ec2-491e-4e13-ac9a-e19f18ac700b.png" style="height:293px" class="img-fluid w-100" alt="Koordinatör Adem SARAÇ">
+                            </div>
+                            <div class="media-body">
+                                <strong>Adem SARAÇ, Koordinatör</strong>
+                                    <p class="unit">Araştırma Merkezleri</p>
+                                <span class="faculty">Araştırma Merkezleri</span><br>
+                                <span class="department">Mehmet Akif Ersoy Sanat,Tarih, Edebiyat ve Medeniyet Uygulama ve Araştırma Merkezi</span>
+                                <strong>E-posta : <span>adem.sarac@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/adel.abushaar">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/054e5725-225e-4d07-856c-629860ce2a68.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Adil EBUŞAR">
+                            </div>
+                            <div class="media-body">
+                                <strong>Adil EBUŞAR, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">İslami İlimler Fakültesi</p>
+                                <span class="faculty">İslami İlimler Fakültesi</span><br>
+                                <span class="department">Temel İslam Bilimleri Bölümü</span>
+                                <strong>E-posta : <span>adel.abushaar@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/adnan.ari">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/3fce7e92-3cc7-4a83-a73c-a91ccb4516c8.png" style="height:293px" class="img-fluid w-100" alt="Doktor Öğretim Üyesi Adnan ARI">
+                            </div>
+                            <div class="media-body">
+                                <strong>Adnan ARI, Doktor Öğretim Üyesi</strong>
+                                    <p class="unit">Zihin Engelliler Eğitimi Anabilim Dalı</p>
+                                <span class="faculty">Zihin Engelliler Eğitimi Anabilim Dalı</span><br>
+                                <span class="department">Özel Eğitim Öğretmenliği</span>
+                                <strong>E-posta : <span>adnan.ari@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/serra.tumer">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/7d16b0fb-5d13-40fc-a5af-25e47b1acd8b.png" style="height:293px" class="img-fluid w-100" alt="Araştırma Görevlisi Afife Serra TÜMER">
+                            </div>
+                            <div class="media-body">
+                                <strong>Afife Serra TÜMER, Araştırma Görevlisi</strong>
+                                    <p class="unit">Siyaset Bilimi ve Uluslararası İlişkiler Bölümü</p>
+                                <span class="faculty">Siyaset Bilimi ve Uluslararası İlişkiler Bölümü</span><br>
+                                <span class="department">Siyaset Bilimi ve Uluslararası İlişkiler (İngilizce)</span>
+                                <strong>E-posta : <span>serra.tumer@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="item col-md-3">
+                    <a class="media" href="/ahmet.avci">
+                        <div class="row">
+                            <div class="photo">
+                                    <img src="https://kampus.izu.edu.tr/content/pictures/originals/d68016e7-6f18-40a1-b946-863fccca3319.png" style="height:293px" class="img-fluid w-100" alt="Doçent Doktor Ahmet AVCI">
+                            </div>
+                            <div class="media-body">
+                                <strong>Ahmet AVCI, Doçent Doktor</strong>
+                                    <p class="unit">Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı</p>
+                                <span class="faculty">Rehberlik ve Psikolojik Danışmanlık Anabilim Dalı</span><br>
+                                <span class="department">Rehberlik ve Psikolojik Danışmanlık</span>
+                                <strong>E-posta : <span>ahmet.avci@izu.edu.tr</span></strong>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+    </div>
+        <div class="paging">
+    <nav>
+        <ul class="pagination">
+                <li class="page-item active">
+                    <a class="page-link" href="/akademisyenler">1</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=2">2</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=3">3</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=4">4</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=5">5</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=6">6</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=7">7</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=8">8</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=9">...</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="/akademisyenler?pn=29">29</a>
+                </li>
+                <li class="page-item"><a class="page-link" href="/akademisyenler?pn=2">Sonraki</a></li>
+        </ul>
+    </nav>
+</div>
+</section>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <p>İstanbul Sabahattin Zaim Üniversitesi, Türkiye</p>
+                </div>
+                <div class="col-12 col-md-6">
+                    <nav class="nav navbar-expand-lg">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a href="https://www.izu.edu.tr/" class="nav-link" target="_blank">İZÜ Anasayfa</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://www.izu.edu.tr/iletisim" class="nav-link" target="_blank">İletişim</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="/js/theme.min.js?v=bjUDUbmRTewuaG3_uKoP7HrFEPwPEqhgwflVlc_u_s4"></script>
+    
+    <script src="/js/add-javascript.js"></script>
+
+
+</body></html>

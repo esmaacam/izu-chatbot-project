@@ -1,0 +1,71 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=434&abn=27&y=33
+
+İŞLETME ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+ISL 509 ­ Pazarlama Yönetimi 3 0 0 3 7,5
+ISL 513 ­ E­Ticaret 3 0 0 3 7,5
+ISL 517 ­ Marka Yönetimi 3 0 0 3 7,5
+ISL 519 ­ Girişimcilik 3 0 0 3 7,5
+ISL 527 ­ İşletmelerde Yönetim ve Liderlik 3 0 0 3 7,5
+ISL 529 ­ Bilgi Ekonomisi ve Yönetimi 3 0 0 3 7,5
+ISL 533 ­ Tedarik Zinciri Yönetimi 3 0 0 3 7,5
+ISL 535 ­ Finansal Piyasalar ve Kurumlar 3 0 0 3 7,5
+ISL 537 ­ Üretim Yönetimi 3 0 0 3 7,5
+ISL 539 ­ Finansal Yönetim 3 0 0 3 7,5
+ISL 603 ­ Pazarlama Teorisi 3 0 0 3 7,5
+ISL 605 ­ Teknoloji ve Örgüt Kuramı 3 0 0 3 7,5
+ISL 607 ­ Pazarlama Biliminde Teknolojinin Rolü 3 0 0 3 7,5
+ISL 609 ­ Finansta İleri Konular 3 0 0 3 7,5
+ISL 611 ­ Yatırım Analizi 3 0 0 3 7,5
+ISL 615 ­ Stratejik İnsan Kaynakları Yönetimi 3 0 0 3 7,5
+ISL 617 ­ Yönetim Bilişim Sistemleri 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+ISL 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+ISL 502 ­ İnsan Kaynakları Yönetimi 3 0 0 3 7,5
+ISL 504 ­ Proje Yönetimi 3 0 0 3 7,5
+ISL 512 ­ Satış Yönetimi 3 0 0 3 7,5
+ISL 514 ­ Kurumsal Finansman 3 0 0 3 7,5
+ISL 516 ­ Örgütsel Davranış 3 0 0 3 7,5
+ISL 518 ­ Mali Tablolar Analizi 3 0 0 3 7,5
+ISL 604 ­ Örgüt Teorisi 3 0 0 3 7,5
+ISL 606 ­ Örgütler Arası Pazarlama 3 0 0 3 7,5
+ISL 608 ­ Tüketici Davranışları Kuramı 3 0 0 3 7,5
+ISL 610 ­ Uluslararası Finans 3 0 0 3 7,5
+ISL 612 ­ Finans Mühendisliği 3 0 0 3 7,5
+ISL 614 ­ İnsan Kaynakları Yönetimi 3 0 0 3 7,5
+Total 11 0 0 11 3018.06.2026 17:09:03
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ISL 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ISL 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ISL 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 240
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 21 52,5
+Seçmeli Ders Oranı / AKTS Oranı %91,30 %21,88
+Zorunlu Ders Saati / AKTS Toplamı 2 187,5
+Zorunlu Ders Oranı / AKTS Oranı %8,70 %78,13
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

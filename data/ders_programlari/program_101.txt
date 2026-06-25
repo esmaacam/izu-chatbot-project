@@ -1,0 +1,45 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=499&abn=27&y=33
+
+MÜHENDİSLİK YÖNETİMİ ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MHY 505 ­ Mühendislik Yönetimine Giriş 3 0 0 3 7,5
+MHY 507 ­ Üretim Yönetimi 3 0 0 3 7,5
+MHY 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+MHY 509 ­ Mühendislik Ekonomisi 3 0 0 3 7,5
+MHY 511 ­ Proje Yönetimi 3 0 0 3 7,5
+MHY 513 ­ Pazarlama Yönetimi 3 0 0 3 7,5
+MHY 515 ­ Ürün ve Süreç Tasarımı 3 0 0 3 7,5
+MHY 517 ­ İnsan Kaynakları ve Organizasyon Yönetimi 3 0 0 3 7,5
+MHY 519 ­ Yöneticiler İçin Finans 3 0 0 3 7,5
+MHY 521 ­ Yönetim Bilişim Sistemleri 3 0 0 3 7,5
+Total 9 0 0 9 22,5
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MHY 504 ­ Stratejik Yönetim 3 0 0 3 7,5
+MHY 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+MHY 506 ­ Tedarik Zinciri Yönetimi 3 0 0 3 7,5
+MHY 508 ­ Matematiksel Optimizasyon ve Modelleme 3 0 0 3 7,5
+MHY 510 ­ Bilgisayarla Bütünleşik Üretim 3 0 0 3 7,5
+MHY 512 ­ Yönetim ve Maliyet Muhasebesi 3 0 0 3 7,5
+MHY 514 ­ Kalite Yönetimi 3 0 0 3 7,5
+MHY 516 ­ Karar Destek Sistemleri 3 0 0 3 7,5
+MHY 518 ­ Veritabanı Yönetim Sistemleri 3 0 0 3 7,5
+Total 6 0 0 6 15
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+MHY 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+T P L HDS AKTS
+Genel Toplam 15 0 0 15 52,5
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 0 0
+Seçmeli Ders Oranı / AKTS Oranı %0,00 %0,00
+Zorunlu Ders Saati / AKTS Toplamı 15 52,5
+Zorunlu Ders Oranı / AKTS Oranı %100,00 %100,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi18.06.2026 17:11:36

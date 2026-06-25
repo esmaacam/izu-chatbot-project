@@ -1,0 +1,53 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=373&abn=27&y=33
+
+İÇ HASTALIKLARI HEMŞİRELİĞİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+HEM 506 ­ Biyoistatistik 3 0 0 3 7,5
+HEM 507 ­ İç Hastalıkları Hemşireliği I 3 0 0 3 7,5
+HEM 523 ­ Sağlığın Değerlendirilmesi 3 0 0 3 7,5
+HEM 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+HEM 509 ­ Fizyopatoloji 3 0 0 3 7,5
+HEM 511 ­ Tamamlayıcı ve Alternatif Tedaviler 3 0 0 3 7,5
+HEM 513 ­ Geriatri Hemşireliği 3 0 0 3 7,5
+HEM 515 ­ Evde Bakım Hemşireliği 3 0 0 3 7,5
+HEM 517 ­ Rehabilitasyon Hemşireliği 3 0 0 3 7,5
+HEM 519 ­ Sağlığın Geliştirilmesi 3 0 0 3 7,5
+HEM 521 ­ Sağlıkta Güncel Konular 3 0 0 3 7,5
+HEM 522 ­ Semptom Yönetimi 3 0 0 3 7,5
+HEM 524 ­ Kuram­Kavram 3 0 0 3 7,5
+Total 18 0 0 18 45
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+HEM 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+HEM 506 ­ Biyoistatistik 3 0 0 3 7,5
+HEM 508 ­ İç Hastalıkları Hemşireliği II 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+HEM 507 ­ İç Hastalıkları Hemşireliği I 3 0 0 3 7,5
+HEM 510 ­ Onkoloji Hemşireliği 3 0 0 3 7,5
+HEM 512 ­ Diyabet ve Metabolizma Hastalıkları Hemşireliği 3 0 0 3 7,5
+HEM 514 ­ Afetlerde Sağlık Yönetimi ve Hemşirelik 3 0 0 3 7,5
+HEM 516 ­ Yoğun Bakım Hemşireliği 3 0 0 3 7,5
+HEM 518 ­ Obezite ve Yönetimi 3 0 0 3 7,5
+HEM 520 ­ Diyaliz Hemşireliği 3 0 0 3 7,5
+HEM 522 ­ Semptom Yönetimi 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+HEM 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 29 0 0 29 135
+Ders Saat Oranları %100,00 %0,00 %0,0018.06.2026 17:09:55
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 9 22,5
+Seçmeli Ders Oranı / AKTS Oranı %31,03 %16,67
+Zorunlu Ders Saati / AKTS Toplamı 20 112,5
+Zorunlu Ders Oranı / AKTS Oranı %68,97 %83,33
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

@@ -1,0 +1,60 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=443&abn=27&y=33
+
+TARİH VE MEDENİYET ARAŞTIRMALARI ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TMA 509 ­ Siyasetname ve Nasihatname Tarihi 3 0 0 3 7,5
+TMA 513 ­ Batı Medeniyeti Tarihi 3 0 0 3 7,5
+TMA 529 ­ Tarih ve Medeniyet Araştırmalarında Osmanlı Arşivi
+Uygulamaları I3 0 0 3 7,5
+TMA 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+TMA 605 ­ Tarih ve Medeniyet Kuramları 3 0 0 3 7,5
+TMA 609 ­ Uluslararası İlişkilerde Kültürel Değerler 3 0 0 3 7,5
+TMA 610 ­ Şehir ve Medeniyet I 3 0 0 3 7,5
+TMA 611 ­ Medeniyet ve Estetik 3 0 0 3 7,5
+TMA 615 ­ Hukuk ve Medeniyet 3 0 0 3 7,5
+TMA 617 ­ Medeniyetler ve Giyim­Kuşam Tarzları 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+TMA 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+TMA 506 ­ Tarih Yazıcılığı 3 0 0 3 7,5
+TMA 534 ­ Osmanlı Siyaset Düşüncesi 3 0 0 3 7,5
+TMA 606 ­ Dünya Medeniyetleri 3 0 0 3 7,5
+TMA 610 ­ Şehir ve Medeniyet I 3 0 0 3 7,5
+TMA 612 ­ Medeniyet ve İktisat 3 0 0 3 7,5
+TMA 614 ­ Edebiyat ve Medeniyet 3 0 0 3 7,5
+TMA 616 ­ Şehir ve Medeniyet II 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TMA 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TMA 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 3018.06.2026 17:09:31
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TMA 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 240
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 21 52,5
+Seçmeli Ders Oranı / AKTS Oranı %91,30 %21,88
+Zorunlu Ders Saati / AKTS Toplamı 2 187,5
+Zorunlu Ders Oranı / AKTS Oranı %8,70 %78,13
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

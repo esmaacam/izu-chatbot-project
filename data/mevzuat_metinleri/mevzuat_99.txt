@@ -1,0 +1,234 @@
+URL: https://izu.edu.tr/izu-hakkinda/mevzuat/yonergeler/erasmus-programi-yonergesi
+
+Fakülteler
+Enstitü
+Diller Okulu
+Eğitim Merkezleri 
+Eğitim Planlama ve Ortak Dersler Koordinatörlüğü
+Kurullar ve Komisyonlar
+Araştırma Merkezleri
+Projeler Koordinatörlüğü
+Kütüphane
+Etik Kurulu Başvurusu
+İZÜ Yayınları
+Kayıt & Kabul
+İZÜ'de Yaşam
+Staj, İş ve Kariyer
+İZÜ Çözüm Noktaları
+ÖİDB İletişim
+Yaz Okulu
+Aday Öğrenci
+Uluslararası Öğrenciler
+Uluslararası İlişkiler
+Erasmus+
+Bölümler & Programlar
+Kontenjan & Puanlar
+BURSLAR & ÜCRETLER
+Neden İZÜ
+Tarihçe
+Kurumsal Bilgiler
+Strateji ve Yönetim Sistemleri
+Mevzuat
+İletişim
+Üniversitemiz Senatosunun 03.04.2018 tarihli ve 2018/11 sayılı karar ekidir.
+Yeniden Düzenleme-Değişiklik: 30.12.2025 tarihli ve 2025/28 sayılı Senato Kararı.
+Yeniden Düzenleme-Değişiklik-Onay: 04.02.2026 tarihli ve 2026/01 sayılı Mütevelli Heyeti Kararı.
+
+İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ
+ERASMUS+ PROGRAMI UYGULAMA YÖNERGESİ
+ 
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1 - (1) Bu Yönergenin amacı, İstanbul Sabahattin Zaim Üniversitesi’nde Erasmus+ programının işleyişine ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 - (1) Bu Yönerge, Erasmus+ programına katılacak öğrenci, akademik ve idari personel hareketliliğine ilişkin süreci, ilgili birim ve kişilerin görev ve sorumluluklarını kapsar.
+Dayanak
+MADDE 3 - (1) Avrupa Komisyonu tarafından belirlenen ve Erasmus+ Üniversite Beyannamesi’nde yer alan ilkeler, Avrupa Birliği Eğitim ve Gençlik Programları Merkezi Başkanlığı (Türkiye Ulusal Ajansı) tarafından Erasmus+ Uygulama El Kitabı’nda belirlenen şartlar, uluslararası anlaşmalar ve ilgili Yükseköğretim Kurulu mevzuatı bu Yönergenin dayanağını oluşturur.
+Tanımlar
+MADDE 4 – (1) Bu Yönergede geçen;
+a) Avrupa Kredi Transfer Sistemi (AKTS): Öğrencilerin yurtdışında aldıkları ve başarılı oldukları ders kredilerinin, bir yükseköğretim kurumundan diğerine transfer edilmesini sağlayan sistemi,
+b) Başkan: İstanbul Sabahattin Zaim Üniversitesi Mütevelli Heyeti Başkanını,
+c) Başvuru Sistemi (TURNAPortal): Türkiye Ulusal Ajansı tarafından kullanıma açılan ulusal başvuru sistemini,
+ç)Yararlanıcı Modülü (Beneficiary Module): Avrupa Komisyonu’nun Erasmus+ Programı kapsamındaki hareketlilik projelerine yönelik iş birliği, yönetim ve raporlama işlemleri için oluşturulmuş internet platformunu, 
+d) Yararlanıcı Modülü (Beneficiary Module): Avrupa Komisyonu’nun Erasmus+ Programı kapsamındaki hareketlilik projelerine yönelik iş birliği, yönetim ve raporlama işlemleri için oluşturulmuş internet platformunu, 
+e) Birim: Fakülte, Yüksekokul, Enstitü, Bölüm, Anabilim Dalı ve Programı,
+f) (OLS) Online Language Support/Çevrimiçi Dil Desteği: Değişim hakkı kazanan öğrencilerin hareketliliklerine başlarken ve hareketliliği tamamladıktan sonra tamamlamaları zorunlu olan dil eğitimi ve sınavını,
+g) Erasmus Öğrenci Beyannamesi (Erasmus Student Charter): Erasmus hareketliliğine katılacak öğrenciye Üniversiteden ayrılmadan önce verilen ve öğrencinin hak ve yükümlülüklerini belirten belgeyi,
+ğ) Erasmus+ Kurum Koordinatörlüğü: İstanbul Sabahattin Zaim Üniversitesi Erasmus+ Kurum Koordinatörlüğünü, 
+h) Katılım Sertifikası: Hareketlilik faaliyetinin gerçekleştirildiği kurum tarafından verilen, katılımcının hareketlilik başlangıç ve bitiş tarihlerini belirten imzalı ve mühürlü belgeyi,
+ı) Katılımcı Raporu: Hareketlilik dönemi tamamlandığında, öğrencinin/personelin faaliyetine ilişkin özet bilgileri ve katılımcının değerlendirmelerini içeren belgeyi,
+i) Kısa Süreli Doktora Hareketliliği ve Karma Hareketlilik: Doktora öğrencilerinin ve yeni mezunlarının kısa süreli hareketliliklerini, 
+j) Kurumlararası Anlaşma: Üniversite ile Erasmus+ programı kapsamında, Program ve Ortak Ülkelerindeki üniversiteler arasında yapılan öğrenci/personel hareketlilikleri anlaşmasını,
+k) Öğrenim Anlaşması: Öğrenim hareketliliği dönemi başlamadan önce, misafir olunan kurumun öğrenim anlaşmasında yazılı bulunan dersleri sunacağını; öğrencinin bu dersleri uygun bulduğunu ve takip edeceğini; Üniversite’nin alınan dersleri kabul edeceğini taahhüt ettiği, öğrenci, bölüm/anabilim dalı koordinatörü ve gideceği kurum yetkilisi tarafından imzalanmış belgeyi,
+l) Personel Hareketliliği Ders Verme Anlaşması: Hareketliliğe katılacak öğretim üyesinin vereceği ders programını ve öğretim planını gösteren anlaşmayı,
+m) Personel Hareketliliği Eğitim Alma Anlaşması: Hareketliğe katılacak personelin alacağı eğitim programını içeren anlaşmayı,
+n) Rektör: İstanbul Sabahattin Zaim Üniversitesi Rektörünü,
+o) Senato: İstanbul Sabahattin Zaim Üniversitesi Senatosunu,
+ö)Staj Anlaşması: Hareketliliğe katılan öğrencinin gideceği kurumda göreceği staj planını gösteren ve öğrencinin kendisi, bölüm/anabilim dalı koordinatörü ve gideceği kurumun yetkilisi tarafından imzalanan anlaşmayı,
+p) Tam Tanınma: Öğrencinin öğrenim/staj anlaşmasında yer alan derslerin/stajın misafir kurumda alınması ve başarılı olması durumunda, bu derslerin/stajın orijinal isimleri, kredileri, notları ile not durum belgesi ve Diploma Eki’nde de yer alması, ağırlıklı genel not ortalaması hesaplamasına dâhil edilmesi ve dipnotlardan veya Diploma Eki’nde açık bir şekilde, öğrencinin Erasmus+ kapsamında hareketlilikten faydalandığının belirtilmesi, ayrıca not durum belgesi ve Diploma Eki’nde hangi derslerin Erasmus+ kapsamında alındığı anlaşılır bir şekilde gösterilmesini,
+r) Tam Zamanlı Öğrenci: Henüz diploma/derecesinin gerektirdiği çalışmalarını (kredilerini) tamamlamamış ve bir yarıyılda 30 (AKTS) kredisi karşılığı ders yükü olduğu öngörülen öğrenciyi,
+s) Tam Zamanlı Staj: Bir öğrencinin, staj hareketliliği kapsamında hareketliliğini gerçekleştirdiği süre boyunca tam mesai günü esasına göre yapmış olduğu stajı,
+ş)Türkiye Ulusal Ajansı: Dışişleri Bakanlığı Avrupa Birliği Başkanlığı’na bağlı Avrupa Birliği Eğitim ve Gençlik Programları Merkezi Başkanlığını,
+t) Uygulama El Kitabı: Yükseköğretim kurumlarının hareketlilik faaliyetlerini gerçekleştiren birimlerin işleyişine ilişkin kural ve ilkeleri göstermek amacıyla Türkiye Ulusal Ajansı tarafından hazırlanan rehberi,
+u) Üniversite: İstanbul Sabahattin Zaim Üniversitesini, 
+ 
+İfade eder. 
+ 
+İKİNCİ BÖLÜM
+Yetkili Kişi ve Birimler
+Yetkili kişi ve birimler
+MADDE 5 – (1) Yetkili kişi ve birimler şunlardır:
+a) Üniversitenin Erasmus+ projelerinin yasal temsilcisi Rektördür. Kurumlararası anlaşmalar ve Türkiye Ulusal Ajansı ile yapılan hibe sözleşmeleri Rektör tarafından imzalanır.
+b) Üniversite Erasmus+ Kurum Koordinatörü Rektör tarafından tam zamanlı personel arasından atanır. Koordinatör; Üniversite genelinde Erasmus+ programıyla ilgili eşgüdümü sağlar, Üniversite ile öğrenci/personel arasındaki sözleşmeleri, hareketliliğe dair gerekli belgeleri ve Üniversiteye yurt dışından gelen katılımcıların kabul/davet mektuplarını, katılım belgelerini ve öğrenim anlaşmalarını imzalar. Programa ilişkin hareketlilik sürelerini ve sayılarını, mevcut bütçe olanakları doğrultusunda, adil ve şeffaf olarak, mümkün olan azami yararlanıcı sayısını gözeterek belirler. Programa ait hedef bütçeyi planlar, bu kapsamda hareketlilik ve proje başvurularını yapar ve Türkiye Ulusal Ajansı tarafından tahsis edilen yıllık bütçeyi en verimli şekilde kullanır. Programın etkinliğini artırmak amacıyla tanıtım ve bilgilendirme çalışmalarında bulunur. Ayrıca, Üniversite Erasmus+ Komisyonu   kararlarının uygulanmasını sağlar.
+c) Üniversite Erasmus+ Komisyonu: Erasmus+ Programı uygulama sürecinin şeffaf ve adil bir şekilde yürütülmesi için, komisyon üyeleri Rektör tarafından, Üniversite akademik personeli ve koordinatörlük personeli arasından, toplam üye sayısı tek sayı olacak şekilde görevlendirilir. Üniversite Erasmus+ Komisyonu, Erasmus+ Kurum Koordinatörlüğü’nden sorumlu Rektör yardımcısı başkanlığında toplanır. Proje kapsamında hareketlilik yapacak adayların başvurularını Erasmus+ Uygulama El Kitabına göre değerlendirerek şeffaf ve adil bir şekilde seçim yapma yetkisine sahiptir.
+ç) Fakülte/Yüksekokul Erasmus+ Koordinatörü: Fakülte/Yüksekokul Erasmus+ Koordinatörü ilgili Dekan tarafından fakültenin tam zamanlı öğretim üyeleri arasından atanır. Erasmus+ programı ile ilgili gelişmeleri ve alınan kararları Bölümlerin Erasmus+ Koordinatörlerine iletir. Bölüm/Anabilim Dalı Erasmus+ Koordinatörleri arasında eşgüdümü ve alınan kararların işleme konulmasını sağlar.
+d) Enstitü Erasmus+ Koordinatörü: Enstitü Erasmus+ Koordinatörü ilgili Enstitü Müdürü tarafından Üniversitenin tam zamanlı öğretim üyeleri arasından atanır. Enstitü Erasmus+ Koordinatörü, Erasmus+ programı ile ilgili gelişmeleri ve alınan kararları Anabilim Dalı Erasmus+ Koordinatörlerine iletir. Anabilim Dalı Erasmus+ Koordinatörleri arasında eşgüdümü ve alınan kararların işleme konulmasını sağlar.
+e) Bölüm/Anabilim Dalı Erasmus+ Koordinatörü: Bölüm/Anabilim Dalı Erasmus+ Koordinatörü, ilgili Bölüm/Anabilim Dalı Başkanı tarafından bölümün tam zamanlı öğretim elemanları arasından atanır. Bölüm/Anabilim Dalı Erasmus+ Koordinatörü hareketliliğe katılacak öğrencinin ders seçimlerinden ve derslerin tanınmasından yasal olarak sorumlu olan kişidir. Bölüm/Anabilim Dalı Erasmus+ Koordinatörü, Erasmus+ programını ilgili bölümde/anabilim dalında tanıtır, bu program ile ilgili haberleri duyurur, Erasmus+ programından yararlanmak isteyen öğrencilere Üniversite ve ders seçimlerinde danışmanlık yapar ve koordinatörlük tarafından istenilen belgeleri imzalar. Anlaşma yapılacak diğer Üniversite ile ikili anlaşma hazırlığı yapar ve koordinatörlüğe teklif eder. Bölümde/Anabilim Dalında hareketlilik yapacak olan personele danışmanlık yapar. Yurt dışından dönen öğrencilerin hareketlilik döneminde aldıkları derslerin akademik tanınması ile ilgili işlemleri yürütür. Erasmus+ programı ile yurt dışından gelen öğrencilere ders seçimleri ve diğer akademik konularda danışmanlık yapar. 
+f) Bölüm/Anabilim Dalı Erasmus+ Koordinatörü aksi belirtilmedikçe, aynı zamanda lisansüstü programların Anabilim Dalı Erasmus+ Koordinatörüdür. 
+ 
+ÜÇÜNCÜ BÖLÜM
+Yurt Dışına Öğrenim Hareketliliği Kapsamında Giden Öğrencilerin Başvuru ve Değerlendirilme Süreci
+Asgari şartları
+MADDE 6 – (1) Yabancı dil hazırlık sınıfında ve lisans programlarının birinci sınıfında okuyan öğrenciler Erasmus+ programının öğrenim hareketliliğinden faydalanamaz. Erasmus+ programına başvuran öğrencilerin, hareketliliğe katılımı için sağlamaları gereken asgari şartlar şunlardır:
+a) Üniversitenin Lisans/Yüksek Lisans/Doktora programlarının birinde tam zamanlı olarak kayıtlı olmak,
+b) Lisans öğrencileri için en az 2.20/4.00, lisansüstü öğrencileri için en az 2.50/4.00 ağırlıklı genel not ortalamasına sahip olmak,
+c) Üniversite Diller Koordinatörlüğü tarafından yapılacak Erasmus+ Dil Sınavı’na katılmak ve Üniversite Erasmus+ Komisyonu tarafından belirlenen asgari dil puanını almış olmak veya ilgili dil yeterliliğini, ÖSYM’nin Uluslararası Yabancı Dil Sınavları Eşdeğerlik Tablosu’nda yer alan ulusal ya da uluslararası bir sınav sonucu ile belgelemek,
+ç) Kayıtlı bulunulan ya da başvurulacak programın varsa gerekli gördüğü diğer başvuru şartlarını sağlamak,
+Başvuru işlemleri
+MADDE 7 – (1) Başvurularla ilgili detaylı bilgiler, Erasmus+ Kurum Koordinatörlüğü ile Üniversitenin internet sayfalarında ve Üniversitenin duyuru panolarında ilan edilir.
+(2) Öğrenciler başvurularında, en fazla beş üniversite tercihinde bulunabilir. Öğrenciler bu tercihlerini yaparken gitmeyi planladığı üniversitenin ders programını, derslerin içeriğini, öğretim dilini, Avrupa Kredi Transfer Sistemi (AKTS) kredisini ve Bölüm/Anabilim Dalı Erasmus+ Koordinatörlüğünün görüşlerini dikkate alırlar. Öğrencinin hiçbir tercihine yerleşememesi halinde, Erasmus+ Kurum Koordinatörlüğü, kontenjanı uygun başka bir kurum önerebilir. Gidilecek kurumun takvim ve derslerinin uygun olması durumunda Bölüm/Anabilim dalı Erasmus Koordinatörü ve öğrenci onayı alındıktan sonra öğrenci yerleştirmesi yapılır. 
+(3) Öğrenciler, akademik ve dil başarılarını belgelemek için Kampüs Bilgi Sistemi üzerinden temin ettikleri elektronik imzalı not durum belgesi ile TURNAportal üzerinden başvurularını yapar. Not durum belgesinde B2 seviyesinde dil başarısı bulunmayanların ise Üniversite tarafından yapılan Erasmus+ dil sınav sonuç belgesi ile veya ÖSYM’nin Uluslararası Yabancı Dil Sınavları Eşdeğerlik Tablosu’nda yer alan ulusal veya uluslararası Dil Sınavı sonuç belgesi ile başvurusunu tamamlaması gerekir. 
+(4) Gerekli tüm belgeler Başvuru Sistemine yüklenir. Aksi belirtilmediği sürece Koordinatörlüğe belge teslimi yapılmaz. 
+(5) Öğrenciler, Üniversite tercihlerini Başvuru Sisteminde belirtir.
+(6) Başvurusu kabul edilen öğrencilerin yabancı dil düzeyini belirlemede kullanılacak belgeler ve uygulanacak yöntemler, öğrencilere başvuru ilanında detaylıca belirtilir.
+(7) Öğrenci, Erasmus+ sürecinin takibinden sorumludur. İletişim bilgilerinin güncel olması ve tüm işlemlerin öğrenci tarafından takip edilmesi zorunludur.
+(8) Başvuru için gerekli belgeler ilan edilen başvuru süresi içerisinde Başvuru Sistemine yüklenmelidir. Eksik ve yanlış belge ile yapılan başvurular kabul edilmez.
+Süre
+MADDE 8 – (1) Asgari faaliyet süresi her iki hareketlilik türü için de iki aydır (60 gün). İki ay tamamlanmadan programdan ayrılan öğrenciler Türkiye Ulusal Ajansı tarafından kabul edilen mücbir sebepler haricinde aldıkları hibeyi iade ederler. Mücbir sebeple programı öngörülen süreden önce terk etmek zorunda kalan öğrenciler bu durumunu resmi belgeler ile kanıtlamak zorundadır.
+(2) Erasmus+ programına katılım süresi her derece (Lisans, Yüksek Lisans ve Doktora) için en fazla 12 aydır. Bir dereceden diğerine süre aktarılamaz.
+Öğrencilerin üniversitedeki statüleri
+MADDE 9 – (1) Öğrencinin, Erasmus+ programı kapsamında yurt dışında bulunacağı süre, normal öğrenim süresinden sayılır.
+(2) Öğrenci Erasmus+ programı kapsamında yurt dışında bulunacağı süre zarfında öğrenim ücreti ile ilgili sorumluluklarını yerine getirmekle ve ders seçimi yapmaksızın Üniversiteye kaydını yenilemekle yükümlüdür. Öğrenci ilgili yılın öğrenim ücretini akademik takvimde belirtilen tarihlerde öder, ayrıca gidilen kuruma öğrenim ücreti ile ilgili herhangi bir ödeme yapılmaz. Ancak barınma, ulaşım, kişisel harcamalar, beslenme, sağlık sigortası gibi tüm masraflar öğrencinin sorumluluğundadır.
+Değerlendirme ve yerleştirme
+MADDE 10 – (1) Başvurular, Türkiye Ulusal Ajansı tarafından belirlenen ve başvuru sürecinden önce açıklanan güncel kriterlere uygun olarak değerlendirilir.
+(2) Öğrenim hareketliliği başvurularının değerlendirilmesi; ağırlıklı genel not ortalamasının %50’si, yabancı dil puanının %50’si ile Türkiye Ulusal Ajansı tarafından ilgili proje yılı kapsamında Erasmus+ Uygulama El Kitabı’nda yer alan ek değerlendirme ölçütleri esas alınarak yapılır. Avrupa Birliği Program Üyesi olmayan ülkeler ile KA171 Projesi kapsamında yapılan değerlendirmeler de ise öğrencinin ağırlıklı genel not ortalamasının %60’ı, yabancı dil puanın %40’ı ve ilgili proje yılı kapsamında Erasmus+ Uygulama El Kitabında yer alan diğer ek değerlendirme ölçütleri ve ağırlıklı puanlar esas alınarak sıralama yapılır.
+(3) Hareketlilik yapacak öğrencinin, Koordinatörlük tarafından düzenlenecek olan bilgilendirme toplantısına katılması zorunludur. Öğrencinin söz konusu toplantıya katılmaması hâlinde, bilgi eksikliğinden kaynaklanabilecek sorunlardan kendisi sorumlu olur ve sonraki başvurularında program kuralları gereği puanı düşürülür.
+(4) Değerlendirme ve yerleştirme sonuçları Üniversite ve Erasmus+ Kurum Koordinatörlüğü’nün internet sayfasında ve Başvuru Sistemi aracılığı ile duyurulur.
+(5) Yerleştirmeye hak kazanan öğrenciler; öğrenim anlaşması, kabul mektubu, hibe sözleşmesi, Avro hesap bilgileri formu ve vize talep yazısı evraklarını tamamlamak ile yükümlüdür.
+(6) Kabul mektubu, gidilecek üniversitenin Erasmus+ Kurum Koordinatörlüğü’nce onaylı olmalıdır.
+Alınacak dersler, öğrenim anlaşması, not dönüşümü ve akademik tanınma 
+MADDE 11 – (1) Yerleştirilen öğrencilerin karşı kurumda alacakları derslerin seçimi, Öğrenim Anlaşması’nın hazırlanması, not dönüşümü ve akademik tanınmaya ilişkin işlemler; Üniversite Senatosu tarafından onaylanan ve Koordinatörlüğün internet sayfasında yayınlanan İstanbul Sabahattin Zaim Üniversitesi Erasmus+ Programı Öğrenci Öğrenim Hareketliliği Akademik Tanınma Kılavuzu’nda belirlenen esaslara göre yürütülür.
+Hareketlilik yapılacak üniversiteye başvuru ve kabul süreci
+MADDE 12 – (1) Hareketlilik yapılacak üniversite ile yazışmalar Erasmus+ Bölüm/Anabilim Dalı Koordinatörü danışmanlığında öğrenci tarafından yapılır. Hareketlilik yapılacak üniversite tarafından istenilen belgelerin hazırlanması öğrencinin sorumluluğundadır.
+(2) Koordinatörlük, belgelerin hazırlanmasında öğrencilere danışmanlık yapar ve başvuru evraklarını hareketlilik yapılacak üniversitenin ilgili Erasmus birimine son başvuru tarihinden önce iletilmesine yardımcı olur.
+(3) Seyahat ve vize işlemlerinin takibi öğrencinin sorumluluğundadır. Koordinatörlük tarafından onaylanan vize yazısını alan öğrenci, gideceği ülkenin konsolosluğuna başvurarak vize işlemlerini takip eder.
+Hibe sözleşmesi ve hibelerin ödenmesi
+MADDE 13 – (1) Hibe ödemelerinin yapılabilmesi için öğrencilerin Erasmus+ hibe sözleşmesini imzalaması gerekir. Hibe sözleşmesinde yazılı olan toplam hibe ve %80’lik oran program başlangıç ve bitiş tarihlerine göre Yararlanıcı Modülü (Beneficiary Module)  kullanılarak hesaplanır. Program sonunda teslim edilen belgelerdeki fiili tarihlere göre kesinleşen hibe miktarı esastır. Program öncesinde öngörülen toplam hibe tutarının %80’i, öğrencinin Üniversite ile sözleşme imzalamasını müteakip 30 gün içerisinde öğrencinin banka hesabına aktarılır. 
+(2) Hareketliliği tamamlayıp dönen öğrenci, sözleşme uyarınca, karşı üniversitenin not durum belgesini ve varsa yaptığı değişiklikleri de içeren, imzaları tamamlanmış: öğrenim anlaşması, hareketlilik not durum belgesi ve katılım sertifikasını teslim etmekle yükümlüdür. Aynı zamanda öğrencinin OLS sınavının 2 nci aşamasını ve çevrimiçi yapılacak olan Avrupa Komisyonu Katılımcı Raporunu tamamlaması zorunludur. Teknik sebepler haricinde, katılımcı raporunu doldurmayan katılımcıların toplam hibesinden, hibe hesaplamasına esas olan ve gerçekleşen toplam faaliyet gün sayısının %20’si oranında kesinti yapılır. Hareketliliğe katılımı kanıtlayan belgelerin teslim edilmemesi durumunda hareketlilik geçersiz sayılır ve öğrenciye son hibe ödemesi yapılmaz ve başlangıçta ödenen hibe öğrenciden geri alınır. Tam tanınmanın sağlanması ile birlikte öğrencinin tanınma not durum belgesi Erasmus+ Kurum Koordinatörlüğündeki dosyasına kaldırılır. Geriye kalan %20’lik hibe miktarı program tamamlandıktan sonra öğrencilerin teslim ettikleri belgelerde bulunan fiili tarihlere göre yeniden hesaplanır ve buna göre son ödeme gerçekleşir yâda iade istenir.
+ 
+DÖRDÜNCÜ BÖLÜM
+Üniversiteye Öğrenim Hareketliliği Kapsamında Gelen Öğrencilerin Başvuru ve Değerlendirilme Süreci
+Üniversiteye başvuru
+MADDE 14 – (1) Üniversiteye Erasmus+ Öğrenim Hareketliliği kapsamında gelmek isteyen öğrenci, Erasmus+ Kurum Koordinatörlüğü’nün internet sayfasından temin edeceği başvuru formunu eksiksiz doldurarak istenen belgelerle birlikte ilgili ofis aracılığıyla Erasmus+ Kurum Koordinatörlüğüne ilan edilen başvuru tarihleri arasında gönderir.
+Ders seçimi ve öğrenim anlaşması
+MADDE 15 – (1) Gelen öğrenci Üniversite de alacağı dersleri Üniversitenin internet sayfasından ulaşabileceği ders kataloğundan seçer ve öğrenim anlaşmasında alacağı dersleri belirtir. Derslerin açılmaması durumunda öğrenim anlaşmasında değişiklik yapılabilir.
+(2) Bölüm/Anabilim Dalı Erasmus+ Koordinatörleri, Erasmus+ programı kapsamında gelen öğrencilerin ders seçimlerinde yardımcı olur ve öğrencilerin öğrenim anlaşmalarını imzalar.
+(3) Bölüm/Anabilim Dalı Erasmus+ Koordinatörleri, Öğrenim Anlaşmasını Erasmus+ Kurum Koordinatörlüğüne teslim etmekle yükümlüdür.
+Kabul mektubunun gönderilmesi
+MADDE 16 – (1) Başvurular, başvuru formu ve diğer gerekli belgeler alındıktan sonra, öğrencinin akademik durumu dikkate alınarak gerekli durumlarda ilgili Bölüm/Anabilim Dalı tarafından değerlendirilir.
+(2) Başvurusu kabul edilen öğrencilere Koordinatörlük tarafından hazırlanan kabul mektupları gönderilir.
+Gelecek öğrencilerin bilgilendirilmesi ve kayıt işlemleri
+MADDE 17 – (1) Öğrencilere kabul mektubu, vize işlemleri, akademik takvim, uyum programı ve üniversitede yaşam ile ilgili bilgi notları Erasmus+ Kurum Koordinatörlüğü tarafından gönderilir.
+(2) Erasmus+ Kurum Koordinatörlüğü gelen öğrenciye; Üniversite içi diğer idari işlemler ile ulaşım, konaklama vb. işlemlerinde danışmanlık yapar. Gelen öğrencinin kesin kayıt işleminin yapılması, ders kaydının yapılması, e-posta adresi ve Kampüs Bilgi Sistemi şifresinin verilmesi Öğrenci İşleri Daire Başkanlığının sorumluluğundadır.
+Gelen öğrencilere uyum programı
+MADDE 18 – (1) Öğrenciler için Erasmus+ Kurum Koordinatörlüğü tarafından her dönem başında Üniversitenin tanıtımı, çeşitli sosyal, kültürel ve benzeri etkinlikleri içeren bir uyum programı düzenlenir. Bölüm/Anabilim Dalı Erasmus+ Koordinatörleri de Erasmus+ programı kapsamında gelen öğrencilerin Bölüme/Anabilim Dalına uyumları konusunda danışmanlık yapar.
+Üniversitede hareketliliğini tamamlayan öğrencilerle ilgili yapılması gereken işlemler
+MADDE 19 – (1) Üniversitede hareketliliğini tamamlayan öğrenciler ülkelerine dönmeden önce Öğrenci İşleri Daire Başkanlığından ilişiklerini kestirerek not durum belgesini alır. Öğrencinin dönüşü esnasında not durum belgesi hazır değil ise not durum belgesi hazır olduğunda Erasmus+ Kurum Koordinatörlüğü tarafından öğrenciye veya karşı üniversiteye gönderilir. Haraketlilik tamamlandığında, Erasmus+ Kurum Koordinatörlüğü tarafından öğrenciye hareketlilik tarihlerini gösteren bir katılım sertifikası verilir.
+ 
+BEŞİNCİ BÖLÜM
+Erasmus+ Staj Hareketliliği
+Staj hareketliliğinin kapsamı
+MADDE 20 – (1) Staj faaliyeti, öğrencinin öğrenim gördüğü mesleki eğitim alanında yurtdışındaki bir işletmede ya da kurumda uygulamalı iş deneyimi elde etmesidir.
+(2) Staj faaliyetinin öğrencinin diploma programı için zorunlu olması gerekmez. Ancak staj yapılacak sektör, öğrencinin mevcut mesleki eğitim programı ile ilgili bir sektör olmalıdır.
+Öğrencilerin staj hareketliliğinden yararlanma şartları
+MADDE 21 – (1) Yabancı dil hazırlık sınıfında okuyan öğrenciler Erasmus+ programının staj hareketliliğinden faydalanamaz. Erasmus+ öğrenci staj hareketliliğine başvuracak öğrencilerin, katılım için sağlamaları gereken asgari şartlar şunlardır; 
+a) Lisans/Yüksek Lisans/Doktora, programına tam zamanlı olarak kayıtlı olmak,
+b) Lisans öğrencileri için en az 2.20/4.00, lisansüstü öğrencileri için en az 2.50/4.00 ağırlıklı genel not ortalamasına sahip olmak,
+c) Üniversite Diller Koordinatörlüğü tarafından yapılacak Erasmus+ Dil Sınavı’na katılmak ve Üniversite Erasmus+ Komisyonu tarafından belirlenen asgari dil puanını almış olmak veya ilgili dil yeterliliğini, ÖSYM’nin Uluslararası Yabancı Dil Sınavları Eşdeğerlik Tablosu’nda yer alan ulusal ya da uluslararası bir sınav sonucu ile belgelemek,
+ç) Hareketlilikte bulunacak döneme ilişkin staj yapılacak kurumdan alınmış ve  Erasmus+ Bölüm/Anabilim Dalı Koordinatörü tarafından onaylanmış geçerli bir staj kabul mektubuna sahip olmak; (yapılacak olan staj zorunlu staj ise Bölüm Staj Komisyonu onayı ayrıca alınmalı hareketlilik öncesinde Staj Eşdeğerlik Belgesi doldurulurken belirtilmelidir.)
+d) Staj süreleri, yaz stajı için öğrencilerin akademik takvime göre sınavlarının bitişi ile başlar dersler başladığında biter. Hareketliliğe belirtilen tarihten erken başlaması ve geç dönülmesi gibi nedenlerden kaynaklanan sorunlarda sorumluluk öğrenciye aittir. 
+e)Mezuniyet sonrası gerçekleştirilecek staj faaliyetinde öğrenci başvurusunun öğrenci mezun olmadan önce yapılmış olması gerekir. Mezunlar başvuruda bulunamaz. Üniversite, mezuniyet sonrası staj faaliyetini başvuru öncesinde ilan ederek durdurma ve/veya süre kısıtlaması yapma, hareketliliğin gerçekleştirileceği son tarihi belirleme hakkına sahiptir.
+f) Erasmus+ programına katılım süresi her bir öğrenim düzeyi (Lisans, Yüksek Lisans ve Doktora) için 12 aydır. Bir dereceden diğerine süre aktarılmaz.
+(2) Öğrenciler, Koordinatörlük tarafından açılan çağrılara, ilandaki başvuru tarihleri içinde Erasmus+ Bölüm/Anabilim Dalı Koordinatörü tarafından onaylanmış geçerli bir staj kabul belgesi ile başvurur. Yapılacak olan staj zorunlu Staj ise Bölüm Staj Komisyonu onayı ayrıca alınmalı ve hareketlilik öncesinde Staj Eşdeğerlik belgesi doldurulurken belirtilmelidir.
+(3) Tüm belgeler ulusal başvuru sistemine yüklenir. Aksi belirtilmediği sürece Erasmus+ Kurum Koordinatörlüğüne başka yolla belge teslim edilemez. 
+(4) Başvuru belgelerindeki imza, tarih ve kaşe/mühür bölümleri, Erasmus+ Kurum Koordinatörü, Bölüm/Anabilim Dalı Erasmus+ Koordinatörü ve staj yapılacak kurum yetkilisi tarafından onaylanmış olmalıdır.
+(5) Erasmus+ sürecinin takibinden öğrenci sorumludur. İletişim bilgilerinin güncel olması ve tüm işlemlerin öğrenci tarafından takip edilmesi zorunludur.
+Değerlendirme 
+MADDE 22 – (1) Başvurular, Türkiye Ulusal Ajansı tarafından belirlenen ve başvuru sürecinden önce açıklanan kriterlere uygun olarak değerlendirilir.
+(2) Staj hareketliliği başvurularının değerlendirilmesi; ağırlıklı genel not ortalamasının %50’si, yabancı dil puanının %50’si ile Türkiye Ulusal Ajansı tarafından ilgili proje yılı kapsamında Erasmus+ Uygulama El Kitabı’nda yer alan ek değerlendirme ölçütleri esas alınarak yapılır. Avrupa Birliği Program Üyesi olmayan ülkeler ile KA171 Projesi kapsamında yapılan değerlendirmeler de ise öğrencinin ağırlıklı genel not ortalamasının %60’ı, yabancı dil puanın %40’ı ve ilgili proje yılı kapsamında Erasmus+ Uygulama El Kitabında yer alan diğer ek değerlendirme ölçütleri ve ağırlıklı puanlar esas alınarak sıralama yapılır.
+(3) Hareketlilik yapacak öğrencinin, Koordinatörlük tarafından düzenlenecek olan bilgilendirme toplantısına katılması zorunludur. Öğrencinin söz konusu toplantıya katılmaması hâlinde, bilgi eksikliğinden kaynaklanabilecek sorunlardan kendisi sorumlu olur ve program kuralları gereği sonraki başvurularında puanı düşürülür. 
+(4) Değerlendirme ve yerleştirme sonuçları Üniversite Erasmus+ Kurum Koordinatörlüğü internet sayfasında ve ulusal başvuru sisteminde duyurulur.
+(5) Hak kazanan öğrenciler; staj anlaşması, hibe sözleşmesi, avro hesap bilgileri formu ve vize talep yazısı evraklarını tamamlamak ile yükümlüdür.
+Süre
+MADDE 23 – (1) Staj hareketliliğinde asgarî süre iki tam ay, azamî süre 12 tam aydır. Üniversite staj sürelerinde kısıtlama yapma hakkına sahiptir.
+(2) Faaliyet süresinin kesintisiz gerçekleştirilmesi gerekir.
+Staj anlaşması ve tanınma
+MADDE 24 – (1) Staj anlaşması, staj faaliyeti başlamadan önce ilgili Bölüm/Anabilim Dalı Erasmus+ Koordinatörü ile öğrenci ve staj yapılacak kurumdaki yetkili kişi tarafından imzalanır. Üniversite, bu anlaşmada belirtilen iş programında öğrencinin başarılı olması durumunda tam tanınmayı sağlar.
+(2) Staj faaliyetinin öğrencinin müfredat programının bir parçası olarak kabul edilmesi durumunda, staj süresi Üniversite tarafından tam olarak ve AKTS kredileri kullanılarak tanınır.
+(3) Staj faaliyetinin öğrencinin müfredat programında yer almaması veya kabul edilmemesi halinde ise; Üniversite tarafından tanınma işlemi, Erasmus Bölüm/Anabilim Dalı Koordinatörü ile varsa ilgili birim Staj Komisyonu değerlendirmesinden sonra öğrencinin not durum belgesine ERS STJ 100 İsteğe Bağlı Erasmus Stajı kodu ve adıyla "YT" (Yeterli) veya "YZ" (Yetersiz) harf notu işlenerek sağlanır. Yapılan staj faaliyetinin detayları Diploma Eki’nde açıklanır. Tam tanınma ANO ve AGNO hesaplamalarına dahil edilmeyerek mezuniyet için gerekli olan 240 AKTS’ye ilave olacak şekilde gerçekleştirilir.
+Staj hibesi
+MADDE 25 – (1) Üniversite ile  seçilen öğrenciler arasında, azami hibe miktarını içeren Staj Hareketliliği Sözleşmesi imzalanır. Sözleşmede belirlenen azami tutara ilişkin ödemeler iki taksitte yapılır. Hibe sözleşmesinde yazılı olan toplam hibe ve %80’lik oran, stajın başlangıç ve bitiş tarihlerine göre Yararlanıcı Modülü kullanılarak hesaplanır. Program sonunda teslim edilen belgelerdeki fiili tarihlere göre kesinleşen hibe miktarı esastır. 
+(2) Program öncesinde öngörülen toplam hibenin %80’i öğrencilerin hesabına yatırılır. İkinci taksit %20, staj dönemi sonunda, öğrenciye verilen “Katılım Sertifikası” nda ve/veya pasaport giriş/çıkış tarihlerinde yer alan kesin gerçekleşme süresi ve öğrencinin başarı ve sorumluluklarını yerine getirme düzeyi dikkate alınarak yapılır. 
+(3) Türkiye Ulusal Ajansı tarafından kabul edilen teknik sebepler haricinde bir nedenle katılımcı raporunu doldurmayan öğrencilerin, hibe hesabına esas olan toplam gerçekleşen faaliyet gün sayısından %20 oranında kesinti yapılır. Hareketliliğe katılımı kanıtlayan katılım belgelerinin teslim edilmemesi veya faaliyet süresinin 60 günün altında olması durumunda hareketlilik geçersiz sayılır ve öğrenciye kalan hibe ödenmez; başlangıçta ödenen hibe ise öğrenciden geri alınır. 
+(4) Ödemeler avro cinsinden yapılır.
+ 
+ALTINCI BÖLÜM
+Erasmus+ Personel Hareketliliği
+Personel Hareketliliği
+MADDE 26 – (1) Personel Hareketliliği “Erasmus+ Personel Ders Verme Hareketliliği” ve “Erasmus+ Personel Eğitim Alma Hareketliliği” olmak üzere iki türlüdür.
+(2) Erasmus+ Personel Ders Verme Hareketliliği kapsamında, hareketlilik gerçekleştirmek isteyen Üniversite personelinin tam zamanlı olarak istihdam edilmiş olan akademik personel olması gerekir.
+(3) Erasmus+ Personel Eğitim Alma Hareketliliği kapsamında, hareketlilik gerçekleştirmek isteyen Üniversite personelinin tam zamanlı olarak istihdam edilmiş olan akademik veya idari personel olması gerekir.
+(4) Ders verme hareketliliğinden faydalanmak üzere gidilecek olan yükseköğretim kurumu ile Üniversite arasında kurumlararası anlaşma olması gerekmektedir. 
+(5) Erasmus+ personel ders verme ve eğitim alma hareketliğinden yararlanmak için başvuru öncesinde; adaylar Erasmus+ Kurum Koordinatörlüğü tarafından açılan çağrılara, ilandaki başvuru tarihleri içinde başvurur. 
+Erasmus+ personel ders verme ve eğitim alma hareketliğinden yararlanmak isteyen adaylar başvuruyu ulusal başvuru sistemi üzerinden yapmalıdır ve ilan şartlarında belirtilen belgeleri sisteme yüklemelidir.
+Başvuruların değerlendirilmesi
+MADDE 27 – (1) Başvurular Üniversite Erasmus+ Komisyonu tarafından, Türkiye Ulusal Ajansının ilgili proje dönemine ait Erasmus Uygulama El Kitabı’nda belirtilen öncelikler dikkate alınarak belirlenmiş olan kriterler esas alınarak değerlendirilir.
+(2) Ders verme ve eğitim alma hareketliliğinde her başvuru sahibine 20 taban puana Türkiye Ulusal Ajansı tarafından ilan edilen kriterler esas alınarak yapılan değerlendirme sonucunda hesaplanan puanın eklenmesiyle oluşan toplam puan sıralamasına göre önceden belirlenen kontenjan kadar “Asıl” ve “Yedek” personel belirlenir.
+(3) Değerlendirme sonuçları Erasmus+ Kurum Koordinatörlüğü’nün internet sayfasında ve ulusal başvuru sisteminde yayımlanır.
+Personel hareketliliği anlaşması ve katılım sertifikası
+MADDE 28 – (1) Erasmus+ personel eğitim alma ve ders verme anlaşması, hareketliliğe katılacak olan personel tarafından düzenlenerek; personel, Erasmus+ Kurum Koordinatörü ile gidilecek kurumdaki yetkili kişi tarafından imzalanır.
+(2) Personel hareketliliğine katılan katılımcı, hareketlilik sonucunda gidilen kurumdan gerçekleştirdiği faaliyeti onaylayan bir katılım sertifikası alır ve Erasmus+ Kurum Koordinatörlüğü’ne teslim eder.
+Personel hareketliliği süreler ve hibelendirme
+MADDE 29 – (1) Personel hareketliliğinin hibelendirilmesi en fazla beş gün bireysel destek olacak şekilde sınırlandırılmıştır. Bireysel destek hibelerinin hesaplanmasında Yararlanıcı Modülü kullanılır. 
+(2) Yararlanıcı personelin seyahat desteği ödemesi, Erasmus+ Programı çerçevesinde belirlenen seyahat mesafesi hesaplamalarına göre, yerleşik oldukları şehir ile seyahat gerçekleştirilecek şehir arasındaki mesafe göz önüne alınarak yapılır. Seyahat mesafesi, Avrupa Komisyonu internet sayfasında yayında olan mesafe hesaplayıcısı kullanılarak hesaplanır. Mesafe aralığı Yararlanıcı Modülüne girilerek seyahat desteği hesaplanır.
+(3) Erasmus+ personel hareketlilikleri kapsamında, katılımcı personelin hareketlilik süresi ardışık beş gün olarak kurgulanmakta olup mücbir sebepler hariç asgari iki gündür. Personel, hareketlilik süresince faaliyetlerini önceden belirlenen program çerçevesinde ve planlanan toplam süreye uygun şekilde yürütmekle yükümlüdür.
+a) Erasmus+ Personel Ders Verme Hareketliliği kapsamında katılımcı personelin hareketlilik süresi ardışık beş gün içerisinde en az sekiz ders saati olup hareketlilik önceden belirlenen program çerçevesinde yürütülür.
+b) Erasmus+ Personel Eğitim Alma Hareketliliği kapsamında katılımcı personel ardışık beş gün olacak şekilde eğitim faaliyetlerine tam zamanlı olarak katılmakla yükümlüdür; eğitim süresince tüm çalışma gününü faaliyete ayırır. Eğitimler, gidilen kurum ile önceden planlanan program çerçevesinde gerçekleştirilir. 
+(4) Katılımcı personel, Ders Verme ve Eğitim Alma Hareketliliği kapsamında gidilen kurum ile önceden planlanan program çerçevesinde faaliyet süresince gerçekleştirdiği hareketliliği Katılım Sertifikası ile belgelendirmelidir. Aksi takdirde hareketlilik geçersiz sayılır. 
+(5) Erasmus+ Programı çerçevesinde katılımcı ile Erasmus+ Kurum Koordinatörlüğü arasında yurtdışına gitmeden önce ilgili hibe sözleşmesi imzalanır. Bu sözleşme ile yararlanıcının Personel Hareketliliği programına katılacağı kesinleşir. Personelin gidiş öncesi Erasmus+ Kurum Koordinatörlüğü’ne teslim etmesi gereken belgeleri tamamlamasını takiben o yıl için belirlenen miktardaki hibenin %80’lik kısmı hareketlilik öncesi ödenir. Hareketliliğe katılacak personele ödenecek günlük hibe miktarları ve yol ödenekleri Erasmus+ Programı kapsamında ilgili proje için belirlenen miktar ve usulde gerçekleştirilir.
+(6) Hareketlilik hibesinin %80’i, hibe sözleşmesi imzalandıktan itibaren 30 gün içinde ilgili personelin hesabına aktarılır. 
+(7) Hareketlilik süresini tamamlayan akademik veya idari personelin; kabul mektubunu, ders verme/eğitim alma anlaşmasını, imzalı ve mühürlü katılım sertifikasını ve e-Devletten alınan Yurda Giriş/Çıkış Belgesi veya seyahat belgesini Koordinatörlüğe teslim etmesi gerekir.
+(8) Akademik veya idari personel, ders verme veya eğitim alma hareketliliği sonrası Avrupa Komisyonu Katılımcı Raporunu çevrimiçi ortamda düzenlemekle yükümlüdür. Bu yükümlülüğünü yerine getirmeyen akademik veya idari personelin kalan hibe ödemesi yapılmaz.
+(9) Hareketlilik hibesinin kalan %20’si hareketliliğe ilişkin tüm yükümlülükler yerine getirildiğinde ilgili personelin banka hesabına aktarılır.
+(10) Akademik veya idari personel hareketlilik süreleri boyunca görevlendirilerek izinli sayılır.
+ 
+                                                                        YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+İtiraz ve Şikâyet Süreci
+MADDE 30 – (1) Başvuru sürecinde ön değerlendirme sonuçlarına itiraz etmek isteyen öğrenci veya personel, sonuçların ilan edilmesini müteakip, ilan metninde belirtilen itiraz süresi içerisinde Erasmus+ Kurum Koordinatörlüğüne yazılı olarak başvuruda bulunur.
+(2) İtirazlar, aşağıda belirtilen iki kategori altında değerlendirilir:
+a) Değerlendirme sürecine ilişkin olup teknik veya maddi hata niteliğindeki itirazlar, Koordinatörlük tarafından itiraz süresi içerisinde incelenir; gerekli görülmesi hâlinde ön değerlendirme sonuçlarında düzeltme yapılır ve bu düzeltmeler genel değerlendirme listesine yansıtılır.
+b) Değerlendirme dışı unsurlar veya takdir yetkisi gerektiren konulara ilişkin itirazlar, Erasmus+ Komisyonu tarafından incelenir. Komisyonun toplantısı sonucunda alınan karar, başvuru sahibine yazılı olarak bildirilir.
+(3) Öğrenci veya personel, hareketlilik sürecinde ortaya çıkan hibe ödemeleri ve akademik tanınma ile ilgili sorunlar veya karşı kurum ile yaşanan uyuşmazlıklarda Erasmus+ Kurum Koordinatörlüğüne müracaat edebilir. Koordinatörlük, başvuru konusu sorunun çözümünü teminen karşı kurum ve/veya Türkiye Ulusal Ajansı ile gerekli yazışma ve görüşmeleri yürüterek sonuçlandırılır.
+Hüküm bulunmayan haller
+MADDE 31 – (1) Bu Yönergede hüküm bulunmayan hallerde “İstanbul Sabahattin Zaim Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği” ile “ İstanbul Sabahattin Zaim Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği”, Avrupa Birliği Komisyonu “ Erasmus+ Üniversite Beyannamesi”, “Erasmus+ Program Rehberi” ve Avrupa Birliği Eğitim ve Gençlik Programları Merkezi tarafından her sözleşme dönemi için hazırlanan “Erasmus+ Yükseköğretim Kurumları için Erasmus+ Uygulama El Kitabı”nda geçen hükümlere göre işlem yapılır.
+Yürürlük
+MADDE 32 – (1) Bu Yönerge, Senato ve Üniversite Mütevelli Heyeti onayından itibaren yürürlüğe girer.
+Yürütme
+MADDE 33 – (1) Bu Yönerge hükümleri Rektör tarafından yürütülür.
+ 
+ 
+AKADEMİK TANINMA KILAVUZU
+
+MADDE 11'de belirtilen Akademik Tanınma Kılavuzunu indirmek için tıklayınız.

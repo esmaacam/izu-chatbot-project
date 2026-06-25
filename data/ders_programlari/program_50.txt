@@ -1,0 +1,79 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=438&abn=27&y=33
+
+SİYASET BİLİMİ VE ULUSLARARASI İLİŞKİLER ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+KMH 611 ­ Uluslararası Silahlı Çatışma Hukuku ve İnsancıl Hukuk 3 0 0 3 7,5
+KMH 613 ­ Türkiye'nin Uluslararası Hukuk Sorunları 3 0 0 3 7,5
+POL 567 ­ Küresel Siyasette İnsan Hakları 3 0 0 3 7,5
+POL 577 ­ Küresel Politik Ekonomi 3 0 0 3 7,5
+POL 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+POL 617 ­ Toplum ve İktidar 3 0 0 3 7,5
+POL 619 ­ Post­Kolonyal Teori ve Pratik 3 0 0 3 7,5
+POL 621 ­ Avrupa Birliği'nin Genişleme Politikası 3 0 0 3 7,5
+POL 623 ­ Küresel Yönetişim 3 0 0 3 7,5
+POL 625 ­ Çağdaş Balkan Siyaseti 3 0 0 3 7,5
+POL 629 ­ Türk Dış Politikasında Güncel Konular 3 0 0 3 7,5
+POL 631 ­ Devlet Kuramları 3 0 0 3 7,5
+POL 637 ­ Dış Politika Analizi 3 0 0 3 7,5
+POL 639 ­ Barış ve Çatışma 3 0 0 3 7,5
+POL 643 ­ Karşılaştırmalı Demokratikleşme 3 0 0 3 7,5
+POL 645 ­ Karşılaştırmalı Siyaset 3 0 0 3 7,5
+POL 647 ­ Aşırı Sağ ve Otoriterlik 3 0 0 3 7,5
+PSK 615 ­ Siyaset Psikolojisi 3 0 0 3 7,5
+TMA 605 ­ Tarih ve Medeniyet Kuramları 3 0 0 3 7,5
+Total 12 0 0 12 3018.06.2026 17:09:14
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+POL 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+KMH 618 ­ Türkiye’de Anayasa Hareketleri 3 0 0 3 7,5
+POL 538 ­ Demokrasi Teorileri 3 0 0 3 7,5
+POL 542 ­ Toplumsal Cinsiyet ve Siyaset 3 0 0 3 7,5
+POL 544 ­ Çokkültürlülük ve Demokrasi 3 0 0 3 7,5
+POL 546 ­ Din ve Siyaset 3 0 0 3 7,5
+POL 602 ­ Türkiye’de Siyasal Düşünceler 3 0 0 3 7,5
+POL 604 ­ Osmanlı Diplomasisi 3 0 0 3 7,5
+POL 618 ­ Devlet ve Sivil Toplum 3 0 0 3 7,5
+POL 620 ­ Siyaset Teorisi 3 0 0 3 7,5
+POL 622 ­ Avrupa Birliği Yönetişimi'nde Güncel Meseleler 3 0 0 3 7,5
+POL 624 ­ Ortadoğu’da Toplum ve Siyaset 3 0 0 3 7,5
+POL 630 ­ Milliyetçilik, Etnisite ve Kimlik 3 0 0 3 7,5
+POL 636 ­ Küresel Siyasette Avrupa 3 0 0 3 7,5
+POL 638 ­ Nihilizm ve Siyaset 3 0 0 3 7,5
+POL 640 ­ Türkiye Siyaseti 3 0 0 3 7,5
+POL 642 ­ Amerikan Siyaseti 3 0 0 3 7,5
+POL 644 ­ Uluslararası İlişkiler Teorileri Üzerine Okumalar 3 0 0 3 7,5
+POL 646 ­ Küresel Siyasette Güncel Meseleler 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+POL 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+POL 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+POL 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 240
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 21 52,5
+Seçmeli Ders Oranı / AKTS Oranı %91,30 %21,88
+Zorunlu Ders Saati / AKTS Toplamı 2 187,5
+Zorunlu Ders Oranı / AKTS Oranı %8,70 %78,13
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

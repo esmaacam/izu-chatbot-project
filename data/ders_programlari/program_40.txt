@@ -1,0 +1,42 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=471&abn=27&y=33
+
+EĞİTİM YÖNETİMİ ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+EYD 621 ­ Eğitimde Proje Geliştirme 3 0 0 3 7,5
+Total 9 0 0 9 22,5
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+EYD 620 ­ Eğitimde Planlama Modelleri 3 0 0 3 7,5
+EYD 635 ­ Eğitimde Denetleme ve Değerlendirme 3 0 0 3 7,5
+EYD 699 ­ Seminer 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+EYD 602 ­ Çağdaş Liderlik Yaklaşımları 3 0 0 3 7,5
+Total 8 0 0 8 22,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+EYD 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+EYD 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+EYD 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 17 0 0 17 225
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 9 22,5
+Seçmeli Ders Oranı / AKTS Oranı %52,94 %10,00
+Zorunlu Ders Saati / AKTS Toplamı 8 202,5
+Zorunlu Ders Oranı / AKTS Oranı %47,06 %90,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi18.06.2026 17:08:48

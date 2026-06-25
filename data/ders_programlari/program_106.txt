@@ -1,0 +1,59 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=417&abn=27&y=33
+
+TARİH VE MEDENİYET ARAŞTIRMALARI ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+TMA 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TMA 509 ­ Siyasetname ve Nasihatname Tarihi 3 0 0 3 7,5
+TMA 511 ­ Osmanlı Sosyo ­ Ekonomik Tarihi 3 0 0 3 7,5
+TMA 513 ­ Batı Medeniyeti Tarihi 3 0 0 3 7,5
+TMA 522 ­ Kültür ve Medeniyet 3 0 0 3 7,5
+TMA 523 ­ Osmanlı Medeniyeti I 3 0 0 3 7,5
+TMA 525 ­ Doğu­Batı Medeniyetleri Mukayesesi 3 0 0 3 7,5
+TMA 527 ­ Osmanlıca Belge Okumaları I 3 0 0 3 7,5
+TMA 529 ­ Tarih ve Medeniyet Araştırmalarında Osmanlı Arşivi
+Uygulamaları I3 0 0 3 7,5
+TMA 531 ­ İslam Tarihi ve Medeniyeti I 3 0 0 3 7,5
+TMA 533 ­ İslam Siyaset Düşüncesi 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TMA 506 ­ Tarih Yazıcılığı 3 0 0 3 7,5
+TMA 512 ­ Osmanlı Sosyo ­ Ekonomik Tarihi II 3 0 0 3 7,5
+TMA 514 ­ Doğu Medeniyeti Tarihi 3 0 0 3 7,5
+TMA 518 ­ Medeniyetler ve Çok Kültürlülük 3 0 0 3 7,5
+TMA 522 ­ Kültür ve Medeniyet 3 0 0 3 7,5
+TMA 524 ­ Osmanlı Medeniyeti II 3 0 0 3 7,5
+TMA 526 ­ Ortadoğu'da Osmanlı Mirası 3 0 0 3 7,5
+TMA 528  ­ Osmanlı Arşiv Okumaları 3 0 0 3 7,5
+TMA 530 ­ Tarih ve Medeniyet Araştırmalarında Osmanlı Arşivi
+Uygulamaları II3 0 0 3 7,5
+TMA 532 ­ İslam Tarihi ve Medeniyeti II 3 0 0 3 7,5
+TMA 534 ­ Osmanlı Siyaset Düşüncesi 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TMA 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 1518.06.2026 17:11:51
+T P L HDS AKTS
+Genel Toplam 30 0 0 30 90
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 27 67,5
+Seçmeli Ders Oranı / AKTS Oranı %90,00 %75,00
+Zorunlu Ders Saati / AKTS Toplamı 3 22,5
+Zorunlu Ders Oranı / AKTS Oranı %10,00 %25,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

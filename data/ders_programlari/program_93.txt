@@ -1,0 +1,32 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=364&abn=27&y=33
+
+EĞİTİM YÖNETİMİ ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+EYD 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+EYD 504 ­ Eğitim Yönetimi ve Denetimi 3 0 0 3 7,5
+EYD 522 ­ Okul Geliştirme 3 0 0 3 7,5
+EYD 525 ­ Örgütsel Davranış ve Yönetimi 3 0 0 3 7,5
+EYD 542 ­ Eğitim Araştırmaları ve Uygulama 3 0 0 3 7,5
+Total 3 0 0 3 7,5
+T P L HDS AKTS
+Genel Toplam 15 0 0 15 37,5
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 15 37,5
+Seçmeli Ders Oranı / AKTS Oranı %100,00 %100,00
+Zorunlu Ders Saati / AKTS Toplamı 0 0
+Zorunlu Ders Oranı / AKTS Oranı %0,00 %0,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi18.06.2026 17:11:17

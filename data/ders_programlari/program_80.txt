@@ -1,0 +1,71 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=407&abn=27&y=33
+
+SAĞLIK YÖNETİMİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+SAY 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+SAY 511 ­ Mikro Ekonomi 3 0 0 3 7,5
+SAY 513 ­ Hastane Yönetimi 3 0 0 3 7,5
+SAY 515 ­ Epidemiyoloji 3 0 0 3 7,5
+SAY 516 ­ Karşılaştırmalı Sağlık Politikaları 3 0 0 3 7,5
+SAY 517 ­ Karşılaştırmalı Sağlık Sistemleri 3 0 0 3 7,5
+SAY 519 ­ Sağlık Turizmi 3 0 0 3 7,5
+SAY 521 ­ Sağlık Kurumlarında Bilgi Sistemleri 3 0 0 3 7,5
+SAY 523 ­ Sağlık Kurumlarında Lojistik Yönetimi 3 0 0 3 7,5
+SAY 524 ­ Sağlık Kurumlarında Yönetim ve Organizasyon 3 0 0 3 7,5
+SAY 525 ­ İş Sağlığı ve Güvenliği 3 0 0 3 7,5
+SAY 527 ­ Sağlık Kurumlarında Maliyet Muhasebesi 3 0 0 3 7,5
+SAY 529 ­ Sağlık Pazarlaması 3 0 0 3 7,5
+SAY 531 ­ Sağlık Kurumlarında Ekonometri 3 0 0 3 7,5
+SAY 533 ­ Biyoistatistik 3 0 0 3 7,5
+SAY 535 ­ Sağlık Ekonomisi ve Finans 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+SAY 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+SAY 533 ­ Biyoistatistik 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+SAY 510 ­ Sağlık Kurumlarında Finansal Yönetim 3 0 0 3 7,5
+SAY 512 ­ Medikal Muhasebe 3 0 0 3 7,5
+SAY 514 ­ Sağlık Bilişim Teknolojileri 3 0 0 3 7,5
+SAY 516 ­ Karşılaştırmalı Sağlık Politikaları 3 0 0 3 7,5
+SAY 518 ­ Sağlık Kurumlarında Akreditasyon ve Kalite 3 0 0 3 7,5
+SAY 520 ­ Makro Ekonomi 3 0 0 3 7,5
+SAY 522 ­ Sağlık Kurumlarında İnsan Kaynakları Yönetimi 3 0 0 3 7,5
+SAY 524 ­ Sağlık Kurumlarında Yönetim ve Organizasyon 3 0 0 3 7,5
+SAY 526 ­ Sağlık Kurumlarında Stratejik Yönetim 3 0 0 3 7,5
+SAY 528 ­ Sağlık Hukuku 3 0 0 3 7,5
+SAY 529 ­ Sağlık Pazarlaması 3 0 0 3 7,5
+SAY 530 ­ Çok Kriterli Karar Verme ve Sağlık Yönetimi Uygulamaları 3 0 0 3 7,5
+SAY 532 ­ Sağlık Teknolojilerini Değerlendirme 3 0 0 3 7,5
+Total 14 0 0 14 37,518.06.2026 17:10:41
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SAY 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SAY 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SAY 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 26 0 0 26 247,5
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %69,23 %18,18
+Zorunlu Ders Saati / AKTS Toplamı 8 202,5
+Zorunlu Ders Oranı / AKTS Oranı %30,77 %81,82
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

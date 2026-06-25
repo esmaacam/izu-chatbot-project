@@ -1,0 +1,76 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=432&abn=27&y=33
+
+İSLAM EKONOMİSİ VE FİNANSI (İNGİLİZCE) ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+IEC 629 ­ İleri İslam Ekonomisi 3 0 0 3 7,5
+IEC 631 ­ İleri İslam Ticaret Hukuku 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+IEC 609 ­ Uluslararası İktisat 3 0 0 3 7,5
+IEC 625 ­ İslam Hukuk Metodolojisi 3 0 0 3 7,5
+IEC 628 ­ Türkiye Ekonomisi 3 0 0 3 7,5
+IEC 633 ­ Finans ve İş Ortaklıkları Tarihi 3 0 0 3 7,5
+IEC 635 ­ İslam İktisat Düşüncesi ve Tarihi 3 0 0 3 7,5
+IEC 637 ­ Faizsiz Finansal Kurumlar ve Araçlar 3 0 0 3 7,5
+IEC 639 ­ Uluslararası İslami Bankacılık 3 0 0 3 7,5
+IEC 641 ­ Çağdaş Ekonomik Sistemler ve İslam Ekonomisi 3 0 0 3 7,5
+IEC 643 ­ Katılım Bankacılığı Pazarlaması 3 0 0 3 7,5
+IEC 645 ­ İslami Sermaye Piyasaları 3 0 0 3 7,5
+IEC 647 ­ İleri Mikroekonomi 3 0 0 3 7,5
+IEC 649 ­ Tekafül 3 0 0 3 7,5
+IEC 651 ­ Uygulamalı Panel Veri ve Yatay Kesit Ekonometrisi 3 0 0 3 7,5
+IEC 653 ­ İslami Finans Kurumları için Muhasebe 3 0 0 3 7,5
+IEC 655 ­ İslami Sosyal Finans 3 0 0 3 7,5
+IEC 657 ­ İslam Ülkeleri Ekonomileri 3 0 0 3 7,5
+Total 15 0 0 15 37,518.06.2026 17:09:00
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 6
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 6
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 6
+IEC 632 ­ İleri İslami Finans 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+IEC 608 ­ İslam İktisat Analizi 3 0 0 3 6
+IEC 610 ­ Fıkıh ve Çağdaş Finansal İşlemler 3 0 0 3 6
+IEC 614 ­ Türkiye’de Katılım Bankacılığı 3 0 0 3 6
+IEC 616 ­ Kredi Analizi 3 0 0 3 6
+IEC 634 ­ İktisat ve Finans Teorisi 3 0 0 3 7,5
+IEC 636 ­ Finansal Yönetim 3 0 0 3 7,5
+IEC 638 ­ Uluslararası İslami Finans Kurumları 3 0 0 3 7,5
+IEC 640 ­ Kurumsal Finansman 3 0 0 3 6
+IEC 642 ­ İslami Finans Kurumlarında Risk Yönetimi 3 0 0 3 6
+IEC 644 ­ İktisat Politikası 3 0 0 3 6
+IEC 646 ­ Mukayeseli Konvansiyonel ve Faizsiz Bankacılık 3 0 0 3 6
+IEC 648 ­ İleri Makroekonomi 3 0 0 3 6
+IEC 650 ­ Uygulamalı Zaman Serisi Ekonometrisi 3 0 0 3 7,5
+IEC 652 ­ İslam Ekonomisi ve Finansı için Matematiksel Yöntemler 3 0 0 3 6
+IEC 654 ­ İslam Ekonomisi ve Finansında Seçilmiş Konular 3 0 0 3 6
+IEC 656 ­ Yönetimde Sosyal Sorumluluk ve Etik 3 0 0 3 6
+IEC 658 ­ Sürdürülebilir Kalkınma ve Döngüsel Ekonomi 3 0 0 3 6
+Total 12 0 0 12 25,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+IEC 600­1 ­ Doktora Yeterlik Sınavı 0 0 0 0 30
+Total 0 0 0 0 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+IEC 600­2 ­ Doktora Tez Önerisi 0 0 0 0 30
+Total 0 0 0 0 30
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+IEC 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 27 0 0 27 243
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 40,5
+Seçmeli Ders Oranı / AKTS Oranı %66,67 %16,67
+Zorunlu Ders Saati / AKTS Toplamı 9 202,5
+Zorunlu Ders Oranı / AKTS Oranı %33,33 %83,33
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

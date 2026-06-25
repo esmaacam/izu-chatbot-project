@@ -1,0 +1,209 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=97&abn=89&y=33
+
+İÇ MİMARLIK VE ÇEVRE TASARIMI 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Lisans, TYYÇ: 6. Düzey, EQF­LLL: 6. Düzey, QF­EHEA: 1. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BIM 161 ­ Bilgisayar ve Bilişim Teknolojileri 0 0 2 2 2
+ICM 103 ­ Temel Tasarım I 2 2 0 4 5
+MAT 103 ­ Mimarlık Matematiği 3 0 0 3 3
+MIM 101 ­ Bina Bilgisi I 2 0 0 2 3
+MIM 103 ­ Mimari Çizim ve Anlatım Teknikleri 2 2 0 4 4
+MIM 109 ­ Mimari Proje I 2 4 0 6 6
+TUR 101 ­ Türk Dili I 2 0 0 2 3
+YDL 101 ­ İngilizce I 3 0 0 3 4
+Total 16 8 2 26 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ICM 102 ­ Temel Tasarım II 2 2 0 4 5
+ISG 402 ­ İş Sağlığı ve Güvenliği 2 0 0 2 2
+IZU ORT­1 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+MIM 102 ­ Bina Bilgisi II 2 0 0 2 3
+MIM 114 ­ Mimari Proje II 2 6 0 8 8
+MIM 118 ­ Perspektif 2 0 0 2 2
+TUR 102 ­ Türk Dili II 2 0 0 2 3
+YDL 102 ­ İngilizce II 3 0 0 3 4
+Total 17 8 0 25 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 101 ­ Atatürk İlkeleri ve İnkılap Tarihi I 2 0 0 2 3
+ICM 201 ­ Yapı Bilgisi I 2 2 0 4 4
+ICM 205 ­ İnce Yapı Uygulamaları 3 0 0 3 3
+MIM 211 ­ Bilgisayar Destekli Tasarım I ­ CAD I 0 0 2 2 4
+MIM 217 ­ Sanat ve Mimarlık Tarihi­I 2 0 0 2 3
+MIM 219 ­ Mimari Proje III 2 6 0 8 9
+MIM 221 ­ Yapı Malzemeleri I 3 0 0 3 4
+Total 14 8 2 24 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 102 ­ Atatürk İlkeleri ve İnkılap Tarihi II 2 0 0 2 3
+ICM 204 ­ İç Mimarlık Projesi I 2 6 0 8 9
+ICM 210 ­ Yapı Bilgisi II 2 2 0 4 5
+ICM 212 ­ Taşıyıcı Sistem Tasarımı 3 0 0 3 3
+MIM 212 ­ Bilgisayar Destekli Tasarım II ­ CAD II 0 0 2 2 4
+MIM 216 ­ Yapı Malzemeleri II 2 0 0 2 3
+MIM 218 ­ Sanat ve Mimarlık Tarihi­II 2 0 0 2 3
+Total 13 8 2 23 3018.06.2026 17:07:47
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 2 0 0 2 3
+ICM 301 ­ İç Mimarlık Projesi II 2 6 0 8 9
+ICM 303 ­ Mobilya Tasarımı I 2 2 0 4 4
+ICM 307 ­ Staj I 0 0 0 0 6
+ICM 309 ­ Rekreasyon Mekanları 2 0 0 2 4
+ICM 317 ­ Fiziksel Çevre Kontrolü 2 2 0 4 4
+BÖLÜM SEÇMELİ DERSLER
+ICM 305 ­ Mağaza Tasarımı 2 0 0 2 3
+ICM 311 ­ İç Mekanda Işık, Renk ve Doku 2 0 0 2 3
+ICM 313 ­ İç Mimarlıkta Tekstil 2 0 0 2 3
+ICM 315 ­ Güzel Sanatlar Uygulamaları I 2 0 0 2 3
+MIM 313 ­ 3D Modelleme ve Animasyon 0 0 2 2 3
+MIM 317 ­ Modlaj 2 0 0 2 3
+MIM 321 ­ Serbest El Düşünme İfade Teknikleri 2 0 0 2 3
+MIM 335 ­ Mimari Tasarımda Konsept 2 0 0 2 3
+MIM 341 ­ Mimari Atölye Çalışmaları I 2 0 0 2 3
+MIM 345 ­ Mimarlıkta Grafik Tasarım 2 0 0 2 3
+MIM 353 ­ Tasarımda Yeni Nesi Malzemeler 2 0 0 2 3
+Total 10 10 0 20 30
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 2 0 0 2 3
+ICM 302 ­ İç Mimarlık Projesi III 2 6 0 8 9
+ICM 304 ­ Mobilya Tasarımı II 2 2 0 4 4
+ICM 312 ­ Staj II 0 0 0 0 6
+ICM 316 ­ Koruma Teknik ve Yöntemleri 3 0 0 3 4
+ICM 328 ­ İç Mimarlıkta Uygulama Projesi 2 2 0 4 4
+BÖLÜM SEÇMELİ DERSLER
+ICM 300 ­ Çağdaş İç Mekan Analizleri 2 0 0 2 3
+ICM 308 ­ Mobilya Tarihi 2 0 0 2 3
+ICM 310 ­ İç Mekan Ofis Tasarımı 2 0 0 2 3
+ICM 314 ­ 20.yy Sanat Akımları ve İç Mimarlık 2 0 0 2 3
+ICM 320 ­ Güzel Sanatlar Uygulamaları II 2 0 0 2 3
+ICM 322 ­ Tarihi Mekanların Analizi 2 0 0 2 3
+ICM 326 ­ Sinemada İç Mekan 2 0 0 2 3
+MIM 340 ­ Mimari Atölye Çalışmaları II 2 0 0 2 3
+MIM 342 ­ Mimari Maket 2 0 0 2 3
+MIM 348 ­ Çocuk Mekanları 2 0 0 2 3
+MUH 302 ­ Disiplinler Arası Araştırma ve Uygulama Tasarımı 1 0 0 1 3
+Total 11 10 0 21 30
+7. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 2 0 0 2 3
+BLS 002 ­ Bölüm Seçmeli Ders 2 0 0 2 3
+ICM 401 ­ İç Mimarlık Projesi IV 2 6 0 8 12
+ICM 403 ­ İç Mimarlıkta Maliyet Planlaması 2 0 0 2 6
+IZU ORT­2 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+MIM 443 ­ Herkes İçin Tasarım 2 0 0 2 3
+BÖLÜM SEÇMELİ DERSLER
+ICM 407 ­ Sahne Tasarımı 2 0 0 2 3
+ICM 417 ­ Kent Mobilyaları Tasarımı 2 0 0 2 3
+ICM 419 ­ Kamu Alanları İç Mekan Tasarımı 2 0 0 2 3
+ICM 421 ­ Portfolyo Tasarımı 2 0 0 2 3
+ICM 423 ­ Yarının Yaşamı ve Akıllı Binalar 2 0 0 2 3
+ICM 425 ­ Ekoloji ve Sürdürülebilir Tasarım 2 0 0 2 3
+ICM 427 ­ Tasarım Kuram ve Yöntemleri 2 0 0 2 3
+ICM 429 ­ Mobil Mekan Tasarımı 2 0 0 2 3
+MIM 415 ­ Aydınlatma 2 0 0 2 3
+MIM 421 ­ Suluboya Tekniği 2 0 0 2 3
+MIM 427 ­ Mekan Analizi 2 0 0 2 3
+MIM 437 ­ Mimari Ütopya 2 0 0 2 3
+MIM 439 ­ Mimari Atölye Çalışmaları III 2 0 0 2 3
+MIM 441 ­ Mimari Atölye Çalışmaları IV 2 0 0 2 3
+Total 12 6 0 18 30
+8. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 2 0 0 2 3
+BLS 002 ­ Bölüm Seçmeli Ders 2 0 0 2 3
+ICM 402 ­ Bitirme Projesi 0 6 0 6 15
+ICM 410 ­ Meslek Pratiği ve Etik 2 0 0 2 3
+IZU ORT­3 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+IZU ORT­4 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+BÖLÜM SEÇMELİ DERSLER
+ICM 406 ­ Ticari Fuar Sergileme Alanı 2 0 0 2 3
+ICM 412  ­ Mutfak ­ Banyo Tasarımı 2 0 0 2 3
+ICM 414 ­ İç Mimarlıkta Kurumsal Kimlik 2 0 0 2 3
+ICM 416 ­ Malzeme ve Yüzey Bitiş Uygulamaları 2 0 0 2 3
+ICM 438 ­ Sahne Tasarımı II 2 0 0 2 3
+ICM 446 ­ Keşif ve Metraj 2 0 0 2 3
+ICM 448 ­ Tarihi Yapıların Yeniden İşlevlendirilmesi 2 0 0 2 3
+MIM 408 ­ Mimarlık ve Görsel Algı 2 0 0 2 3
+MIM 410 ­ Mekanda Renk 2 0 0 2 3
+MIM 422 ­ Mimari Fotoğraf 2 0 0 2 3
+MIM 434 ­ Türk Evi 2 0 0 2 3
+MIM 436 ­ Mimari Atölye Çalışmaları V 2 0 0 2 3
+MIM 438 ­ Mimari Atölye Çalışmaları VI 2 0 0 2 3
+Total 10 6 0 16 30
+T P L HDS AKTS
+Genel Toplam 103 64 6 173 240
+Ders Saat Oranları %59,54 %36,99 %3,47
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 20 30
+Seçmeli Ders Oranı / AKTS Oranı %11,56 %12,50
+Zorunlu Ders Saati / AKTS Toplamı 153 210
+Zorunlu Ders Oranı / AKTS Oranı %88,44 %87,50
+Üniversite Ortak Seçmeli Dersler
+DERS T P L HDS AKTS
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 005 ­ Etkili ve Sağlıklı İletişim 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 011 ­ Bilim Tarihi ve Felsefesi 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 010 ­ Sağlığı Koruma ve Geliştirme 2 0 0 2 3
+IZU 015 ­ Osmanlı Medeniyeti ve Kurumları 2 0 0 2 3
+IZU 014 ­ Dünya Klasikleri II (Doğu­Batı) 2 0 0 2 3
+IZU 012 ­ İşaret Dili 2 0 0 2 3
+IZU 019 ­ Türk Musikisi 1 2 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 037 ­ Osmanlı Paleografyasına Giriş 2 1 0 3 3
+IZU 039 ­ Osmanlıca Arşiv Uygulamaları 2 2 0 4 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 020 ­ Mantıksal ve Matematiksel Düşünme 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 022 ­ Medya ve İletişim 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 024 ­ Hüsn­i Hat 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 085 ­ Devlet ve Ekonomi 2 0 0 2 3
+IZU 086 ­ Gönüllülük Çalışmaları 2 0 0 2 3
+IZU 087 ­ İleri İşaret Dili 2 0 0 2 3
+IZU 089 ­ Sinema ve Eğitim 3 0 0 3 4
+IZU 090 ­ Türk ve İslam Sanatları Tarihi 2 0 0 2 3
+MTH 001 ­ Fikri ve Sınai Haklar (Patent­Marka­Tasarım) Genel Bakış 1 0 0 1 3
+MTH 002 ­ Kurumsal Sürdürülebilirlik Raporlaması ve TSRS (Türkiye
+Sürdürülebilirlik Raporlama Standartları) Uygulamaları2 0 0 2 3
+MTH 003 ­ Çevresel Sürdürülebilirlik 2 0 0 2 3
+IZU 042 ­ Arapça­A1 3 3 0 6 6
+IZU 043 ­ Arapça­A2 3 3 0 6 6
+IZU 050 ­ İngilizce­A1 3 3 0 6 6
+IZU 051 ­ İngilizce­A2 3 3 0 6 6
+IZU 052 ­ İngilizce­B1 3 3 0 6 6
+IZU 057 ­ Rusça­A1 3 3 0 6 6
+IZU 058 ­ Rusça­A2 3 3 0 6 6
+IZU 065 ­ İspanyolca­A2 3 3 0 6 6
+IZU 029 ­ Türkçe­A2 3 3 0 6 6
+IZU 030 ­ Türkçe­B1 3 3 0 6 6
+IZU 047 ­ Arapça­C1 3 3 0 6 6
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

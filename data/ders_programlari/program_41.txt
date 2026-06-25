@@ -1,0 +1,26 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=427&abn=27&y=33
+
+GIDA MÜHENDİSLİĞİ ­ DOKTORA 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Doktora, TYYÇ: 8. Düzey, EQF­LLL: 8. Düzey, QF­EHEA: 3. Düzey, Temel Alan:  ­
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+GIM 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+GIM 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+8. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+GIM 600­3 ­ Doktora Tezi 0 0 0 0 120
+Total 0 0 0 0 120
+T P L HDS AKTS
+Genel Toplam 0 0 0 0 360
+Ders Saat Oranları NaN NaN NaN
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 0 0
+Seçmeli Ders Oranı / AKTS Oranı NaN %0,00
+Zorunlu Ders Saati / AKTS Toplamı 0 360
+Zorunlu Ders Oranı / AKTS Oranı NaN %100,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi18.06.2026 17:08:50

@@ -1,0 +1,174 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=144&abn=130&y=33
+
+TARİH 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Lisans, TYYÇ: 6. Düzey, EQF­LLL: 6. Düzey, QF­EHEA: 1. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+IZU ORT­1 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+TAR 103 ­ Osmanlı Türkçesi I 2 2 0 4 5
+TAR 105 ­ İslam Tarihine Giriş 3 0 0 3 5
+TAR 107 ­ Tarih Metodolojisi 3 0 0 3 5
+TAR 109 ­ Türk Tarihine Giriş 3 0 0 3 5
+TUR 101 ­ Türk Dili I 2 0 0 2 3
+YDL 101 ­ İngilizce I 3 0 0 3 4
+Total 18 2 0 20 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+IZU ORT­2 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+TAR 104 ­ Osmanlı Türkçesi II 2 2 0 4 5
+TAR 106 ­ Selçuklular Tarihi 3 0 0 3 5
+TAR 108 ­ Eski Çağ Tarihi 3 0 0 3 5
+TAR 110 ­ Batı ve Doğu Roma Tarihi 3 0 0 3 5
+TUR 102 ­ Türk Dili II 2 0 0 2 3
+YDL 102 ­ İngilizce II 3 0 0 3 4
+Total 18 2 0 20 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 101 ­ Atatürk İlkeleri ve İnkılap Tarihi I 2 0 0 2 3
+IZU ORT­3 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+TAR 201 ­ Osmanlı Tarihi I 3 0 0 3 5
+TAR 203 ­ Avrupa Tarihi­I 3 0 0 3 6
+TAR 205 ­ Osmanlı Paleografyası I 2 2 0 4 7
+TAR 207 ­ Siyasi Düşünceler Tarihi 3 0 0 3 6
+Total 15 2 0 17 30
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+ATA 102 ­ Atatürk İlkeleri ve İnkılap Tarihi II 2 0 0 2 3
+IZU ORT­4 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+TAR 202 ­ Osmanlı Tarihi II 3 0 0 3 5
+TAR 204 ­ Avrupa Tarihi­II 3 0 0 3 7
+TAR 206 ­ Osmanlı Paleografyası II 2 2 0 4 7
+TAR 208 ­ Türk İdare Tarihi 3 0 0 3 5
+Total 15 2 0 17 3018.06.2026 17:04:57
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+IZU ORT­5 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+TAR 301 ­ Toplumsal Tarih Araştırmaları 3 0 0 3 5
+TAR 303 ­ Kronikler ve Tarih Yazıcılığı 3 0 0 3 6
+TAR 305 ­ Osmanlı Sosyo­Ekonomik Tarihi­I 3 0 0 3 6
+TAR 307 ­ Türk Modernleşme Tarihi 3 0 0 3 5
+BÖLÜM SEÇMELİ DERSLER
+TAR 309 ­ Akdeniz Tarihi 3 0 0 3 5
+TAR 311 ­ Balkan Tarihi 3 0 0 3 5
+TAR 313 ­ Evliya Çelebi Seyahatnamesi Okumaları 3 0 0 3 5
+TAR 315 ­ Mısır Tarihi 3 0 0 3 5
+TAR 317 ­ İran Tarihi 3 0 0 3 5
+Total 17 0 0 17 30
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+IZU ORT­6 ­ İZÜ Ortak Seçmeli 2 0 0 2 3
+TAR 302 ­ Yerel ve Sözlü Tarih Araştırmaları 3 0 0 3 5
+TAR 304 ­ Rusya Tarihi 3 0 0 3 6
+TAR 306 ­ Amerikan Tarihi 3 0 0 3 5
+TAR 308 ­ Osmanlı Diplomasi Tarihi 3 0 0 3 6
+BÖLÜM SEÇMELİ DERSLER
+TAR 310 ­ Tarihi Coğrafya 3 0 0 3 5
+TAR 312 ­ Avrasya Tarihi 3 0 0 3 5
+TAR 314 ­ Endülüs Tarihi 3 0 0 3 5
+TAR 316 ­ Denizcilik Tarihi 3 0 0 3 5
+TAR 318 ­ Osmanlı Şehircilik Tarihi 3 0 0 3 5
+Total 17 0 0 17 30
+7. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+TAR 403 ­ Çağdaş Dünya Tarihi 3 0 0 3 5
+TAR 405 ­ Arşiv ve Tarih 3 0 0 3 5
+TAR 407 ­ Osmanlı Tarihçeleri­Seçme Metinleri­I 3 0 0 3 5
+TAR 409 ­ Medeniyet Tarihi 3 0 0 3 5
+Tar 421 ­ Lisans Bitirme Çalışması I 2 0 0 2 5
+BÖLÜM SEÇMELİ DERSLER
+SOS 305 ­ Osmanlı Toplumsal ve Siyasal Yapısı 3 0 0 3 5
+TAR 411 ­ Osmanlıda Gündelik Hayat 3 0 0 3 5
+TAR 419 ­ Türk Kültür Tarihi 3 0 0 3 5
+TAR 423 ­ Tarih Araştırmaları Kaynağı Olarak Müzeler 0 3 0 3 5
+Total 17 0 0 17 30
+8. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 5
+TAR 406 ­ Çağdaş Dünya 3 0 0 3 6
+TAR 408 ­ Türk­İslam Medeniyeti Tarihi 3 0 0 3 6
+TAR 410 ­ Osmanlı Tarihçeleri­Seçme Metinler­II 3 0 0 3 5
+TAR 422 ­ Lisans Bitirme Çalışması II 2 0 0 2 8
+BÖLÜM SEÇMELİ DERSLER
+SOS 304 ­ Tarihsel Sosyoloji 3 0 0 3 5
+TAR 412 ­ Osmanlı Şehircilik Tarihi 3 0 0 3 5
+TAR 414 ­ Kadın Tarihi Çalışmaları 3 0 0 3 5
+TAR 416 ­ Osmanlı Arşivi Araştırmaları: Konular ve Kaynaklar 3 0 0 3 5
+TAR 418 ­ Tarih ve Etik 3 0 0 3 5
+Total 14 0 0 14 30
+T P L HDS AKTS
+Genel Toplam 131 8 0 139 240
+Ders Saat Oranları %94,24 %5,76 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 24 38
+Seçmeli Ders Oranı / AKTS Oranı %17,27 %15,83
+Zorunlu Ders Saati / AKTS Toplamı 115 202
+Zorunlu Ders Oranı / AKTS Oranı %82,73 %84,17
+Üniversite Ortak Seçmeli Dersler
+DERS T P L HDS AKTS
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 001 ­ Üniversiteyi Anlamak ve Eleştirel Düşünme 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 003 ­ Sosyal Sorumluluk ve Etik 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 002 ­ Dünya Kenti İstanbul 2 0 0 2 3
+IZU 005 ­ Etkili ve Sağlıklı İletişim 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 007 ­ Estetik ve Sanat 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 004 ­ İslam Düşüncesi ve Medeniyeti 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 006 ­ Matematik ve Doğayı Anlamak 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 009 ­ Siyaset, Ekonomi ve Kültür 2 0 0 2 3
+IZU 011 ­ Bilim Tarihi ve Felsefesi 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 008 ­ Dünya Medeniyetleri ve Küreselleşme 2 0 0 2 3
+IZU 010 ­ Sağlığı Koruma ve Geliştirme 2 0 0 2 3
+IZU 015 ­ Osmanlı Medeniyeti ve Kurumları 2 0 0 2 3
+IZU 014 ­ Dünya Klasikleri II (Doğu­Batı) 2 0 0 2 3
+IZU 012 ­ İşaret Dili 2 0 0 2 3
+IZU 019 ­ Türk Musikisi 1 2 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 036 ­ Osmanlı Türkçesi'ne Giriş 2 1 0 3 3
+IZU 037 ­ Osmanlı Paleografyasına Giriş 2 1 0 3 3
+IZU 039 ­ Osmanlıca Arşiv Uygulamaları 2 2 0 4 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 025 ­ Girişimcilik ve İnovasyon 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 026 ­ Sosyal Girişimcilik 2 0 0 2 3
+IZU 020 ­ Mantıksal ve Matematiksel Düşünme 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 021 ­ Fizik ve Evreni Anlamak 2 0 0 2 3
+IZU 022 ­ Medya ve İletişim 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 023 ­ Mecelle ve Hukuk Düşüncesi 2 0 0 2 3
+IZU 024 ­ Hüsn­i Hat 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 084 ­ Kariyer Planlama 2 0 0 2 3
+IZU 085 ­ Devlet ve Ekonomi 2 0 0 2 3
+IZU 086 ­ Gönüllülük Çalışmaları 2 0 0 2 3
+IZU 087 ­ İleri İşaret Dili 2 0 0 2 3
+IZU 089 ­ Sinema ve Eğitim 3 0 0 3 4
+IZU 090 ­ Türk ve İslam Sanatları Tarihi 2 0 0 2 3
+MTH 001 ­ Fikri ve Sınai Haklar (Patent­Marka­Tasarım) Genel Bakış 1 0 0 1 3
+MTH 002 ­ Kurumsal Sürdürülebilirlik Raporlaması ve TSRS (Türkiye
+Sürdürülebilirlik Raporlama Standartları) Uygulamaları2 0 0 2 3
+MTH 003 ­ Çevresel Sürdürülebilirlik 2 0 0 2 3
+IZU 042 ­ Arapça­A1 3 3 0 6 6
+IZU 043 ­ Arapça­A2 3 3 0 6 6
+IZU 050 ­ İngilizce­A1 3 3 0 6 6
+IZU 051 ­ İngilizce­A2 3 3 0 6 6
+IZU 052 ­ İngilizce­B1 3 3 0 6 6
+IZU 057 ­ Rusça­A1 3 3 0 6 6
+IZU 058 ­ Rusça­A2 3 3 0 6 6
+IZU 065 ­ İspanyolca­A2 3 3 0 6 6
+IZU 029 ­ Türkçe­A2 3 3 0 6 6
+IZU 030 ­ Türkçe­B1 3 3 0 6 6
+IZU 047 ­ Arapça­C1 3 3 0 6 6
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

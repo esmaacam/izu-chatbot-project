@@ -1,0 +1,60 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=414&abn=27&y=33
+
+SOSYOLOJİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+POL 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+POL 515 ­ Türkiye’de Devlet, Siyaset ve Bürokrasi 3 0 0 3 7,5
+SOS 507 ­ Çağdaş Sosyoloji: Kuramlar ve Akımlar 3 0 0 3 7,5
+SOS 509 ­ Türk Sosyologlar ve Eserleri 3 0 0 3 7,5
+SOS 513 ­ Göç ve Bütünleşme Politikaları 3 0 0 3 7,5
+SOS 515 ­ Kültürlerarası İletişim ve Etkileşim 3 0 0 3 7,5
+SOS 517 ­ Toplumsal Değerlerin Oluşumu ve Değişimi 3 0 0 3 7,5
+SOS 521 ­ Toplumsal Değişme ve Türkiye’de Toplumsal Değişme
+Dinamikleri3 0 0 3 7,5
+SOS 523 ­ Yeni Toplumsal ve Dini Hareketler 3 0 0 3 7,5
+SOS 525 ­ Sosyolojik Düşüncenin Evrimi 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+SOS 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+POL 506 ­ Osmanlı Toplumsal ve Siyasal Yapısı 3 0 0 3 7,5
+POL 526 ­ Türkiye'de Sivil Toplum ve Devlet 3 0 0 3 7,5
+SOS 504 ­ Modernleşme ve Türkiye'de Modernleşme Tartışmaları 3 0 0 3 7,5
+SOS 510 ­ Türkiye’nin Siyasal ve Toplumsal Yapısı 3 0 0 3 7,5
+SOS 512 ­ Modern Toplumda Aile ve Türk Aile Yapısı 3 0 0 3 7,5
+SOS 516 ­ Sivil Toplum Üzerine Tartışmalar 3 0 0 3 7,5
+SOS 520 ­ Dini Grupların Sosyolojisi 3 0 0 3 7,5
+SOS 524 ­ Ortadoğu'nun Dini ve Etnik Yapısı 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SOS 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SOS 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 6018.06.2026 17:10:56
+6. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SOS 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 240
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %18,75
+Zorunlu Ders Saati / AKTS Toplamı 5 195
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %81,25
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

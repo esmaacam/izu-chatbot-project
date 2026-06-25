@@ -1,0 +1,73 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=421&abn=27&y=33
+
+TEMEL İSLAM BİLİMLERİ ­ TEZSİZ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+ISF 105 ­ İslam İnanç Esasları 2 0 0 2 3
+ISF 203 ­ Tefsir Tarihi 2 0 0 2 3
+ISF 205 ­ Hadis Tarihi 2 0 0 2 3
+ISF 209 ­ İslam Hukukuna Giriş 2 0 0 2 3
+ISF 331 ­ Tasavvuf I 2 0 0 2 4
+TİB 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TİB 523 ­ Günümüz Fıkıh Problemleri 3 0 0 3 7,5
+TİB 525 ­ İslam Düşüncesinin Kelami Boyutları 3 0 0 3 7,5
+TİB 527 ­ İslamın İrfani Boyutu Tasavvuf 3 0 0 3 7,5
+TİB 529 ­ Günümüzde Hadis Çalışmaları 3 0 0 3 7,5
+TİB 531 ­ Tasavvuf Terminolojisi 3 0 0 3 7,5
+TİB 533 ­ Arapça Tercüme Teknikleri 3 0 0 3 7,5
+TİB 541 ­ Kıraat ve Anlam İlişkisi 3 0 0 3 7,5
+TİB 559 ­ Tasavvuf Terimleri 3 0 0 3 7,5
+TİB 561 ­ Varlık Mertebeleri 3 0 0 3 7,5
+TİB 563 ­ Hadis Metinleri 3 0 0 3 7,5
+TİB 565 ­ Fıkıh Mezhepleri Tarihi 3 0 0 3 7,5
+TİB 567 ­ Hadis Edebiyatı 3 0 0 3 7,5
+TİB 569 ­ Kur’an İlimleri ve Kaynakları 3 0 0 3 7,5
+TİB 571 ­ Tefsir Metinleri 3 0 0 3 7,5
+TİB 573 ­ Tefsir Tarihi 3 0 0 3 7,5
+Total 25 0 0 25 53,518.06.2026 17:11:53
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 006 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 007 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 008 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 009 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 010 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TİB 520 ­ Kur’an İlimleri ve Kaynakları 3 0 0 3 7,5
+TİB 522 ­ Hadis Usulü ve Edebiyatı 3 0 0 3 7,5
+TİB 524 ­ İleri Arapça 3 0 0 3 7,5
+TİB 526 ­ İslami Araştırmalarda Usul 3 0 0 3 7,5
+TİB 528 ­ Günümüz Tefsir Problemleri 3 0 0 3 7,5
+TİB 530 ­ İslam Hukuk Metodolojisi 3 0 0 3 7,5
+TİB 532 ­ Ehli Sünnet Kelamının Temel Meseleleri 3 0 0 3 7,5
+TİB 542 ­ İslam İlimleri Klasik Metin Okumaları 3 0 0 3 7,5
+TİB 552 ­ Klasik Kıraat Metinleri 3 0 0 3 7,5
+TİB 558 ­ Tasavvuf Klasikleri 3 0 0 3 7,5
+TİB 560 ­ Osmanlı Tasavvufu 3 0 0 3 7,5
+TİB 562 ­ Güncel Hadis Meseleleri 3 0 0 3 7,5
+TİB 564 ­ Fıkıh Kaideleri ve Günümüz Problemleri 3 0 0 3 7,5
+TİB 566 ­ Fıkıh Usulü 3 0 0 3 7,5
+TİB 568 ­ Hadis Usulü 3 0 0 3 7,5
+TİB 570 ­ Muamelat Fıkhı 3 0 0 3 7,5
+TİB 572 ­ Tefsir Problemleri 3 0 0 3 7,5
+Total 15 0 0 15 37,5
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TİB 503 ­ Yüksek Lisans Projesi 0 0 0 0 15
+Total 0 0 0 0 15
+T P L HDS AKTS
+Genel Toplam 40 0 0 40 106
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 27 67,5
+Seçmeli Ders Oranı / AKTS Oranı %67,50 %63,68
+Zorunlu Ders Saati / AKTS Toplamı 13 38,5
+Zorunlu Ders Oranı / AKTS Oranı %32,50 %36,32
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

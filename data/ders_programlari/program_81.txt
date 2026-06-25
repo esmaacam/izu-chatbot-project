@@ -1,0 +1,52 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=513&abn=27&y=33
+
+SINIF ÖĞRETMENLİĞİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+SNF 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+SNF 505 ­ İlkokulda Program ve Program Geliştirmede Yeni
+Yaklaşımlar3 0 0 3 7,5
+SNF 506 ­ İlkokul Döneminde Fen Kavramlarının Öğretimi 3 0 0 3 7,5
+SNF 508 ­ Sosyal Bilgiler Öğretiminde Yeni Kavramlar 3 0 0 3 7,5
+SNF 509 ­ Uygulamalı Bireyselleştirilmiş Eğitim Programları 3 0 0 3 7,5
+SNF 511 ­ Çocuklarda Geometrik Düşünme 3 0 0 3 7,5
+SNF 515 ­ Sanat Eğitiminde Yeni Yaklaşımlar 3 0 0 3 7,5
+SNF 517 ­ Başarı Ölçme Teknikleri 3 0 0 3 7,5
+SNF 519 ­ Öğrenme ve Öğretmede Teori ve Modeller 3 0 0 3 7,5
+SNF 525 ­ İlkokulda Karakter Gelişimi ve Eğitsel Uygulamalar 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+SNF 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+SNF 502 ­ İlkokulda Dil ve Okuryazarlık Eğitimi 3 0 0 3 7,5
+SNF 504 ­ İlkokulda Öğrenme­Öğretme Süreci 3 0 0 3 7,5
+SNF 505 ­ İlkokulda Program ve Program Geliştirmede Yeni
+Yaklaşımlar3 0 0 3 7,5
+SNF 506 ­ İlkokul Döneminde Fen Kavramlarının Öğretimi 3 0 0 3 7,5
+SNF 510 ­ İlkokulda Öğretmenlik Sorunları 3 0 0 3 7,5
+SNF 513 ­ Bilim Etiği ve Araştırma Teknikleri 3 0 0 3 7,5
+SNF 520 ­ İstatistik 3 0 0 3 7,5
+Total 11 0 0 11 30
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+SNF 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 120
+Ders Saat Oranları %100,00 %0,00 %0,0018.06.2026 17:10:44
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %37,50
+Zorunlu Ders Saati / AKTS Toplamı 5 75
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %62,50
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

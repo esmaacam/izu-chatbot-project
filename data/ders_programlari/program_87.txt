@@ -1,0 +1,65 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=418&abn=27&y=33
+
+TEMEL İSLAM BİLİMLERİ (ARAPÇA) ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 002 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 003 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+TİB 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+TİB 523 ­ Günümüz Fıkıh Problemleri 3 0 0 3 7,5
+TİB 525 ­ İslam Düşüncesinin Kelami Boyutları 3 0 0 3 7,5
+TİB 527 ­ İslamın İrfani Boyutu Tasavvuf 3 0 0 3 7,5
+TİB 529 ­ Günümüzde Hadis Çalışmaları 3 0 0 3 7,5
+TİB 531 ­ Tasavvuf Terminolojisi 3 0 0 3 7,5
+TİB 533 ­ Arapça Tercüme Teknikleri 3 0 0 3 7,5
+TİB 535 ­ Günümüzde İslam 3 0 0 3 7,5
+TİB 537 ­ Kıraat İhtilafları Tarihi 3 0 0 3 7,5
+TİB 539 ­ Mushaf İmlası 3 0 0 3 7,5
+TİB 541 ­ Kıraat ve Anlam İlişkisi 3 0 0 3 7,5
+TİB 567 ­ Hadis Edebiyatı 3 0 0 3 7,5
+TİB 569 ­ Kur’an İlimleri ve Kaynakları 3 0 0 3 7,5
+TİB 573 ­ Tefsir Tarihi 3 0 0 3 7,5
+Total 12 0 0 12 30
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 004 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 005 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+BLS 006 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+TİB 501 ­ Yüksek Lisans Semineri 2 0 0 2 7,5
+BÖLÜM SEÇMELİ DERSLER
+TİB 520 ­ Kur’an İlimleri ve Kaynakları 3 0 0 3 7,5
+TİB 522 ­ Hadis Usulü ve Edebiyatı 3 0 0 3 7,5
+TİB 524 ­ İleri Arapça 3 0 0 3 7,5
+TİB 526 ­ İslami Araştırmalarda Usul 3 0 0 3 7,5
+TİB 528 ­ Günümüz Tefsir Problemleri 3 0 0 3 7,5
+TİB 530 ­ İslam Hukuk Metodolojisi 3 0 0 3 7,5
+TİB 532 ­ Ehli Sünnet Kelamının Temel Meseleleri 3 0 0 3 7,5
+TİB 534 ­ İslami İlimlerde Usul 3 0 0 3 7,5
+TİB 536 ­ Klasik Metin Okumaları 3 0 0 3 7,5
+TİB 538 ­ Klasik Vücuhat Metinleri 3 0 0 3 7,5
+TİB 540 ­ Kur’an Kıraatinde Vakf ve İbtida 3 0 0 3 7,5
+TİB 542 ­ İslam İlimleri Klasik Metin Okumaları 3 0 0 3 7,5
+TİB 564 ­ Fıkıh Kaideleri ve Günümüz Problemleri 3 0 0 3 7,5
+TİB 570 ­ Muamelat Fıkhı 3 0 0 3 7,5
+Total 11 0 0 11 3018.06.2026 17:11:02
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TİB 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+5. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+TİB 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 23 0 0 23 180
+Ders Saat Oranları %100,00 %0,00 %0,00
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 18 45
+Seçmeli Ders Oranı / AKTS Oranı %78,26 %25,00
+Zorunlu Ders Saati / AKTS Toplamı 5 135
+Zorunlu Ders Oranı / AKTS Oranı %21,74 %75,00
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi

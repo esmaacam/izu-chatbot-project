@@ -1,0 +1,53 @@
+URL: https://www.izu.edu.tr/MyWidgets/FacultyPages/DersPlaniAktsKredileriToPdf.aspx?lang=1055&bot=390&abn=27&y=33
+
+KADIN SAĞLIĞI VE HASTALIKLARI HEMŞİRELİĞİ ­ TEZLİ 
+2025­2026 Ders Planı ve AKTS Kredileri
+DÜZEY: Yüksek Lisans, TYYÇ: 7. Düzey, EQF­LLL: 7. Düzey, QF­EHEA: 2. Düzey, Temel Alan:  ­
+1. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+KSH 507 ­ Perinatoloji Hemşireliği 3 0 0 3 7,5
+KSH 597 ­ Bilimsel Araştırma Yöntemleri 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+KSH 505 ­ Kadın Sağlığı ve Hastalıkları Hemşireliği I 3 0 0 3 7,5
+KSH 509 ­ Tamamlayıcı ve Alternatif Tedaviler 3 0 0 3 7,5
+KSH 511 ­ Sağlığın Geliştirilmesi 3 0 0 3 7,5
+KSH 513 ­ Kavram ve Kuram 3 0 0 3 7,5
+KSH 515 ­ Doğum Öncesi Eğitim ve Ebeveynliğe Hazırlık 3 0 0 3 7,5
+KSH 517 ­ İnfertilite Hemşireliği 3 0 0 3 7,5
+KSH 519 ­ Üreme Sağlığı ve Cinsel Sağlık 3 0 0 3 7,5
+KSH 521 ­ Kadın ve Aile 3 0 0 3 7,5
+KSH 523 ­ Kadın Sağlığına İlişkin Temel Kavramlar 3 0 0 3 7,5
+Total 9 0 0 9 22,5
+2. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+BLS 001 ­ Bölüm Seçmeli Ders 3 0 0 3 7,5
+KSH 504 ­ Biyoistatistik 3 0 0 3 7,5
+BÖLÜM SEÇMELİ DERSLER
+KSH 508 ­ Fizyopatoloji 3 0 0 3 7,5
+KSH 510 ­ Sağlıkta Güncel Konular 3 0 0 3 7,5
+KSH 512 ­ Sağlığın Değerlendirilmesi 3 0 0 3 7,5
+KSH 514 ­ Güvenli Annelik 3 0 0 3 7,5
+KSH 516 ­ Aile Planlaması Danışmanlığı 3 0 0 3 7,5
+KSH 518 ­ Jinekolojik Onkoloji Hemşireliği 3 0 0 3 7,5
+KSH 519 ­ Üreme Sağlığı ve Cinsel Sağlık 3 0 0 3 7,5
+KSH 520 ­ Evliliğe Hazırlanma ve Evlilik Öncesinde Danışma 3 0 0 3 7,5
+KSH 522 ­ Kadın Sağlığında Kanıta Dayalı Uygulamalar 3 0 0 3 7,5
+Total 6 0 0 6 15
+3. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+KSH 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+4. YARIYIL DERS PLANI
+DERS T P L HDS AKTS
+KSH 500 ­ Yüksek Lisans Tezi 0 0 0 0 60
+Total 0 0 0 0 60
+T P L HDS AKTS
+Genel Toplam 15 0 0 15 157,5
+Ders Saat Oranları %100,00 %0,00 %0,0018.06.2026 17:10:11
+HDS AKTS
+Seçmeli Ders Saati / AKTS Toplamı 6 15
+Seçmeli Ders Oranı / AKTS Oranı %40,00 %9,52
+Zorunlu Ders Saati / AKTS Toplamı 9 142,5
+Zorunlu Ders Oranı / AKTS Oranı %60,00 %90,48
+T: Teori,  P: Pratik,   L: Laboratuvar,   HDS: Haftalık Ders Saati,   AKTS: Avrupa Kredi Transfer Sistemi
